@@ -56,7 +56,7 @@ A dynamic, intuitive dashboard providing real-time views of anonymized sentiment
 
 Below is an example of how the PreCog Hyperlocal engine processes streams of data points and transmits them to a BI dashboard powered by Databricks SQL. Leaders and decision-makers can observe daily trends, route attributions, and pick-up/drop-off distributions to tailor on-ground actions swiftly.
 
-![Databricks Dashboard Showing PreCog Insights](docs/images/databricks_dashboard_screenshot.png)
+![Databricks Dashboard Showing PreCog Insights](dash.png)
 
 > *Figure: PreCog AI Community Pulse Dashboard displayed in Databricks SQL*.
 
