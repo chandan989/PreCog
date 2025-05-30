@@ -1,0 +1,501 @@
+timestamp,report_id,report_type,description,location,urgency,issue_category,status,verified,upvotes,priority_score
+2025-05-03 04:25:26.194721,RPT_630461,information,Emergency situation regarding corruption in Kanpur,Kanpur,low,corruption,in_progress,True,87,0.736471060396745
+2025-05-15 05:26:28.601307,RPT_965263,suggestion,Community feedback on water shortage in Ghaziabad,Ghaziabad,high,water shortage,pending,True,75,0.32208259479689294
+2025-05-12 12:56:36.039743,RPT_199703,suggestion,Emergency situation regarding public transport in Visakhapatnam,Visakhapatnam,critical,public transport,pending,True,62,0.017869962094360425
+2025-05-01 14:24:45.179940,RPT_444286,emergency,Emergency situation regarding water shortage in Pune,Pune,high,water shortage,closed,True,28,0.5369301967967124
+2025-05-21 21:32:09.575211,RPT_556820,complaint,Emergency situation regarding monsoon flooding in Indore,Indore,low,monsoon flooding,in_progress,True,29,0.41077059692464934
+2025-05-21 01:00:28.839409,RPT_598330,information,Request for public transport improvement in Kolkata,Kolkata,critical,public transport,resolved,False,83,0.9255854425954347
+2025-05-12 20:07:17.377955,RPT_581003,appreciation,Emergency situation regarding housing in Indore,Indore,low,housing,resolved,True,33,0.415027589916811
+2025-04-30 05:25:17.602230,RPT_141457,information,Community feedback on street lighting in Bhopal,Bhopal,high,street lighting,in_progress,True,85,0.6875797574923308
+2025-05-21 03:36:10.764070,RPT_812487,appreciation,Community feedback on water shortage in Delhi,Delhi,medium,water shortage,in_progress,False,59,0.21103350901047102
+2025-05-05 03:38:56.119305,RPT_331196,complaint,Request for water shortage improvement in Ludhiana,Ludhiana,high,water shortage,closed,True,2,0.5540915386623612
+2025-05-16 08:24:27.137654,RPT_225018,suggestion,Urgent corruption issue reported in Lucknow,Lucknow,critical,corruption,pending,False,71,0.464911222101812
+2025-05-06 08:52:27.411912,RPT_630760,appreciation,Request for education improvement in Bangalore,Bangalore,low,education,closed,False,1,0.05542145766630158
+2025-05-26 23:03:27.164355,RPT_841319,complaint,Request for healthcare improvement in Ahmedabad,Ahmedabad,high,healthcare,resolved,True,40,0.3129991611252231
+2025-05-07 03:19:18.065896,RPT_639068,suggestion,Emergency situation regarding street lighting in Nagpur,Nagpur,critical,street lighting,in_progress,False,97,0.7309424248726784
+2025-05-22 01:45:39.262291,RPT_328045,information,Community feedback on garbage collection in Bhopal,Bhopal,medium,garbage collection,pending,False,50,0.17282071265593613
+2025-05-03 20:39:55.930017,RPT_721057,information,Urgent water shortage issue reported in Delhi,Delhi,medium,water shortage,closed,False,58,0.9515301386796186
+2025-05-18 12:16:13.808920,RPT_192001,complaint,Emergency situation regarding education in Hyderabad,Hyderabad,critical,education,pending,True,97,0.90248309850823
+2025-05-19 08:08:55.471727,RPT_562843,information,Urgent street lighting issue reported in Jaipur,Jaipur,critical,street lighting,in_progress,False,5,0.054631970029928034
+2025-05-08 21:48:32.988880,RPT_245881,complaint,Community feedback on traffic congestion in Thane,Thane,high,traffic congestion,closed,False,72,0.9339828567518713
+2025-04-30 03:53:49.629126,RPT_657624,suggestion,Urgent monsoon flooding issue reported in Kanpur,Kanpur,high,monsoon flooding,closed,True,80,0.5830748500613375
+2025-05-18 05:25:12.819539,RPT_839381,suggestion,Urgent housing issue reported in Delhi,Delhi,critical,housing,in_progress,False,51,0.5487130204622216
+2025-05-09 22:55:57.451908,RPT_564614,information,Request for traffic congestion improvement in Surat,Surat,medium,traffic congestion,closed,False,66,0.2191995788702349
+2025-05-05 00:48:26.083846,RPT_257444,suggestion,Community feedback on traffic congestion in Ghaziabad,Ghaziabad,critical,traffic congestion,pending,False,33,0.2218080373036525
+2025-05-16 23:47:46.859777,RPT_337888,information,Community feedback on water shortage in Bangalore,Bangalore,high,water shortage,closed,False,88,0.21059225695155948
+2025-05-26 04:19:45.195980,RPT_804755,suggestion,Community feedback on power outage in Visakhapatnam,Visakhapatnam,low,power outage,pending,True,97,0.6682671591392595
+2025-05-19 04:56:58.233442,RPT_620699,appreciation,Urgent pollution issue reported in Pimpri-Chinchwad,Pimpri-Chinchwad,low,pollution,resolved,False,100,0.01716478104842256
+2025-05-25 20:55:44.271993,RPT_203998,emergency,Emergency situation regarding monsoon flooding in Chennai,Chennai,high,monsoon flooding,closed,True,94,0.19263202128527224
+2025-05-25 17:43:39.257535,RPT_229675,complaint,Community feedback on monsoon flooding in Ghaziabad,Ghaziabad,medium,monsoon flooding,resolved,True,15,0.9424659093522485
+2025-05-22 03:48:40.154785,RPT_758714,suggestion,Community feedback on garbage collection in Surat,Surat,low,garbage collection,resolved,True,78,0.02387925296504878
+2025-05-07 10:34:37.661997,RPT_590556,appreciation,Emergency situation regarding garbage collection in Kanpur,Kanpur,high,garbage collection,closed,False,74,0.751784902499113
+2025-05-16 14:45:15.177318,RPT_746960,suggestion,Emergency situation regarding water shortage in Vadodara,Vadodara,medium,water shortage,resolved,False,79,0.617997440418435
+2025-05-01 01:04:49.811248,RPT_420034,complaint,Urgent healthcare issue reported in Jaipur,Jaipur,high,healthcare,in_progress,True,38,0.09081790224946962
+2025-05-28 13:25:45.206676,RPT_726464,suggestion,Request for traffic congestion improvement in Ludhiana,Ludhiana,low,traffic congestion,resolved,False,83,0.14661387964326955
+2025-05-09 06:39:01.789303,RPT_287301,emergency,Emergency situation regarding education in Visakhapatnam,Visakhapatnam,medium,education,in_progress,False,50,0.18555305742712458
+2025-05-22 04:18:50.362803,RPT_986651,complaint,Community feedback on traffic congestion in Chennai,Chennai,critical,traffic congestion,in_progress,True,62,0.8639342716374523
+2025-05-09 17:03:48.140664,RPT_331984,appreciation,Request for public transport improvement in Thane,Thane,critical,public transport,resolved,True,90,0.32098086328185294
+2025-05-04 06:34:51.242672,RPT_201099,suggestion,Emergency situation regarding housing in Bangalore,Bangalore,high,housing,pending,True,72,0.9421390944442912
+2025-05-16 03:35:06.916341,RPT_159518,appreciation,Emergency situation regarding public transport in Vadodara,Vadodara,critical,public transport,resolved,False,71,0.2970722274316827
+2025-04-30 11:55:30.358322,RPT_375343,appreciation,Request for garbage collection improvement in Agra,Agra,medium,garbage collection,resolved,True,43,0.4007110237288488
+2025-05-14 07:20:15.804153,RPT_977233,complaint,Emergency situation regarding healthcare in Jaipur,Jaipur,high,healthcare,pending,True,99,0.9918895129239296
+2025-05-07 08:38:39.829944,RPT_482182,suggestion,Request for education improvement in Ghaziabad,Ghaziabad,high,education,resolved,False,6,0.22302997827628646
+2025-05-21 13:06:28.430529,RPT_896436,emergency,Community feedback on traffic congestion in Jaipur,Jaipur,high,traffic congestion,resolved,False,98,0.27940241333492766
+2025-05-27 06:38:52.796470,RPT_816230,appreciation,Community feedback on pollution in Chennai,Chennai,medium,pollution,closed,True,24,0.6673564023902308
+2025-05-29 05:38:54.504134,RPT_302492,suggestion,Urgent monsoon flooding issue reported in Nagpur,Nagpur,high,monsoon flooding,in_progress,True,66,0.8913625950692166
+2025-05-27 00:09:57.580913,RPT_452095,suggestion,Request for pollution improvement in Bhopal,Bhopal,medium,pollution,in_progress,True,46,0.2338840113790328
+2025-05-03 17:20:25.775305,RPT_356613,information,Community feedback on water shortage in Agra,Agra,high,water shortage,resolved,True,47,0.6551187623407438
+2025-05-05 01:39:20.289788,RPT_652210,emergency,Emergency situation regarding housing in Pune,Pune,high,housing,pending,False,27,0.1497326557914147
+2025-05-25 16:26:35.097644,RPT_783731,emergency,Emergency situation regarding corruption in Indore,Indore,high,corruption,pending,True,5,0.3944270644476262
+2025-05-05 11:11:04.360779,RPT_425255,information,Emergency situation regarding public transport in Agra,Agra,medium,public transport,resolved,True,99,0.7373989669002528
+2025-05-21 15:04:12.157306,RPT_734266,appreciation,Request for pollution improvement in Bangalore,Bangalore,high,pollution,in_progress,False,98,0.3575824190309068
+2025-05-01 04:36:11.198812,RPT_214679,emergency,Urgent education issue reported in Vadodara,Vadodara,critical,education,resolved,False,35,0.9808694591553397
+2025-05-12 08:45:10.336867,RPT_322727,information,Emergency situation regarding traffic congestion in Nashik,Nashik,low,traffic congestion,closed,True,30,0.298725318282393
+2025-05-29 06:40:34.508024,RPT_636018,complaint,Urgent healthcare issue reported in Nagpur,Nagpur,critical,healthcare,pending,False,96,0.3331648126629433
+2025-05-20 21:28:45.034660,RPT_414031,complaint,Emergency situation regarding pollution in Visakhapatnam,Visakhapatnam,high,pollution,resolved,True,63,0.8679530382983046
+2025-05-13 16:51:17.928562,RPT_852633,suggestion,Urgent street lighting issue reported in Delhi,Delhi,medium,street lighting,resolved,False,8,0.25203722893810265
+2025-05-29 11:17:28.583903,RPT_354478,complaint,Emergency situation regarding pollution in Pimpri-Chinchwad,Pimpri-Chinchwad,high,pollution,in_progress,True,1,0.5314303943652625
+2025-05-07 07:00:07.075134,RPT_475270,suggestion,Urgent pollution issue reported in Visakhapatnam,Visakhapatnam,high,pollution,pending,False,64,0.40813723690766546
+2025-05-09 04:00:35.256413,RPT_805451,appreciation,Request for public transport improvement in Vadodara,Vadodara,medium,public transport,closed,False,7,0.34867814064528624
+2025-05-20 18:47:02.837206,RPT_469807,information,Urgent road repair issue reported in Surat,Surat,high,road repair,in_progress,True,19,0.3768422420879104
+2025-05-04 02:57:19.868319,RPT_460058,information,Community feedback on power outage in Bangalore,Bangalore,critical,power outage,closed,True,49,0.33340330980669386
+2025-05-02 18:48:33.242756,RPT_218943,appreciation,Urgent healthcare issue reported in Thane,Thane,high,healthcare,closed,False,75,0.10292369603895812
+2025-05-08 23:36:25.725378,RPT_938903,information,Community feedback on water shortage in Thane,Thane,high,water shortage,pending,True,47,0.5779300118227226
+2025-05-17 21:53:55.408272,RPT_300689,information,Request for corruption improvement in Ahmedabad,Ahmedabad,medium,corruption,closed,True,13,0.2038279995026866
+2025-05-09 15:35:47.059785,RPT_832216,information,Emergency situation regarding traffic congestion in Agra,Agra,low,traffic congestion,closed,False,24,0.5833516084230326
+2025-05-16 14:55:03.516336,RPT_999823,complaint,Request for monsoon flooding improvement in Jaipur,Jaipur,critical,monsoon flooding,in_progress,False,78,0.9581765473734268
+2025-05-21 21:48:44.470283,RPT_732322,appreciation,Request for street lighting improvement in Kanpur,Kanpur,low,street lighting,in_progress,False,85,0.7729899773335294
+2025-05-09 09:21:21.958818,RPT_556734,complaint,Request for corruption improvement in Ghaziabad,Ghaziabad,low,corruption,resolved,False,71,0.3949266644818681
+2025-05-18 23:33:25.652522,RPT_578127,suggestion,Community feedback on healthcare in Pimpri-Chinchwad,Pimpri-Chinchwad,low,healthcare,resolved,True,69,0.9577030168025649
+2025-05-06 18:12:42.725862,RPT_881779,suggestion,Emergency situation regarding traffic congestion in Delhi,Delhi,low,traffic congestion,pending,False,92,0.720865660679833
+2025-05-09 02:46:59.633802,RPT_614791,information,Request for education improvement in Nashik,Nashik,low,education,resolved,True,9,0.8034996130048596
+2025-05-04 20:06:28.357184,RPT_381508,emergency,Emergency situation regarding street lighting in Kanpur,Kanpur,high,street lighting,in_progress,False,26,0.9989152510513759
+2025-05-23 10:47:10.787137,RPT_521370,appreciation,Emergency situation regarding education in Patna,Patna,high,education,in_progress,True,87,0.031129227690510075
+2025-05-06 17:06:34.527511,RPT_777310,complaint,Request for corruption improvement in Thane,Thane,critical,corruption,pending,True,82,0.8948440922443052
+2025-05-26 06:59:42.875520,RPT_166934,emergency,Urgent corruption issue reported in Delhi,Delhi,medium,corruption,resolved,False,45,0.3307625646561523
+2025-05-19 19:21:29.709349,RPT_704327,appreciation,Request for water shortage improvement in Visakhapatnam,Visakhapatnam,high,water shortage,pending,False,20,0.30014119333677447
+2025-05-18 10:56:39.967507,RPT_405536,information,Urgent public transport issue reported in Pimpri-Chinchwad,Pimpri-Chinchwad,low,public transport,closed,True,70,0.6455705550875648
+2025-05-20 08:08:21.361476,RPT_322779,emergency,Community feedback on corruption in Ludhiana,Ludhiana,medium,corruption,pending,False,14,0.6714212972049423
+2025-05-20 16:29:21.755913,RPT_435495,emergency,Emergency situation regarding education in Mumbai,Mumbai,medium,education,pending,False,99,0.4616103873269095
+2025-05-10 06:48:18.514902,RPT_122284,suggestion,Emergency situation regarding water shortage in Indore,Indore,low,water shortage,resolved,False,78,0.006232051871682853
+2025-05-15 07:42:26.020799,RPT_979329,information,Community feedback on street lighting in Bangalore,Bangalore,medium,street lighting,resolved,True,94,0.013454502721154338
+2025-05-15 20:07:17.202891,RPT_652612,emergency,Community feedback on housing in Mumbai,Mumbai,critical,housing,resolved,True,71,0.5868220967796592
+2025-05-04 05:33:50.540436,RPT_670271,information,Request for healthcare improvement in Indore,Indore,low,healthcare,closed,False,58,0.2014371584831104
+2025-05-14 02:24:12.266090,RPT_648808,suggestion,Urgent pollution issue reported in Chennai,Chennai,medium,pollution,resolved,False,51,0.25854539511037
+2025-05-14 12:11:28.866943,RPT_763892,information,Urgent traffic congestion issue reported in Ludhiana,Ludhiana,high,traffic congestion,in_progress,False,92,0.3502451270603688
+2025-05-08 09:06:19.921455,RPT_997429,information,Request for garbage collection improvement in Indore,Indore,critical,garbage collection,resolved,False,73,0.24137796209522056
+2025-05-02 20:14:31.311049,RPT_497620,appreciation,Emergency situation regarding pollution in Pimpri-Chinchwad,Pimpri-Chinchwad,high,pollution,pending,True,1,0.3792258979085663
+2025-04-30 08:27:26.608333,RPT_928795,suggestion,Request for public transport improvement in Ahmedabad,Ahmedabad,medium,public transport,closed,False,8,0.14137770213490852
+2025-04-30 21:43:40.002234,RPT_398757,suggestion,Emergency situation regarding monsoon flooding in Pune,Pune,high,monsoon flooding,in_progress,True,88,0.981354114299544
+2025-05-20 21:40:09.789268,RPT_993607,information,Emergency situation regarding road repair in Nagpur,Nagpur,high,road repair,in_progress,False,84,0.4458877729437706
+2025-05-24 18:11:57.193422,RPT_899519,appreciation,Request for education improvement in Pimpri-Chinchwad,Pimpri-Chinchwad,medium,education,pending,False,2,0.13096340125103978
+2025-05-29 03:24:38.301151,RPT_975155,emergency,Emergency situation regarding power outage in Lucknow,Lucknow,critical,power outage,closed,False,94,0.3651299264032448
+2025-04-30 20:09:58.921595,RPT_468856,information,Community feedback on traffic congestion in Bangalore,Bangalore,high,traffic congestion,closed,False,20,0.3517456700495716
+2025-05-28 07:39:52.966501,RPT_189147,appreciation,Urgent traffic congestion issue reported in Jaipur,Jaipur,critical,traffic congestion,closed,False,82,0.6904179847605353
+2025-05-25 06:35:00.627264,RPT_169116,suggestion,Request for water shortage improvement in Agra,Agra,critical,water shortage,closed,False,36,0.5223169155236241
+2025-05-21 01:46:55.582396,RPT_435547,appreciation,Emergency situation regarding healthcare in Patna,Patna,medium,healthcare,pending,False,69,0.852571142736852
+2025-05-16 11:46:28.461488,RPT_981671,information,Request for traffic congestion improvement in Bhopal,Bhopal,low,traffic congestion,pending,False,42,0.04732942736585832
+2025-05-28 11:57:06.556163,RPT_963477,suggestion,Urgent road repair issue reported in Indore,Indore,high,road repair,in_progress,False,90,0.3433429924094036
+2025-05-13 03:13:42.889127,RPT_755131,suggestion,Urgent power outage issue reported in Surat,Surat,medium,power outage,closed,True,3,0.805488967056897
+2025-05-19 19:44:29.454602,RPT_500658,appreciation,Request for healthcare improvement in Kanpur,Kanpur,medium,healthcare,resolved,False,82,0.18461085057028037
+2025-05-25 14:49:36.223105,RPT_128617,emergency,Community feedback on healthcare in Hyderabad,Hyderabad,medium,healthcare,in_progress,True,74,0.15040867155020454
+2025-05-14 23:53:07.938004,RPT_908852,suggestion,Community feedback on road repair in Ghaziabad,Ghaziabad,high,road repair,in_progress,True,100,0.8945269992861765
+2025-05-11 00:01:33.344112,RPT_502321,appreciation,Request for pollution improvement in Vadodara,Vadodara,medium,pollution,in_progress,True,76,0.3708173743397035
+2025-05-18 00:26:30.895860,RPT_575228,suggestion,Urgent traffic congestion issue reported in Agra,Agra,low,traffic congestion,closed,False,40,0.624232173393025
+2025-05-18 09:19:28.590215,RPT_323906,suggestion,Request for traffic congestion improvement in Chennai,Chennai,medium,traffic congestion,closed,False,25,0.17318075196108762
+2025-05-10 08:27:41.211929,RPT_164908,appreciation,Community feedback on healthcare in Chennai,Chennai,high,healthcare,pending,False,11,0.12224781355355563
+2025-05-08 02:10:39.430828,RPT_825534,information,Request for road repair improvement in Delhi,Delhi,medium,road repair,in_progress,True,46,0.576382283001131
+2025-05-16 17:05:29.380453,RPT_104841,suggestion,Community feedback on street lighting in Mumbai,Mumbai,high,street lighting,closed,True,64,0.6777302488964508
+2025-05-08 00:57:39.104887,RPT_869937,suggestion,Request for garbage collection improvement in Visakhapatnam,Visakhapatnam,critical,garbage collection,closed,False,70,0.4025991375552401
+2025-05-08 10:09:14.276645,RPT_218638,suggestion,Emergency situation regarding road repair in Hyderabad,Hyderabad,critical,road repair,resolved,False,2,0.1257887751477369
+2025-05-13 16:52:12.124162,RPT_559633,appreciation,Emergency situation regarding education in Vadodara,Vadodara,low,education,in_progress,True,77,0.2204538721965692
+2025-05-19 21:45:31.575160,RPT_759286,complaint,Urgent healthcare issue reported in Mumbai,Mumbai,low,healthcare,closed,True,91,0.6765738153703102
+2025-04-30 08:24:11.584994,RPT_651024,information,Emergency situation regarding power outage in Chennai,Chennai,low,power outage,resolved,True,50,0.761356371463951
+2025-05-07 09:04:01.371508,RPT_572492,information,Community feedback on pollution in Patna,Patna,high,pollution,in_progress,True,81,0.6220816318847507
+2025-05-04 18:27:10.043500,RPT_913629,complaint,Community feedback on housing in Chennai,Chennai,medium,housing,resolved,False,79,0.9833713650544079
+2025-05-16 01:18:34.586389,RPT_271951,suggestion,Request for street lighting improvement in Thane,Thane,high,street lighting,closed,True,97,0.2629743212248504
+2025-05-29 16:14:39.454693,RPT_470755,information,Request for housing improvement in Visakhapatnam,Visakhapatnam,medium,housing,closed,True,32,0.19274592920746825
+2025-05-21 16:47:27.136799,RPT_781831,appreciation,Emergency situation regarding pollution in Kanpur,Kanpur,medium,pollution,pending,False,46,0.6357616572691633
+2025-05-26 06:50:10.702860,RPT_221258,complaint,Emergency situation regarding pollution in Pune,Pune,low,pollution,pending,True,76,0.4995572097418304
+2025-05-14 12:12:24.838115,RPT_130391,appreciation,Emergency situation regarding education in Vadodara,Vadodara,high,education,in_progress,True,31,0.5666279926670984
+2025-05-05 04:54:09.527817,RPT_961969,information,Community feedback on housing in Agra,Agra,low,housing,pending,False,87,0.9187334598325945
+2025-05-28 22:59:38.620132,RPT_308712,suggestion,Emergency situation regarding power outage in Mumbai,Mumbai,critical,power outage,in_progress,True,50,0.23539947816064366
+2025-05-07 04:03:08.364158,RPT_679938,emergency,Emergency situation regarding power outage in Vadodara,Vadodara,low,power outage,in_progress,False,28,0.2980144302603498
+2025-05-17 16:52:07.690521,RPT_240145,emergency,Community feedback on healthcare in Ghaziabad,Ghaziabad,low,healthcare,in_progress,False,50,0.10478589927221393
+2025-05-17 17:13:24.879158,RPT_159104,information,Urgent healthcare issue reported in Jaipur,Jaipur,low,healthcare,resolved,True,91,0.40263806069492536
+2025-05-25 20:09:19.926675,RPT_753296,information,Emergency situation regarding road repair in Mumbai,Mumbai,medium,road repair,closed,False,30,0.5427341340794838
+2025-05-23 05:20:17.951325,RPT_159221,appreciation,Request for healthcare improvement in Ahmedabad,Ahmedabad,medium,healthcare,closed,False,57,0.9023092388176333
+2025-04-30 22:04:37.405123,RPT_246860,appreciation,Request for traffic congestion improvement in Pune,Pune,high,traffic congestion,closed,False,22,0.4470913190682819
+2025-05-13 02:08:17.876644,RPT_236040,emergency,Urgent traffic congestion issue reported in Delhi,Delhi,medium,traffic congestion,in_progress,True,60,0.34199631738080805
+2025-05-07 21:53:49.109720,RPT_576421,appreciation,Community feedback on housing in Jaipur,Jaipur,medium,housing,closed,False,51,0.2476119026289062
+2025-05-01 09:29:55.700143,RPT_365372,information,Emergency situation regarding traffic congestion in Bhopal,Bhopal,critical,traffic congestion,in_progress,False,18,0.058636729207439786
+2025-05-12 10:44:19.651220,RPT_994837,suggestion,Urgent public transport issue reported in Jaipur,Jaipur,low,public transport,pending,True,41,0.3704433974741672
+2025-05-23 05:32:33.518525,RPT_254747,information,Community feedback on corruption in Mumbai,Mumbai,medium,corruption,pending,False,31,0.7723857922193271
+2025-05-02 02:22:20.178015,RPT_655100,complaint,Request for road repair improvement in Visakhapatnam,Visakhapatnam,critical,road repair,pending,True,63,0.4842328212269492
+2025-05-21 20:24:18.596674,RPT_987415,suggestion,Request for corruption improvement in Ahmedabad,Ahmedabad,low,corruption,in_progress,True,57,0.506267961665631
+2025-05-29 11:42:11.527609,RPT_241962,information,Urgent public transport issue reported in Kolkata,Kolkata,high,public transport,pending,True,38,0.8658420537088215
+2025-05-14 07:50:11.884225,RPT_928722,information,Urgent power outage issue reported in Vadodara,Vadodara,low,power outage,in_progress,True,37,0.8608631669923998
+2025-05-03 20:37:17.377530,RPT_553203,complaint,Urgent education issue reported in Ludhiana,Ludhiana,medium,education,resolved,True,87,0.0024537236038479904
+2025-05-09 16:07:28.745755,RPT_527347,suggestion,Request for housing improvement in Nagpur,Nagpur,low,housing,closed,False,88,0.43933778728954587
+2025-05-14 15:36:24.616536,RPT_948111,emergency,Urgent monsoon flooding issue reported in Kanpur,Kanpur,high,monsoon flooding,pending,False,58,0.7174406074574862
+2025-05-16 05:44:30.670545,RPT_942227,suggestion,Urgent power outage issue reported in Ghaziabad,Ghaziabad,low,power outage,resolved,False,60,0.8904889637161327
+2025-05-05 18:20:33.196653,RPT_454843,complaint,Community feedback on road repair in Kolkata,Kolkata,medium,road repair,closed,True,34,0.5510555370000504
+2025-05-12 12:48:21.204669,RPT_138156,suggestion,Community feedback on pollution in Patna,Patna,critical,pollution,resolved,True,93,0.12765413669456582
+2025-05-20 21:48:19.581872,RPT_850639,emergency,Community feedback on power outage in Ghaziabad,Ghaziabad,low,power outage,in_progress,True,57,0.5983271865411431
+2025-05-05 15:44:03.050964,RPT_610437,information,Urgent healthcare issue reported in Chennai,Chennai,high,healthcare,pending,False,62,0.2389711984726307
+2025-05-13 15:06:25.515874,RPT_982511,appreciation,Urgent education issue reported in Pimpri-Chinchwad,Pimpri-Chinchwad,high,education,closed,False,44,0.41086074822264007
+2025-05-18 03:58:57.845510,RPT_850761,appreciation,Request for garbage collection improvement in Bangalore,Bangalore,medium,garbage collection,closed,False,14,0.7884364332012449
+2025-05-16 18:06:41.147857,RPT_253607,emergency,Urgent corruption issue reported in Thane,Thane,high,corruption,pending,False,20,0.3748656440652276
+2025-05-04 20:41:34.790810,RPT_168419,suggestion,Urgent water shortage issue reported in Bangalore,Bangalore,medium,water shortage,resolved,True,84,0.08875339744494093
+2025-05-26 04:59:01.241066,RPT_723637,information,Community feedback on traffic congestion in Nagpur,Nagpur,critical,traffic congestion,resolved,False,3,0.15651718788420088
+2025-05-21 13:31:53.814361,RPT_862627,emergency,Emergency situation regarding healthcare in Nashik,Nashik,critical,healthcare,closed,True,100,0.015022207171372814
+2025-04-30 08:09:22.862598,RPT_710118,suggestion,Community feedback on pollution in Pimpri-Chinchwad,Pimpri-Chinchwad,medium,pollution,resolved,True,98,0.47476661836161205
+2025-04-30 04:53:28.965012,RPT_461587,appreciation,Urgent traffic congestion issue reported in Visakhapatnam,Visakhapatnam,low,traffic congestion,closed,False,25,0.8751576890201376
+2025-05-04 02:07:33.854965,RPT_861216,complaint,Urgent public transport issue reported in Bangalore,Bangalore,high,public transport,in_progress,True,68,0.362809935266193
+2025-05-15 15:57:01.879265,RPT_229894,complaint,Community feedback on street lighting in Pimpri-Chinchwad,Pimpri-Chinchwad,low,street lighting,closed,False,88,0.3051205837825378
+2025-05-04 00:00:53.332729,RPT_900846,emergency,Emergency situation regarding housing in Ludhiana,Ludhiana,medium,housing,pending,False,90,0.9691861744298836
+2025-05-09 04:50:48.888102,RPT_212582,complaint,Request for road repair improvement in Surat,Surat,high,road repair,in_progress,False,18,0.44353104231524765
+2025-05-09 16:19:37.008676,RPT_556782,suggestion,Request for pollution improvement in Ahmedabad,Ahmedabad,high,pollution,closed,False,64,0.6691353037559732
+2025-05-27 18:38:16.161319,RPT_227159,appreciation,Urgent power outage issue reported in Bangalore,Bangalore,medium,power outage,in_progress,False,68,0.17368987766066457
+2025-05-08 16:20:11.180157,RPT_737773,emergency,Request for garbage collection improvement in Pune,Pune,high,garbage collection,closed,False,63,0.83051963057664
+2025-05-16 06:57:56.945115,RPT_581445,emergency,Community feedback on monsoon flooding in Visakhapatnam,Visakhapatnam,critical,monsoon flooding,resolved,True,6,0.9443901918912277
+2025-05-27 08:59:37.270811,RPT_366759,appreciation,Urgent power outage issue reported in Ghaziabad,Ghaziabad,medium,power outage,pending,True,49,0.8914308055065266
+2025-05-28 17:19:04.806540,RPT_147054,emergency,Emergency situation regarding corruption in Lucknow,Lucknow,high,corruption,pending,False,85,0.12871994373619977
+2025-05-09 22:28:42.489213,RPT_982500,suggestion,Community feedback on street lighting in Hyderabad,Hyderabad,medium,street lighting,closed,False,16,0.7170441011830754
+2025-05-02 14:10:10.565049,RPT_766397,suggestion,Request for corruption improvement in Nagpur,Nagpur,critical,corruption,closed,True,59,0.5028340717811847
+2025-05-23 20:49:58.449812,RPT_486011,information,Urgent public transport issue reported in Ahmedabad,Ahmedabad,critical,public transport,closed,False,0,0.947194490131662
+2025-05-17 22:23:47.368692,RPT_734449,information,Request for power outage improvement in Surat,Surat,critical,power outage,closed,True,96,0.7521627425685486
+2025-05-22 15:03:16.534095,RPT_902829,appreciation,Emergency situation regarding power outage in Patna,Patna,critical,power outage,in_progress,True,83,0.9214165029023723
+2025-05-05 16:10:26.091520,RPT_428652,information,Urgent housing issue reported in Ludhiana,Ludhiana,high,housing,closed,True,26,0.14825824969926704
+2025-05-14 09:00:41.132612,RPT_335368,complaint,Emergency situation regarding traffic congestion in Nashik,Nashik,critical,traffic congestion,in_progress,True,79,0.9282248201112426
+2025-05-17 21:46:52.100566,RPT_192086,information,Emergency situation regarding education in Ludhiana,Ludhiana,low,education,closed,True,17,0.6116445750531407
+2025-05-23 12:57:38.669415,RPT_848530,appreciation,Community feedback on water shortage in Pune,Pune,high,water shortage,pending,False,75,0.46564664046314264
+2025-05-02 04:03:27.660565,RPT_980315,complaint,Emergency situation regarding corruption in Hyderabad,Hyderabad,medium,corruption,in_progress,True,11,0.9995532187023853
+2025-05-15 19:23:46.440408,RPT_745538,suggestion,Urgent education issue reported in Thane,Thane,critical,education,resolved,True,68,0.8959341987555007
+2025-05-08 00:03:16.066777,RPT_637733,information,Emergency situation regarding education in Patna,Patna,low,education,pending,True,52,0.008820844670625383
+2025-05-05 00:20:58.108110,RPT_501874,emergency,Emergency situation regarding public transport in Agra,Agra,high,public transport,closed,False,10,0.8125664689924754
+2025-05-18 13:10:34.898448,RPT_217364,appreciation,Community feedback on public transport in Thane,Thane,high,public transport,pending,True,49,0.4137856638435429
+2025-05-24 01:26:10.490101,RPT_187340,complaint,Urgent road repair issue reported in Pimpri-Chinchwad,Pimpri-Chinchwad,critical,road repair,in_progress,False,32,0.8742270046003036
+2025-05-28 03:11:13.438750,RPT_200671,complaint,Request for road repair improvement in Ludhiana,Ludhiana,low,road repair,closed,False,5,0.3808626213613149
+2025-05-03 16:50:00.496956,RPT_413010,information,Emergency situation regarding pollution in Kanpur,Kanpur,critical,pollution,closed,True,22,0.9010113985111284
+2025-05-01 11:55:32.145555,RPT_284697,emergency,Urgent monsoon flooding issue reported in Patna,Patna,medium,monsoon flooding,closed,True,4,0.4151130738046165
+2025-05-28 22:24:11.073531,RPT_901344,complaint,Urgent monsoon flooding issue reported in Ahmedabad,Ahmedabad,critical,monsoon flooding,resolved,True,7,0.5951198260694694
+2025-05-14 14:32:55.387163,RPT_420237,complaint,Community feedback on road repair in Thane,Thane,medium,road repair,resolved,True,79,0.5551361079269016
+2025-05-13 05:53:53.680861,RPT_474374,emergency,Community feedback on water shortage in Surat,Surat,low,water shortage,in_progress,True,15,0.9855677807061318
+2025-05-04 16:55:59.454340,RPT_545225,information,Urgent corruption issue reported in Patna,Patna,medium,corruption,resolved,True,76,0.10648839896347306
+2025-05-11 10:12:48.835907,RPT_980630,emergency,Emergency situation regarding healthcare in Ludhiana,Ludhiana,low,healthcare,pending,False,70,0.570795914450859
+2025-05-13 04:29:29.763430,RPT_195864,complaint,Request for pollution improvement in Indore,Indore,high,pollution,pending,False,49,0.46139155752510697
+2025-05-13 06:17:45.502748,RPT_539609,appreciation,Emergency situation regarding housing in Jaipur,Jaipur,low,housing,pending,True,22,0.5292702286959555
+2025-05-04 00:58:21.685624,RPT_162729,information,Emergency situation regarding public transport in Chennai,Chennai,medium,public transport,in_progress,False,4,0.8590620687178331
+2025-04-30 05:16:07.607079,RPT_547161,suggestion,Urgent education issue reported in Vadodara,Vadodara,low,education,pending,False,27,0.5186946425145845
+2025-05-14 20:49:39.593051,RPT_419491,emergency,Request for traffic congestion improvement in Kanpur,Kanpur,medium,traffic congestion,resolved,True,26,0.22503911877558602
+2025-05-16 16:45:24.672734,RPT_288152,complaint,Urgent corruption issue reported in Pimpri-Chinchwad,Pimpri-Chinchwad,high,corruption,in_progress,True,75,0.47741867165770147
+2025-05-26 03:49:14.237766,RPT_718882,information,Community feedback on education in Pune,Pune,high,education,resolved,False,64,0.4929558613952345
+2025-05-05 18:58:33.651041,RPT_932427,appreciation,Request for water shortage improvement in Nashik,Nashik,medium,water shortage,pending,True,19,0.27445646919582145
+2025-05-12 16:23:09.419096,RPT_657277,complaint,Emergency situation regarding street lighting in Hyderabad,Hyderabad,medium,street lighting,resolved,False,50,0.8695826254105562
+2025-05-22 07:42:02.142680,RPT_859153,information,Community feedback on public transport in Bangalore,Bangalore,high,public transport,pending,True,87,0.12503688256599443
+2025-05-10 04:50:15.210962,RPT_928312,information,Community feedback on monsoon flooding in Nagpur,Nagpur,medium,monsoon flooding,resolved,False,5,0.42583001159830736
+2025-05-13 16:22:12.515476,RPT_151930,information,Emergency situation regarding corruption in Nagpur,Nagpur,low,corruption,closed,False,15,0.12885401280223008
+2025-05-23 16:00:12.086838,RPT_682625,complaint,Community feedback on public transport in Patna,Patna,low,public transport,pending,True,44,0.7337035948630752
+2025-05-05 03:38:50.251991,RPT_938955,suggestion,Emergency situation regarding road repair in Ghaziabad,Ghaziabad,medium,road repair,pending,True,90,0.7471726955971143
+2025-05-07 01:53:46.358972,RPT_771241,complaint,Community feedback on street lighting in Bangalore,Bangalore,high,street lighting,in_progress,True,4,0.5026356276507308
+2025-05-12 22:55:41.380191,RPT_980684,complaint,Emergency situation regarding education in Chennai,Chennai,critical,education,in_progress,False,25,0.9093498090288233
+2025-05-19 20:03:40.476231,RPT_754267,complaint,Emergency situation regarding healthcare in Ludhiana,Ludhiana,high,healthcare,pending,True,87,0.7512978343417013
+2025-05-12 02:39:45.576063,RPT_383195,appreciation,Emergency situation regarding road repair in Thane,Thane,medium,road repair,resolved,False,91,0.5567608335646327
+2025-05-19 23:12:39.040341,RPT_942971,suggestion,Urgent pollution issue reported in Thane,Thane,medium,pollution,pending,False,8,0.4556078862344105
+2025-05-23 21:09:21.772416,RPT_469872,appreciation,Request for monsoon flooding improvement in Nagpur,Nagpur,critical,monsoon flooding,pending,True,74,0.36685518000894424
+2025-05-20 10:55:51.002167,RPT_740920,appreciation,Urgent water shortage issue reported in Lucknow,Lucknow,low,water shortage,in_progress,True,72,0.5058643617869786
+2025-05-28 04:11:13.518842,RPT_577542,complaint,Request for road repair improvement in Thane,Thane,critical,road repair,closed,False,20,0.4730053614497941
+2025-05-12 05:48:40.597952,RPT_915036,information,Emergency situation regarding education in Kolkata,Kolkata,critical,education,pending,True,5,0.872534846783259
+2025-05-12 05:34:12.512831,RPT_841950,information,Emergency situation regarding street lighting in Lucknow,Lucknow,low,street lighting,resolved,False,4,0.8446869390877252
+2025-05-17 11:47:18.515235,RPT_961981,complaint,Request for healthcare improvement in Surat,Surat,low,healthcare,resolved,False,1,0.07217466692683006
+2025-05-25 13:17:57.937819,RPT_675487,appreciation,Request for housing improvement in Bangalore,Bangalore,low,housing,in_progress,False,0,0.9744754665785241
+2025-05-13 02:43:01.859720,RPT_242159,complaint,Request for public transport improvement in Lucknow,Lucknow,high,public transport,in_progress,False,65,0.8667662109331784
+2025-05-26 03:42:56.091056,RPT_452106,emergency,Request for education improvement in Pimpri-Chinchwad,Pimpri-Chinchwad,high,education,in_progress,True,33,0.09165437563412804
+2025-05-07 06:23:38.495866,RPT_113126,suggestion,Emergency situation regarding monsoon flooding in Ludhiana,Ludhiana,medium,monsoon flooding,in_progress,True,52,0.36708719554705105
+2025-05-18 17:34:28.114313,RPT_106390,complaint,Urgent power outage issue reported in Kanpur,Kanpur,low,power outage,closed,True,16,0.0025560088298686168
+2025-05-18 18:35:58.700430,RPT_890531,emergency,Urgent public transport issue reported in Surat,Surat,low,public transport,in_progress,True,61,0.06219976727586585
+2025-05-11 02:07:15.466636,RPT_465891,suggestion,Request for power outage improvement in Pimpri-Chinchwad,Pimpri-Chinchwad,medium,power outage,in_progress,True,56,0.7343841339265776
+2025-05-19 14:10:37.215243,RPT_260901,appreciation,Community feedback on education in Ahmedabad,Ahmedabad,critical,education,closed,True,89,0.24736421965206712
+2025-05-06 16:54:47.456995,RPT_264964,suggestion,Urgent corruption issue reported in Kolkata,Kolkata,critical,corruption,pending,True,24,0.4608565222868074
+2025-05-01 03:15:33.439592,RPT_120330,appreciation,Request for road repair improvement in Thane,Thane,critical,road repair,pending,False,57,0.8134775921566606
+2025-05-07 05:24:38.056893,RPT_491054,suggestion,Community feedback on pollution in Patna,Patna,critical,pollution,pending,True,75,0.5453745014208097
+2025-05-11 06:17:44.810609,RPT_788325,information,Request for healthcare improvement in Hyderabad,Hyderabad,critical,healthcare,pending,False,29,0.8491423762657857
+2025-05-24 22:45:39.116335,RPT_359649,complaint,Request for garbage collection improvement in Kanpur,Kanpur,high,garbage collection,pending,True,4,0.01748267042584195
+2025-05-22 13:49:25.064123,RPT_431905,suggestion,Request for housing improvement in Ahmedabad,Ahmedabad,critical,housing,in_progress,True,59,0.5685620218823466
+2025-05-23 06:54:46.575685,RPT_139603,emergency,Community feedback on power outage in Kolkata,Kolkata,medium,power outage,resolved,True,45,0.035526029845844964
+2025-05-30 00:26:59.027148,RPT_265108,emergency,Community feedback on public transport in Pimpri-Chinchwad,Pimpri-Chinchwad,low,public transport,in_progress,False,19,0.37483614064199444
+2025-05-07 14:56:37.292426,RPT_317660,suggestion,Request for monsoon flooding improvement in Nagpur,Nagpur,low,monsoon flooding,closed,True,55,0.9310860164686435
+2025-05-05 13:38:23.723915,RPT_531687,suggestion,Urgent education issue reported in Patna,Patna,low,education,closed,True,1,0.665293241218201
+2025-05-19 17:32:30.011200,RPT_869247,information,Urgent corruption issue reported in Surat,Surat,critical,corruption,in_progress,True,7,0.8312357257651725
+2025-05-19 01:55:13.166248,RPT_538011,complaint,Community feedback on water shortage in Bangalore,Bangalore,medium,water shortage,resolved,True,73,0.9228124150627371
+2025-05-25 00:32:27.011929,RPT_216617,appreciation,Emergency situation regarding education in Indore,Indore,critical,education,resolved,True,11,0.22265348845416755
+2025-05-11 19:57:48.693516,RPT_105286,suggestion,Community feedback on garbage collection in Ahmedabad,Ahmedabad,low,garbage collection,resolved,False,27,0.46188174882975075
+2025-05-02 22:16:08.041265,RPT_955151,complaint,Community feedback on garbage collection in Ahmedabad,Ahmedabad,high,garbage collection,pending,False,83,0.5004526145835886
+2025-05-25 20:15:38.736404,RPT_826338,suggestion,Community feedback on public transport in Ahmedabad,Ahmedabad,high,public transport,pending,True,17,0.4835641936170284
+2025-05-06 23:01:56.636921,RPT_500817,information,Emergency situation regarding traffic congestion in Delhi,Delhi,high,traffic congestion,pending,False,7,0.3524799020837249
+2025-04-30 10:13:52.289628,RPT_976167,suggestion,Community feedback on pollution in Vadodara,Vadodara,high,pollution,pending,False,51,0.8905051914767387
+2025-05-06 10:50:28.407142,RPT_938941,suggestion,Request for road repair improvement in Vadodara,Vadodara,low,road repair,in_progress,False,32,0.76041289559463
+2025-04-30 20:29:17.426566,RPT_587006,emergency,Community feedback on pollution in Ghaziabad,Ghaziabad,critical,pollution,pending,True,25,0.4615365257154094
+2025-05-14 21:18:17.130899,RPT_186658,appreciation,Emergency situation regarding corruption in Ludhiana,Ludhiana,medium,corruption,in_progress,False,26,0.798165998377291
+2025-05-16 22:45:32.786551,RPT_758501,emergency,Community feedback on healthcare in Agra,Agra,low,healthcare,pending,True,68,0.3899318742837844
+2025-05-07 18:59:08.928299,RPT_802742,appreciation,Community feedback on monsoon flooding in Patna,Patna,low,monsoon flooding,in_progress,True,69,0.9270345703842725
+2025-05-02 21:15:05.211021,RPT_559654,appreciation,Emergency situation regarding power outage in Indore,Indore,medium,power outage,resolved,True,57,0.16482205886168888
+2025-05-12 15:38:04.044799,RPT_564694,suggestion,Urgent garbage collection issue reported in Agra,Agra,low,garbage collection,closed,True,68,0.776626880446759
+2025-05-04 00:52:02.303721,RPT_144412,suggestion,Community feedback on education in Indore,Indore,medium,education,closed,True,41,0.4834549406847136
+2025-05-17 09:21:05.270591,RPT_724361,appreciation,Request for pollution improvement in Delhi,Delhi,high,pollution,pending,True,54,0.02935193675863723
+2025-05-26 11:26:49.226573,RPT_319806,information,Request for power outage improvement in Ahmedabad,Ahmedabad,low,power outage,pending,True,50,0.07219030422164152
+2025-05-08 16:21:43.615210,RPT_319988,suggestion,Urgent garbage collection issue reported in Patna,Patna,critical,garbage collection,in_progress,True,41,0.8918695805313931
+2025-05-10 10:14:19.874600,RPT_530390,emergency,Request for monsoon flooding improvement in Ghaziabad,Ghaziabad,high,monsoon flooding,closed,True,83,0.599091881156518
+2025-05-20 12:09:00.033166,RPT_719676,suggestion,Community feedback on road repair in Surat,Surat,low,road repair,closed,True,72,0.2692964954115772
+2025-05-20 12:18:06.927778,RPT_258702,emergency,Community feedback on public transport in Bangalore,Bangalore,critical,public transport,in_progress,True,61,0.6145306432277116
+2025-05-09 21:29:09.003129,RPT_419645,information,Urgent monsoon flooding issue reported in Nashik,Nashik,high,monsoon flooding,closed,False,26,0.14423527609019937
+2025-05-17 09:47:23.660966,RPT_854587,information,Urgent monsoon flooding issue reported in Pimpri-Chinchwad,Pimpri-Chinchwad,medium,monsoon flooding,resolved,True,36,0.811116806982243
+2025-05-29 18:14:39.165321,RPT_719439,appreciation,Urgent public transport issue reported in Surat,Surat,medium,public transport,resolved,False,9,0.709005386831691
+2025-05-17 14:54:43.756233,RPT_751924,appreciation,Emergency situation regarding street lighting in Indore,Indore,low,street lighting,closed,False,49,0.6577601380520894
+2025-05-02 04:35:23.808175,RPT_661590,information,Urgent corruption issue reported in Lucknow,Lucknow,medium,corruption,closed,False,18,0.17033838100217935
+2025-05-12 11:29:00.470476,RPT_760262,information,Emergency situation regarding education in Kanpur,Kanpur,critical,education,pending,True,99,0.8161758071466554
+2025-05-20 21:46:02.231535,RPT_509672,complaint,Emergency situation regarding traffic congestion in Nagpur,Nagpur,medium,traffic congestion,resolved,True,75,0.36992871097546776
+2025-05-19 21:48:48.731706,RPT_732506,emergency,Urgent garbage collection issue reported in Nagpur,Nagpur,medium,garbage collection,pending,True,14,0.67689829708728
+2025-05-09 06:19:33.837862,RPT_518340,complaint,Community feedback on corruption in Pune,Pune,critical,corruption,resolved,True,39,0.4453070564676683
+2025-05-19 15:22:01.903367,RPT_237762,suggestion,Request for corruption improvement in Kanpur,Kanpur,low,corruption,in_progress,True,26,0.49101616046328866
+2025-05-23 08:34:33.728863,RPT_499943,emergency,Urgent garbage collection issue reported in Vadodara,Vadodara,critical,garbage collection,pending,False,68,0.7314884516086446
+2025-05-27 12:37:32.087938,RPT_371939,complaint,Emergency situation regarding road repair in Indore,Indore,medium,road repair,pending,False,93,0.3964575429291882
+2025-05-17 16:14:19.770352,RPT_519344,emergency,Request for garbage collection improvement in Mumbai,Mumbai,low,garbage collection,closed,False,96,0.14657146002473076
+2025-05-09 21:16:37.987053,RPT_726077,information,Emergency situation regarding education in Surat,Surat,medium,education,in_progress,True,77,0.8990509800525757
+2025-05-18 19:08:02.704384,RPT_571687,complaint,Request for public transport improvement in Visakhapatnam,Visakhapatnam,medium,public transport,pending,False,93,0.700311602770957
+2025-05-11 05:14:02.822467,RPT_337139,emergency,Urgent water shortage issue reported in Kanpur,Kanpur,medium,water shortage,resolved,True,25,0.8555067311355532
+2025-05-27 21:31:08.767656,RPT_636901,suggestion,Request for street lighting improvement in Vadodara,Vadodara,critical,street lighting,resolved,True,75,0.517684966318704
+2025-05-11 10:59:58.320652,RPT_146606,complaint,Emergency situation regarding pollution in Pune,Pune,medium,pollution,resolved,True,14,0.8435774379051567
+2025-05-29 01:49:55.045382,RPT_950327,complaint,Urgent water shortage issue reported in Lucknow,Lucknow,low,water shortage,closed,False,0,0.38341946763698476
+2025-05-02 16:02:32.131501,RPT_129706,information,Emergency situation regarding pollution in Thane,Thane,critical,pollution,resolved,True,84,0.10310259543207778
+2025-05-01 02:56:09.619829,RPT_611179,emergency,Request for street lighting improvement in Jaipur,Jaipur,high,street lighting,in_progress,True,87,0.5136888303151211
+2025-05-22 15:15:41.378280,RPT_740325,suggestion,Emergency situation regarding garbage collection in Vadodara,Vadodara,critical,garbage collection,closed,False,77,0.33818698575125494
+2025-05-16 21:44:45.000200,RPT_643241,complaint,Community feedback on pollution in Delhi,Delhi,critical,pollution,resolved,False,24,0.6134057061623331
+2025-05-17 13:55:45.836399,RPT_744317,information,Request for garbage collection improvement in Ghaziabad,Ghaziabad,critical,garbage collection,closed,True,72,0.7012451966040831
+2025-05-25 18:36:01.454484,RPT_154764,information,Emergency situation regarding pollution in Vadodara,Vadodara,low,pollution,pending,False,46,0.8552224176106981
+2025-05-11 00:41:55.779317,RPT_165607,emergency,Request for public transport improvement in Ghaziabad,Ghaziabad,medium,public transport,closed,True,5,0.6421613007763132
+2025-05-04 09:50:40.902168,RPT_705454,information,Urgent street lighting issue reported in Mumbai,Mumbai,low,street lighting,resolved,True,46,0.5255796372396526
+2025-05-25 08:47:59.406271,RPT_254960,appreciation,Community feedback on power outage in Pune,Pune,high,power outage,pending,True,90,0.6913555033621434
+2025-05-23 02:33:00.665462,RPT_998367,information,Urgent water shortage issue reported in Visakhapatnam,Visakhapatnam,critical,water shortage,pending,False,96,0.38869054139406434
+2025-05-03 23:07:31.083465,RPT_294241,information,Emergency situation regarding water shortage in Jaipur,Jaipur,medium,water shortage,in_progress,False,28,0.6201100814522053
+2025-05-01 15:51:36.883822,RPT_359931,information,Request for housing improvement in Hyderabad,Hyderabad,medium,housing,resolved,False,62,0.17928575525549129
+2025-05-17 00:18:24.125895,RPT_723864,information,Emergency situation regarding corruption in Thane,Thane,critical,corruption,pending,True,76,0.5700518399377604
+2025-05-22 02:53:47.597809,RPT_661713,information,Urgent garbage collection issue reported in Thane,Thane,medium,garbage collection,in_progress,False,96,0.9942035074804151
+2025-05-21 13:04:19.420603,RPT_953739,information,Emergency situation regarding traffic congestion in Delhi,Delhi,high,traffic congestion,in_progress,False,82,0.44512814357780783
+2025-05-14 15:08:37.752428,RPT_536766,emergency,Community feedback on corruption in Ahmedabad,Ahmedabad,high,corruption,in_progress,True,27,0.28534521528421597
+2025-05-28 09:45:41.193467,RPT_506518,information,Community feedback on healthcare in Vadodara,Vadodara,low,healthcare,in_progress,False,40,0.37660621345771494
+2025-05-13 00:55:06.028563,RPT_178797,information,Emergency situation regarding corruption in Hyderabad,Hyderabad,critical,corruption,pending,True,85,0.10600724402087036
+2025-05-21 18:35:14.846279,RPT_763423,complaint,Community feedback on garbage collection in Delhi,Delhi,high,garbage collection,pending,True,27,0.6026012590054777
+2025-05-06 09:26:44.898983,RPT_237085,appreciation,Request for pollution improvement in Bangalore,Bangalore,low,pollution,in_progress,True,79,0.24952489976988235
+2025-05-27 05:05:23.480160,RPT_484697,appreciation,Urgent water shortage issue reported in Patna,Patna,medium,water shortage,in_progress,True,83,0.07417104344965608
+2025-05-10 13:42:35.940748,RPT_763594,emergency,Request for water shortage improvement in Surat,Surat,high,water shortage,resolved,True,70,0.7070399186544873
+2025-05-25 22:44:43.959284,RPT_983467,emergency,Request for road repair improvement in Vadodara,Vadodara,high,road repair,pending,False,90,0.2243644538188927
+2025-05-16 08:15:15.224001,RPT_276876,emergency,Urgent power outage issue reported in Ghaziabad,Ghaziabad,low,power outage,closed,False,42,0.04193880896480717
+2025-05-24 21:52:22.492825,RPT_342991,complaint,Emergency situation regarding street lighting in Chennai,Chennai,medium,street lighting,resolved,True,56,0.04052198836084242
+2025-05-02 02:09:43.828072,RPT_517722,suggestion,Emergency situation regarding garbage collection in Ludhiana,Ludhiana,high,garbage collection,in_progress,True,59,0.600874252663489
+2025-05-28 07:37:45.834107,RPT_811070,complaint,Community feedback on road repair in Delhi,Delhi,low,road repair,in_progress,True,24,0.9639514206972756
+2025-05-13 03:41:29.398467,RPT_856527,emergency,Urgent corruption issue reported in Patna,Patna,high,corruption,resolved,False,99,0.46186745214119995
+2025-05-16 16:10:59.127462,RPT_375622,suggestion,Request for corruption improvement in Hyderabad,Hyderabad,low,corruption,closed,False,23,0.44339148403770345
+2025-05-15 18:46:18.890572,RPT_321843,suggestion,Urgent street lighting issue reported in Delhi,Delhi,high,street lighting,resolved,True,46,0.4856367491348077
+2025-05-26 13:36:19.877410,RPT_335604,appreciation,Request for healthcare improvement in Surat,Surat,critical,healthcare,pending,True,87,0.414013039219271
+2025-05-15 09:36:31.960831,RPT_909258,information,Request for housing improvement in Indore,Indore,critical,housing,resolved,True,31,0.1873966873229027
+2025-05-27 08:17:22.608170,RPT_817237,emergency,Community feedback on monsoon flooding in Lucknow,Lucknow,medium,monsoon flooding,closed,False,75,0.9213940693660161
+2025-05-14 18:04:31.805234,RPT_403911,information,Community feedback on road repair in Ghaziabad,Ghaziabad,critical,road repair,in_progress,True,87,0.9236769797515724
+2025-05-04 18:49:56.165619,RPT_924904,emergency,Emergency situation regarding public transport in Nagpur,Nagpur,low,public transport,pending,False,49,0.47825159766353875
+2025-05-28 15:49:01.622054,RPT_863251,suggestion,Urgent road repair issue reported in Jaipur,Jaipur,medium,road repair,in_progress,False,97,0.3789885825105912
+2025-05-29 18:13:44.378007,RPT_703407,appreciation,Emergency situation regarding education in Thane,Thane,high,education,in_progress,False,97,0.01737580055244481
+2025-05-20 12:05:40.911716,RPT_709451,emergency,Emergency situation regarding healthcare in Ludhiana,Ludhiana,low,healthcare,closed,True,41,0.0359762261613108
+2025-05-08 07:26:15.647873,RPT_111817,suggestion,Community feedback on public transport in Patna,Patna,critical,public transport,closed,True,41,0.4172062368860884
+2025-05-05 16:02:11.450336,RPT_489177,suggestion,Emergency situation regarding pollution in Nashik,Nashik,critical,pollution,pending,True,5,0.27840906596173454
+2025-05-15 12:06:44.245033,RPT_202366,emergency,Community feedback on housing in Kolkata,Kolkata,high,housing,pending,False,69,0.3797607826515791
+2025-05-10 04:36:21.750699,RPT_806459,information,Community feedback on monsoon flooding in Visakhapatnam,Visakhapatnam,medium,monsoon flooding,pending,True,9,0.7278788707108738
+2025-05-01 21:21:02.487567,RPT_675210,suggestion,Urgent pollution issue reported in Ludhiana,Ludhiana,high,pollution,pending,True,88,0.3335574404857714
+2025-05-01 12:25:56.050632,RPT_736556,suggestion,Request for road repair improvement in Delhi,Delhi,high,road repair,closed,True,58,0.8010614150112051
+2025-05-23 14:17:49.837923,RPT_768392,information,Urgent traffic congestion issue reported in Hyderabad,Hyderabad,high,traffic congestion,closed,True,99,0.8649051220251576
+2025-05-28 06:38:13.795164,RPT_811806,suggestion,Community feedback on healthcare in Hyderabad,Hyderabad,low,healthcare,closed,True,7,0.4453271148286636
+2025-05-07 19:39:43.396636,RPT_130995,information,Request for road repair improvement in Ahmedabad,Ahmedabad,critical,road repair,resolved,True,44,0.4170585255456428
+2025-05-27 04:27:36.578922,RPT_243132,emergency,Community feedback on traffic congestion in Vadodara,Vadodara,critical,traffic congestion,resolved,False,55,0.9574032446792848
+2025-05-04 16:42:32.979829,RPT_341712,complaint,Request for power outage improvement in Ahmedabad,Ahmedabad,critical,power outage,in_progress,True,0,0.9956370977688982
+2025-05-06 13:34:00.691478,RPT_525621,suggestion,Community feedback on monsoon flooding in Ludhiana,Ludhiana,critical,monsoon flooding,resolved,False,26,0.8388471118363682
+2025-05-24 18:56:56.238958,RPT_733660,emergency,Request for public transport improvement in Pimpri-Chinchwad,Pimpri-Chinchwad,medium,public transport,in_progress,False,48,0.0903648604117292
+2025-05-18 03:57:06.972355,RPT_195036,emergency,Emergency situation regarding corruption in Surat,Surat,critical,corruption,in_progress,True,11,0.4474343508763472
+2025-05-08 22:54:41.712823,RPT_398620,emergency,Request for monsoon flooding improvement in Kolkata,Kolkata,high,monsoon flooding,in_progress,False,86,0.652491980942346
+2025-05-19 20:22:07.916937,RPT_393202,suggestion,Community feedback on healthcare in Ahmedabad,Ahmedabad,medium,healthcare,closed,True,85,0.19109588150617085
+2025-05-04 04:16:11.979803,RPT_611488,appreciation,Request for corruption improvement in Vadodara,Vadodara,critical,corruption,in_progress,True,78,0.19606490253525588
+2025-05-03 13:10:59.674249,RPT_895748,emergency,Request for road repair improvement in Indore,Indore,low,road repair,pending,False,74,0.07922386464840292
+2025-05-18 16:25:43.141804,RPT_960252,suggestion,Urgent power outage issue reported in Indore,Indore,medium,power outage,in_progress,True,88,0.27894084843136113
+2025-05-15 00:50:47.337137,RPT_818178,suggestion,Community feedback on monsoon flooding in Kanpur,Kanpur,high,monsoon flooding,in_progress,False,30,0.19403798581558818
+2025-05-26 21:23:03.642690,RPT_200325,suggestion,Community feedback on monsoon flooding in Patna,Patna,medium,monsoon flooding,closed,False,97,0.08773387358969553
+2025-05-05 22:06:00.993089,RPT_371971,appreciation,Urgent education issue reported in Pune,Pune,medium,education,pending,True,27,0.4562987124494906
+2025-05-02 14:01:43.484599,RPT_295086,appreciation,Community feedback on corruption in Ahmedabad,Ahmedabad,medium,corruption,pending,False,57,0.3391222991757338
+2025-05-28 06:09:19.061817,RPT_703231,appreciation,Community feedback on garbage collection in Delhi,Delhi,medium,garbage collection,pending,True,90,0.050731618335845274
+2025-05-17 00:55:06.198450,RPT_232155,appreciation,Emergency situation regarding pollution in Vadodara,Vadodara,high,pollution,pending,False,25,0.3916129658559979
+2025-05-01 01:38:20.114434,RPT_719469,information,Community feedback on education in Nagpur,Nagpur,critical,education,pending,True,57,0.4129886218571617
+2025-05-29 10:07:37.191528,RPT_197991,appreciation,Emergency situation regarding garbage collection in Pimpri-Chinchwad,Pimpri-Chinchwad,high,garbage collection,in_progress,True,51,0.40129994222995957
+2025-05-16 10:38:16.557628,RPT_661842,information,Emergency situation regarding education in Kanpur,Kanpur,medium,education,in_progress,True,4,0.3343559565987948
+2025-04-30 08:20:24.181262,RPT_136733,information,Community feedback on road repair in Ludhiana,Ludhiana,medium,road repair,closed,True,95,0.8771864518227506
+2025-05-17 20:58:20.559932,RPT_273044,emergency,Emergency situation regarding road repair in Ghaziabad,Ghaziabad,critical,road repair,closed,True,76,0.8707619101926546
+2025-05-09 12:08:40.963855,RPT_446814,emergency,Community feedback on road repair in Chennai,Chennai,medium,road repair,in_progress,False,30,0.45944074704099713
+2025-05-05 15:22:06.209123,RPT_410716,appreciation,Request for corruption improvement in Lucknow,Lucknow,high,corruption,closed,False,38,0.8848678513819611
+2025-05-11 05:12:31.763356,RPT_405983,emergency,Request for healthcare improvement in Vadodara,Vadodara,high,healthcare,resolved,False,70,0.33322699584749305
+2025-05-29 08:39:37.870727,RPT_625095,information,Emergency situation regarding public transport in Agra,Agra,medium,public transport,pending,False,52,0.7594360892923927
+2025-05-23 05:27:15.876162,RPT_821733,suggestion,Emergency situation regarding housing in Nashik,Nashik,critical,housing,closed,True,77,0.5126081475921567
+2025-05-19 14:55:34.584947,RPT_838314,appreciation,Urgent road repair issue reported in Agra,Agra,critical,road repair,closed,True,77,0.0629380923922036
+2025-05-18 23:05:03.139094,RPT_191548,suggestion,Request for pollution improvement in Vadodara,Vadodara,low,pollution,in_progress,True,64,0.6847792885859977
+2025-05-13 07:09:11.852174,RPT_687528,suggestion,Request for education improvement in Surat,Surat,high,education,closed,True,83,0.6022400911770298
+2025-05-24 01:55:15.783696,RPT_412482,appreciation,Urgent water shortage issue reported in Thane,Thane,high,water shortage,pending,True,92,0.5742781061694539
+2025-05-04 01:05:06.695525,RPT_701171,complaint,Request for housing improvement in Mumbai,Mumbai,critical,housing,in_progress,False,97,0.8212739806744932
+2025-05-12 16:26:32.120666,RPT_339793,complaint,Urgent housing issue reported in Jaipur,Jaipur,critical,housing,pending,True,85,0.4151450642505885
+2025-05-27 12:00:58.896695,RPT_205357,suggestion,Community feedback on pollution in Visakhapatnam,Visakhapatnam,critical,pollution,resolved,True,12,0.04894275440981233
+2025-05-28 04:36:09.621978,RPT_739502,appreciation,Request for corruption improvement in Lucknow,Lucknow,critical,corruption,in_progress,False,45,0.17187999633281437
+2025-05-05 13:29:13.110473,RPT_966924,information,Request for road repair improvement in Nagpur,Nagpur,high,road repair,resolved,False,16,0.6481313691268059
+2025-05-20 20:49:05.208360,RPT_683083,information,Community feedback on water shortage in Hyderabad,Hyderabad,critical,water shortage,pending,False,24,0.05184742323158642
+2025-05-21 06:19:10.181304,RPT_300097,complaint,Community feedback on pollution in Nagpur,Nagpur,low,pollution,pending,True,80,0.6285857201628957
+2025-05-10 00:17:51.148824,RPT_769967,information,Community feedback on garbage collection in Bhopal,Bhopal,critical,garbage collection,pending,True,45,0.09083820002271914
+2025-05-22 02:40:02.353544,RPT_654917,suggestion,Urgent garbage collection issue reported in Mumbai,Mumbai,medium,garbage collection,in_progress,True,36,0.7546077022400367
+2025-05-11 12:39:53.686960,RPT_410256,appreciation,Request for corruption improvement in Pimpri-Chinchwad,Pimpri-Chinchwad,high,corruption,resolved,True,63,0.05833861875178559
+2025-05-29 20:53:52.004441,RPT_128468,complaint,Urgent monsoon flooding issue reported in Jaipur,Jaipur,low,monsoon flooding,in_progress,False,31,0.872483700456313
+2025-05-11 20:10:30.640437,RPT_755939,appreciation,Urgent water shortage issue reported in Ahmedabad,Ahmedabad,medium,water shortage,in_progress,True,50,0.35823404618456445
+2025-05-11 04:16:59.543844,RPT_217350,emergency,Emergency situation regarding street lighting in Kolkata,Kolkata,high,street lighting,closed,False,35,0.13859146246136522
+2025-05-07 10:16:32.737415,RPT_489849,emergency,Community feedback on housing in Pimpri-Chinchwad,Pimpri-Chinchwad,critical,housing,in_progress,False,10,0.8673018238369935
+2025-05-05 11:47:04.761086,RPT_724178,suggestion,Emergency situation regarding power outage in Jaipur,Jaipur,critical,power outage,in_progress,False,49,0.7457972714876699
+2025-05-26 08:43:56.524162,RPT_698313,suggestion,Emergency situation regarding traffic congestion in Thane,Thane,critical,traffic congestion,closed,True,35,0.47283402993232293
+2025-05-10 10:17:42.569747,RPT_495793,information,Community feedback on water shortage in Hyderabad,Hyderabad,high,water shortage,resolved,True,57,0.5534762838284595
+2025-05-06 04:10:22.166023,RPT_984252,suggestion,Community feedback on traffic congestion in Mumbai,Mumbai,critical,traffic congestion,pending,True,73,0.44309205001214
+2025-05-03 19:08:45.270127,RPT_606901,information,Request for power outage improvement in Pimpri-Chinchwad,Pimpri-Chinchwad,low,power outage,pending,True,77,0.9504981610807037
+2025-05-06 10:12:42.315146,RPT_410551,suggestion,Request for garbage collection improvement in Delhi,Delhi,low,garbage collection,pending,True,76,0.4053174749543733
+2025-05-29 18:20:23.456273,RPT_194818,complaint,Urgent road repair issue reported in Nagpur,Nagpur,medium,road repair,in_progress,True,10,0.1820171550331835
+2025-05-20 10:17:53.773136,RPT_185490,suggestion,Emergency situation regarding water shortage in Agra,Agra,critical,water shortage,pending,False,88,0.2579301346252072
+2025-05-17 17:59:28.601119,RPT_205676,complaint,Urgent garbage collection issue reported in Mumbai,Mumbai,high,garbage collection,in_progress,True,97,0.7189854694120746
+2025-05-23 10:07:53.826145,RPT_169480,suggestion,Community feedback on water shortage in Patna,Patna,critical,water shortage,resolved,False,95,0.4033508705675033
+2025-05-14 15:08:08.747015,RPT_287235,suggestion,Request for monsoon flooding improvement in Ghaziabad,Ghaziabad,high,monsoon flooding,in_progress,True,56,0.1265849015753564
+2025-05-09 03:22:44.835687,RPT_791174,complaint,Request for healthcare improvement in Chennai,Chennai,medium,healthcare,resolved,True,18,0.03826386607327503
+2025-05-10 14:42:17.032599,RPT_951919,suggestion,Urgent power outage issue reported in Agra,Agra,critical,power outage,pending,True,53,0.009603641195415014
+2025-05-03 01:17:45.348902,RPT_547482,suggestion,Community feedback on education in Surat,Surat,critical,education,closed,True,79,0.18678439839589545
+2025-05-28 09:16:30.087957,RPT_955206,information,Community feedback on monsoon flooding in Patna,Patna,medium,monsoon flooding,in_progress,False,26,0.6086482332393354
+2025-05-03 22:27:43.137562,RPT_186957,information,Community feedback on pollution in Nashik,Nashik,low,pollution,in_progress,False,52,0.7448739227800194
+2025-05-07 06:18:52.972920,RPT_726571,complaint,Request for traffic congestion improvement in Indore,Indore,low,traffic congestion,pending,True,29,0.3047950813361284
+2025-04-30 09:26:26.495404,RPT_462954,emergency,Urgent water shortage issue reported in Lucknow,Lucknow,medium,water shortage,resolved,True,55,0.5348243305663886
+2025-05-10 09:10:37.705112,RPT_902364,appreciation,Emergency situation regarding pollution in Bangalore,Bangalore,medium,pollution,resolved,True,16,0.5711640314868143
+2025-05-15 22:39:31.364344,RPT_695717,complaint,Emergency situation regarding corruption in Indore,Indore,medium,corruption,pending,True,27,0.25241864187803287
+2025-05-26 17:04:56.915774,RPT_498597,suggestion,Request for power outage improvement in Vadodara,Vadodara,low,power outage,in_progress,True,33,0.6113496987317956
+2025-05-11 11:20:04.700623,RPT_512410,complaint,Request for traffic congestion improvement in Bhopal,Bhopal,medium,traffic congestion,in_progress,True,66,0.10694061967113988
+2025-05-25 23:47:12.047915,RPT_342462,complaint,Urgent healthcare issue reported in Nashik,Nashik,medium,healthcare,closed,True,23,0.4927311120116872
+2025-05-06 06:31:25.922059,RPT_603459,emergency,Urgent housing issue reported in Ludhiana,Ludhiana,low,housing,resolved,True,44,0.2963014944577509
+2025-04-30 09:39:53.979932,RPT_369641,emergency,Community feedback on pollution in Kolkata,Kolkata,high,pollution,resolved,False,90,0.8962636940583877
+2025-05-22 07:01:32.028483,RPT_924391,information,Community feedback on public transport in Visakhapatnam,Visakhapatnam,high,public transport,closed,False,89,0.01187825932368014
+2025-05-27 02:15:56.385021,RPT_125900,appreciation,Request for power outage improvement in Thane,Thane,low,power outage,in_progress,False,37,0.4245671242200133
+2025-05-09 07:59:59.571413,RPT_689061,information,Request for corruption improvement in Vadodara,Vadodara,high,corruption,in_progress,False,11,0.28263840771672366
+2025-05-23 21:18:27.456773,RPT_912506,appreciation,Emergency situation regarding education in Bhopal,Bhopal,high,education,resolved,False,42,0.49800934547991615
+2025-05-01 08:45:46.798585,RPT_331745,suggestion,Community feedback on traffic congestion in Ghaziabad,Ghaziabad,medium,traffic congestion,in_progress,True,76,0.8922897265563956
+2025-05-28 18:07:30.506170,RPT_956252,information,Emergency situation regarding education in Lucknow,Lucknow,low,education,in_progress,True,21,0.8438596042462545
+2025-05-21 19:14:57.196130,RPT_762700,suggestion,Emergency situation regarding education in Surat,Surat,medium,education,pending,False,65,0.617872795999726
+2025-04-30 04:20:26.369102,RPT_892907,information,Community feedback on healthcare in Mumbai,Mumbai,critical,healthcare,closed,True,11,0.6193298100787752
+2025-05-10 01:49:49.267742,RPT_438548,information,Urgent public transport issue reported in Ludhiana,Ludhiana,high,public transport,pending,False,60,0.3975091727882243
+2025-05-22 13:01:43.973452,RPT_444978,emergency,Community feedback on power outage in Mumbai,Mumbai,low,power outage,closed,False,56,0.9672270689686386
+2025-05-22 08:43:45.830917,RPT_414568,emergency,Community feedback on housing in Thane,Thane,medium,housing,pending,False,8,0.34036948678208856
+2025-05-11 01:26:04.146181,RPT_901740,emergency,Urgent education issue reported in Hyderabad,Hyderabad,high,education,in_progress,True,72,0.13034308549686313
+2025-05-05 11:24:04.102597,RPT_527126,complaint,Emergency situation regarding street lighting in Pimpri-Chinchwad,Pimpri-Chinchwad,medium,street lighting,pending,True,17,0.5926926308030068
+2025-05-19 15:44:19.421943,RPT_542154,complaint,Urgent healthcare issue reported in Delhi,Delhi,high,healthcare,resolved,False,54,0.009464752740894089
+2025-05-12 02:17:18.023670,RPT_367185,appreciation,Community feedback on corruption in Kanpur,Kanpur,low,corruption,in_progress,True,23,0.6684849734529228
+2025-05-10 17:23:31.170457,RPT_299261,complaint,Emergency situation regarding traffic congestion in Visakhapatnam,Visakhapatnam,medium,traffic congestion,closed,False,14,0.7916536608074549
+2025-05-20 07:24:10.497712,RPT_503217,emergency,Community feedback on traffic congestion in Nagpur,Nagpur,medium,traffic congestion,closed,True,10,0.8218037388061612
+2025-05-09 03:56:41.300557,RPT_473769,emergency,Community feedback on education in Lucknow,Lucknow,medium,education,closed,True,56,0.36397761229817116
+2025-05-11 18:25:01.882861,RPT_119846,information,Request for education improvement in Bangalore,Bangalore,medium,education,pending,True,89,0.4578974414088194
+2025-05-03 23:14:14.851532,RPT_554145,information,Emergency situation regarding power outage in Chennai,Chennai,low,power outage,pending,True,66,0.9829376877633754
+2025-05-27 19:46:46.798231,RPT_860730,suggestion,Urgent water shortage issue reported in Delhi,Delhi,medium,water shortage,in_progress,True,42,0.9767945767413682
+2025-05-15 09:22:38.188128,RPT_843154,suggestion,Urgent street lighting issue reported in Bangalore,Bangalore,critical,street lighting,in_progress,False,54,0.20502621023373524
+2025-05-29 15:41:26.831835,RPT_302643,complaint,Urgent corruption issue reported in Patna,Patna,medium,corruption,closed,True,72,0.6756537957162941
+2025-05-26 07:43:29.531237,RPT_725483,information,Urgent garbage collection issue reported in Kolkata,Kolkata,medium,garbage collection,closed,True,100,0.47611480575935683
+2025-05-06 02:22:00.192326,RPT_625712,information,Request for healthcare improvement in Nashik,Nashik,critical,healthcare,closed,False,97,0.31851678392111604
+2025-05-16 05:25:50.501816,RPT_745685,suggestion,Emergency situation regarding pollution in Thane,Thane,medium,pollution,closed,False,24,0.3060909463703181
+2025-05-19 01:44:39.035244,RPT_894810,suggestion,Community feedback on pollution in Jaipur,Jaipur,critical,pollution,in_progress,True,92,0.02958266338786697
+2025-05-19 18:55:44.751122,RPT_184705,complaint,Request for power outage improvement in Kanpur,Kanpur,high,power outage,in_progress,False,73,0.9411963590894539
+2025-05-06 20:47:18.633553,RPT_386115,suggestion,Community feedback on education in Ludhiana,Ludhiana,high,education,in_progress,False,61,0.4429644934833026
+2025-05-29 11:13:09.317656,RPT_247132,emergency,Community feedback on monsoon flooding in Surat,Surat,critical,monsoon flooding,pending,False,33,0.7981556971398963
+2025-05-14 14:02:21.510357,RPT_913571,complaint,Urgent garbage collection issue reported in Pune,Pune,critical,garbage collection,closed,True,26,0.8650662078543995
+2025-05-16 21:06:21.212667,RPT_106213,appreciation,Community feedback on pollution in Bangalore,Bangalore,critical,pollution,pending,True,69,0.09579221361749657
+2025-05-05 09:07:08.811595,RPT_915765,appreciation,Request for street lighting improvement in Indore,Indore,critical,street lighting,resolved,False,59,0.5627010220688837
+2025-05-18 02:07:28.474301,RPT_358565,complaint,Community feedback on power outage in Bhopal,Bhopal,low,power outage,pending,False,79,0.8268667155968681
+2025-05-13 05:45:31.927251,RPT_563637,emergency,Emergency situation regarding street lighting in Patna,Patna,high,street lighting,resolved,False,64,0.9935389119957172
+2025-05-06 12:04:59.033784,RPT_715288,suggestion,Request for power outage improvement in Chennai,Chennai,medium,power outage,pending,True,91,0.35558326141376084
+2025-05-11 05:44:03.437810,RPT_213978,information,Urgent public transport issue reported in Pune,Pune,high,public transport,resolved,False,27,0.5889344740848481
+2025-05-22 19:27:45.473385,RPT_277386,complaint,Community feedback on corruption in Kolkata,Kolkata,low,corruption,in_progress,True,95,0.34059055942124183
+2025-05-12 18:09:18.710341,RPT_393810,appreciation,Emergency situation regarding housing in Patna,Patna,high,housing,closed,False,29,0.30493506715333385
+2025-05-23 05:54:55.131457,RPT_374918,complaint,Emergency situation regarding monsoon flooding in Visakhapatnam,Visakhapatnam,high,monsoon flooding,closed,False,94,0.8015543643636246
+2025-05-03 02:08:39.158332,RPT_139867,emergency,Request for garbage collection improvement in Chennai,Chennai,medium,garbage collection,in_progress,True,42,0.7188847443257652
+2025-05-05 04:46:52.578158,RPT_162115,information,Emergency situation regarding corruption in Agra,Agra,high,corruption,closed,True,58,0.11320075906191318
+2025-05-10 18:56:11.094743,RPT_341284,emergency,Request for pollution improvement in Ahmedabad,Ahmedabad,medium,pollution,closed,True,69,0.4816615063739558
+2025-05-24 08:57:23.337170,RPT_346969,information,Request for street lighting improvement in Bangalore,Bangalore,high,street lighting,closed,True,58,0.10977111924211236
+2025-05-03 04:27:20.958776,RPT_419940,information,Request for road repair improvement in Surat,Surat,high,road repair,in_progress,False,49,0.1284258359098237
+2025-04-30 07:35:16.560491,RPT_297607,information,Emergency situation regarding corruption in Nashik,Nashik,low,corruption,resolved,False,46,0.647032917908102
+2025-05-23 14:38:05.899284,RPT_463480,emergency,Emergency situation regarding garbage collection in Ghaziabad,Ghaziabad,critical,garbage collection,in_progress,True,7,0.9486665167275029
+2025-05-07 21:41:16.605567,RPT_763128,complaint,Request for road repair improvement in Nashik,Nashik,critical,road repair,resolved,False,13,0.15176215488442035
+2025-05-28 08:38:18.528117,RPT_383714,information,Emergency situation regarding corruption in Ghaziabad,Ghaziabad,low,corruption,closed,False,18,0.6461722501023477
+2025-05-24 18:23:25.792322,RPT_602651,information,Request for education improvement in Indore,Indore,low,education,in_progress,False,40,0.857293860829759
+2025-05-09 08:54:39.693261,RPT_677442,complaint,Urgent traffic congestion issue reported in Kolkata,Kolkata,critical,traffic congestion,in_progress,True,9,0.698743856779383
+2025-05-18 17:26:06.606622,RPT_144649,complaint,Community feedback on garbage collection in Lucknow,Lucknow,high,garbage collection,resolved,True,58,0.39581054872129595
+2025-05-08 03:27:42.404074,RPT_715942,information,Request for water shortage improvement in Kolkata,Kolkata,critical,water shortage,resolved,False,82,0.041603563854652026
+2025-04-30 07:02:48.737175,RPT_379860,appreciation,Emergency situation regarding public transport in Lucknow,Lucknow,low,public transport,in_progress,False,4,0.4707809524306017
+2025-05-17 05:33:06.291431,RPT_614247,appreciation,Emergency situation regarding pollution in Hyderabad,Hyderabad,medium,pollution,closed,True,83,0.3035610434821143
+2025-05-17 10:21:27.142630,RPT_606511,appreciation,Urgent healthcare issue reported in Bhopal,Bhopal,critical,healthcare,resolved,True,93,0.06750303942562996
+2025-05-07 09:27:53.841094,RPT_352241,emergency,Request for water shortage improvement in Surat,Surat,low,water shortage,in_progress,True,56,0.9019643224134024
+2025-05-10 07:46:19.564266,RPT_964769,emergency,Community feedback on power outage in Agra,Agra,critical,power outage,pending,True,100,0.4493099752294831
+2025-05-21 23:02:54.450654,RPT_352538,appreciation,Urgent education issue reported in Patna,Patna,medium,education,pending,True,52,0.8102539959284564
+2025-05-10 21:04:15.570852,RPT_499239,suggestion,Urgent power outage issue reported in Mumbai,Mumbai,high,power outage,closed,False,30,0.12942316879253157
+2025-05-02 01:05:26.051698,RPT_115221,complaint,Urgent street lighting issue reported in Kolkata,Kolkata,medium,street lighting,in_progress,False,76,0.5868972890039096
+2025-05-24 09:17:05.638456,RPT_581142,emergency,Community feedback on garbage collection in Delhi,Delhi,low,garbage collection,closed,False,7,0.6112008034925014
+2025-05-05 19:13:52.333973,RPT_740203,appreciation,Urgent road repair issue reported in Surat,Surat,high,road repair,closed,True,74,0.588475663515207
+2025-05-05 08:44:16.532206,RPT_500756,complaint,Urgent garbage collection issue reported in Chennai,Chennai,high,garbage collection,resolved,True,6,0.14007278827042957
+2025-05-12 05:52:35.648936,RPT_583577,emergency,Emergency situation regarding water shortage in Bhopal,Bhopal,high,water shortage,pending,False,76,0.21118348903907447
+2025-05-14 11:00:52.729074,RPT_758707,emergency,Community feedback on healthcare in Visakhapatnam,Visakhapatnam,medium,healthcare,in_progress,True,0,0.1391100092831259
+2025-05-04 05:43:07.671829,RPT_601065,emergency,Urgent traffic congestion issue reported in Agra,Agra,critical,traffic congestion,in_progress,True,88,0.5765642368956022
+2025-05-01 02:15:43.854978,RPT_136059,complaint,Request for pollution improvement in Pune,Pune,high,pollution,in_progress,False,24,0.34721557420861593
+2025-05-21 22:58:34.592861,RPT_471681,appreciation,Emergency situation regarding pollution in Kolkata,Kolkata,medium,pollution,resolved,False,66,0.534093767399572
+2025-05-08 06:39:08.736164,RPT_219665,appreciation,Request for street lighting improvement in Jaipur,Jaipur,medium,street lighting,resolved,True,72,0.28794643338323156
+2025-05-11 06:31:51.787420,RPT_607220,suggestion,Urgent street lighting issue reported in Ahmedabad,Ahmedabad,high,street lighting,resolved,False,53,0.6981051079383283
+2025-05-06 13:13:28.839161,RPT_608403,information,Emergency situation regarding garbage collection in Mumbai,Mumbai,high,garbage collection,closed,True,75,0.29926652658505315
+2025-05-03 06:57:52.319824,RPT_238283,suggestion,Request for garbage collection improvement in Ludhiana,Ludhiana,medium,garbage collection,pending,True,84,0.887353070552886
+2025-05-29 03:05:41.445652,RPT_917317,information,Emergency situation regarding corruption in Pune,Pune,low,corruption,pending,True,25,0.9466960656637566
+2025-05-02 15:59:31.809281,RPT_840548,emergency,Request for public transport improvement in Kanpur,Kanpur,low,public transport,closed,True,62,0.18819861283155292
+2025-05-24 02:41:52.316932,RPT_144782,information,Request for road repair improvement in Jaipur,Jaipur,low,road repair,pending,True,68,0.5978649302789792
+2025-05-16 13:29:49.383780,RPT_368776,suggestion,Request for corruption improvement in Bangalore,Bangalore,medium,corruption,closed,False,85,0.0667957179140547
+2025-05-04 21:51:31.774420,RPT_810861,emergency,Urgent garbage collection issue reported in Delhi,Delhi,low,garbage collection,resolved,False,38,0.7358066399892185
+2025-05-26 21:08:12.061000,RPT_722736,information,Request for public transport improvement in Jaipur,Jaipur,critical,public transport,in_progress,True,32,0.778453381399725
+2025-05-02 05:17:08.419837,RPT_554581,emergency,Urgent traffic congestion issue reported in Patna,Patna,low,traffic congestion,in_progress,False,37,0.06244597792657891
+2025-05-29 06:17:22.680926,RPT_750623,complaint,Urgent power outage issue reported in Nagpur,Nagpur,critical,power outage,closed,True,98,0.8585609259412013
+2025-05-01 18:17:28.622911,RPT_636174,suggestion,Urgent housing issue reported in Kanpur,Kanpur,medium,housing,resolved,True,94,0.09029485610072807
+2025-05-18 08:25:47.508263,RPT_929395,information,Emergency situation regarding road repair in Chennai,Chennai,high,road repair,pending,True,49,0.3995950902635692
+2025-05-08 04:21:19.963614,RPT_983656,suggestion,Request for education improvement in Nashik,Nashik,low,education,pending,False,4,0.2601940551534011
+2025-05-25 06:29:09.583153,RPT_469232,appreciation,Emergency situation regarding education in Ghaziabad,Ghaziabad,critical,education,closed,True,52,0.9383504841949865
+2025-05-19 10:14:24.419065,RPT_830577,information,Emergency situation regarding corruption in Thane,Thane,low,corruption,in_progress,True,3,0.045930161229287614
+2025-05-05 03:48:21.547726,RPT_374575,emergency,Community feedback on monsoon flooding in Bangalore,Bangalore,low,monsoon flooding,in_progress,True,62,0.6315512714777938
+2025-05-17 10:15:25.045858,RPT_276457,suggestion,Emergency situation regarding street lighting in Ludhiana,Ludhiana,critical,street lighting,closed,True,10,0.7328287236277803
+2025-05-16 14:44:43.078865,RPT_132099,appreciation,Emergency situation regarding traffic congestion in Surat,Surat,medium,traffic congestion,in_progress,True,35,0.14229706899987715
+2025-05-22 18:04:13.493711,RPT_185326,suggestion,Urgent garbage collection issue reported in Vadodara,Vadodara,critical,garbage collection,resolved,False,64,0.07812487776059662
+2025-05-04 12:16:31.089074,RPT_679488,suggestion,Request for power outage improvement in Ghaziabad,Ghaziabad,high,power outage,resolved,False,95,0.8938981512281209
+2025-05-25 07:55:29.179038,RPT_614258,information,Emergency situation regarding street lighting in Indore,Indore,low,street lighting,in_progress,False,45,0.25540511996909887
+2025-05-15 22:19:30.979769,RPT_885479,appreciation,Emergency situation regarding garbage collection in Agra,Agra,medium,garbage collection,closed,True,4,0.015385990895396606
+2025-05-02 01:52:30.397290,RPT_823235,appreciation,Emergency situation regarding road repair in Bangalore,Bangalore,high,road repair,closed,False,29,0.33899051894426824
+2025-05-09 02:17:27.576420,RPT_260947,suggestion,Emergency situation regarding power outage in Pimpri-Chinchwad,Pimpri-Chinchwad,low,power outage,in_progress,False,2,0.2612858998483796
+2025-05-04 15:52:56.284945,RPT_900119,emergency,Community feedback on garbage collection in Vadodara,Vadodara,high,garbage collection,resolved,True,60,0.46871039279501636
+2025-05-14 16:02:04.589531,RPT_272063,appreciation,Community feedback on education in Pune,Pune,high,education,pending,True,48,0.951460613942487
+2025-05-15 09:18:12.856663,RPT_447840,appreciation,Urgent power outage issue reported in Bhopal,Bhopal,medium,power outage,resolved,False,84,0.4644823802196808
+2025-05-04 15:25:27.662563,RPT_123381,emergency,Emergency situation regarding healthcare in Vadodara,Vadodara,critical,healthcare,closed,True,2,0.5817207850127085
+2025-05-11 16:04:22.614652,RPT_793501,emergency,Community feedback on water shortage in Nagpur,Nagpur,high,water shortage,pending,False,25,0.24519730385743443
+2025-05-30 02:23:17.564709,RPT_251835,information,Request for garbage collection improvement in Agra,Agra,critical,garbage collection,closed,False,80,0.2646917132071851
+2025-05-28 06:10:44.398244,RPT_450883,complaint,Emergency situation regarding water shortage in Kanpur,Kanpur,high,water shortage,pending,True,1,0.8470563128092468
+2025-05-12 06:30:47.956755,RPT_623815,suggestion,Urgent water shortage issue reported in Nashik,Nashik,medium,water shortage,pending,True,1,0.9663591755161486
+2025-05-02 13:04:45.790813,RPT_938523,information,Community feedback on garbage collection in Ludhiana,Ludhiana,low,garbage collection,in_progress,False,38,0.9224218183709613
+2025-05-17 13:16:59.818109,RPT_353460,emergency,Community feedback on garbage collection in Thane,Thane,high,garbage collection,closed,True,1,0.9222099332285644
+2025-05-14 00:54:55.748931,RPT_940721,information,Urgent healthcare issue reported in Nagpur,Nagpur,low,healthcare,in_progress,True,7,0.05754756424412344
+2025-05-10 11:51:12.009955,RPT_490674,complaint,Community feedback on corruption in Surat,Surat,high,corruption,closed,False,2,0.4044417292769462
+2025-05-25 15:17:00.896359,RPT_247642,emergency,Request for garbage collection improvement in Bhopal,Bhopal,low,garbage collection,closed,False,82,0.8648080793742295
+2025-04-30 22:20:04.613759,RPT_908785,appreciation,Request for garbage collection improvement in Visakhapatnam,Visakhapatnam,high,garbage collection,in_progress,True,26,0.9768678133563787
+2025-05-15 17:54:33.409522,RPT_751465,complaint,Request for education improvement in Patna,Patna,medium,education,closed,True,30,0.6407581934376518
+2025-05-26 22:07:07.139669,RPT_489402,appreciation,Urgent water shortage issue reported in Mumbai,Mumbai,medium,water shortage,closed,False,62,0.7030193928586034
+2025-05-02 14:47:56.356770,RPT_227302,emergency,Urgent corruption issue reported in Pimpri-Chinchwad,Pimpri-Chinchwad,low,corruption,in_progress,False,9,0.8865574505540875
+2025-05-20 20:41:11.375450,RPT_434031,suggestion,Request for housing improvement in Chennai,Chennai,critical,housing,resolved,True,74,0.7107359100314812
+2025-05-24 09:57:17.295467,RPT_542535,complaint,Emergency situation regarding water shortage in Surat,Surat,medium,water shortage,in_progress,True,61,0.6868525657726963
+2025-05-04 19:39:44.690756,RPT_611642,information,Request for pollution improvement in Surat,Surat,critical,pollution,in_progress,False,6,0.8269905215434002

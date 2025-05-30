@@ -1,0 +1,41 @@
+============================================================
+          HYPERLOCAL INTELLIGENCE ANALYSIS REPORT           
+============================================================
+Generated: 2025-05-30 04:26:41
+
+--- SENTIMENT ANALYSIS SUMMARY ---
+Location: Hyderabad, Telangana
+  Avg Sentiment: -0.136, Alert Level: LOW, Posts: 60
+  Top Issues: traffic jam (4), pollution (2), no water (1)
+
+Location: Mumbai, Maharashtra
+  Avg Sentiment: -0.072, Alert Level: NORMAL, Posts: 72
+  Top Issues: pollution (5), no water (2), traffic jam (2)
+
+Location: Bangalore, Karnataka
+  Avg Sentiment: -0.038, Alert Level: NORMAL, Posts: 66
+  Top Issues: pollution (6), traffic jam (6), no water (1)
+
+Location: Jaipur, Rajasthan
+  Avg Sentiment: -0.051, Alert Level: NORMAL, Posts: 54
+  Top Issues: pollution (5), no water (1), traffic jam (1)
+
+Location: Delhi, Delhi
+  Avg Sentiment: -0.120, Alert Level: LOW, Posts: 72
+  Top Issues: traffic jam (10), pollution (1)
+
+--- ANOMALY ALERTS ---
+No anomaly alerts detected.
+
+--- FRICTION RISK ASSESSMENT ---
+No significant friction risks identified.
+
+--- MISINFORMATION MONITORING ---
+No significant misinformation detected.
+
+--- INTERVENTION RECOMMENDATIONS ---
+No specific recommendations generated at this time.
+
+============================================================
+                       End of Report                        
+============================================================

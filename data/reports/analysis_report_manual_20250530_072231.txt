@@ -1,0 +1,36 @@
+============================================================
+          HYPERLOCAL INTELLIGENCE ANALYSIS REPORT           
+============================================================
+Generated: 2025-05-30 07:22:31
+
+--- SENTIMENT ANALYSIS SUMMARY ---
+Location: Ahmedabad, Gujarat
+  Avg Sentiment: -0.075, Alert Level: NORMAL, Posts: 60
+
+Location: Bangalore, Karnataka
+  Avg Sentiment: -0.038, Alert Level: NORMAL, Posts: 66
+
+Location: Bhopal, Madhya Pradesh
+  Avg Sentiment: -0.026, Alert Level: NORMAL, Posts: 66
+
+Location: Chennai, Tamil Nadu
+  Avg Sentiment: -0.161, Alert Level: LOW, Posts: 53
+
+Location: Delhi, Delhi
+  Avg Sentiment: -0.120, Alert Level: LOW, Posts: 72
+
+--- ANOMALY ALERTS ---
+No anomaly alerts detected.
+
+--- FRICTION RISK ASSESSMENT ---
+No significant friction risks identified.
+
+--- MISINFORMATION MONITORING ---
+No significant misinformation detected.
+
+--- INTERVENTION RECOMMENDATIONS ---
+No specific recommendations generated at this time.
+
+============================================================
+                       End of Report                        
+============================================================
