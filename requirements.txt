@@ -7,4 +7,5 @@ nltk
 joblib  # For model persistence
 streamlit
 altair<5
-# Add any other specific versions if necessary, e.g., pandas==1.5.3
+langchain
+openai
