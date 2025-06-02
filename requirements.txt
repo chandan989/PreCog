@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+textblob
+vaderSentiment
+nltk
+joblib  # For model persistence
+streamlit
+altair<5
+plotly
+streamlit_folium
+folium
+google-cloud-aiplatform  # For Google Vertex AI SDK

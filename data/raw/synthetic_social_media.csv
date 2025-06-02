@@ -1,0 +1,1001 @@
+id,text,timestamp,user_id,location_approx,source_platform,likes,shares,language
+post_0000,Feeling hopeful about developments in Hyderabad.,2025-05-26 12:32:32.470758,user_6390,"Hyderabad, Telangana",Facebook,106,71,hi
+post_0001,Just observing the situation regarding waste management in Mumbai.,2025-05-04 11:22:32.471662,user_7265,"Mumbai, Maharashtra",Twitter,466,86,en
+post_0002,Concerned about the rising theft in our area. #safety,2025-05-22 21:37:32.471695,user_9322,"Hyderabad, Telangana",Instagram,149,52,hi
+post_0003,Great initiative by local authorities for health services. #positivechange,2025-05-31 08:17:32.471867,user_7949,"Bangalore, Karnataka",Instagram,385,63,en
+post_0004,Attended a meeting about local events in Jaipur today.,2025-05-05 11:28:32.471891,user_5555,"Jaipur, Rajasthan",Twitter,313,21,en
+post_0005,Endless wait times at the Collectorate in Delhi. #inefficiency,2025-05-04 20:36:32.471914,user_9666,"Delhi, Delhi",Facebook,58,41,en
+post_0006,Just observing the situation regarding waste management in Jaipur.,2025-05-05 16:46:32.471940,user_1189,"Jaipur, Rajasthan",Facebook,445,46,hinglish
+post_0007,Just observing the situation regarding crime in Thane.,2025-05-03 13:17:32.471962,user_8734,"Thane, Maharashtra",LocalForum,243,63,en
+post_0008,Warning! Unverified news about a local festival spreading in Mumbai.,2025-05-09 05:24:32.471984,user_4890,"Mumbai, Maharashtra",LocalForum,134,20,en
+post_0009,Garbage not collected in North Nagpur for a week. #swachhbharat?,2025-05-25 01:43:32.472005,user_9792,"Nagpur, Maharashtra",LocalForum,315,13,hinglish
+post_0010,This new policy is a disaster for people in Kolkata.,2025-05-15 23:35:32.472026,user_3612,"Kolkata, West Bengal",Facebook,385,83,en
+post_0011,Weather in Mumbai is quite sunny today.,2025-05-05 17:01:32.472047,user_1775,"Mumbai, Maharashtra",Facebook,430,34,en
+post_0012,Great initiative by local authorities for environment. #positivechange,2025-05-19 15:25:32.472068,user_2585,"Patna, Bihar",Instagram,359,3,en
+post_0013,No water supply in Bhopal for 3 days! #watercrisis @localMLA,2025-06-01 02:07:32.472089,user_4843,"Bhopal, Madhya Pradesh",LocalForum,309,92,en
+post_0014,Power outage for hours in Kolkata! This is unacceptable. @ কর্তৃপক্ষ,2025-05-15 20:27:32.472110,user_5297,"Kolkata, West Bengal",Facebook,445,99,hinglish
+post_0015,Loving the new park in Delhi! #community #goodgovernance,2025-05-19 16:46:32.472131,user_8629,"Delhi, Delhi",Twitter,214,61,hi
+post_0016,Attended a meeting about infrastructure in Delhi today.,2025-05-25 11:45:32.472152,user_8916,"Delhi, Delhi",Facebook,337,52,en
+post_0017,Attended a meeting about local events in Ahmedabad today.,2025-05-09 19:20:32.472173,user_6276,"Ahmedabad, Gujarat",Instagram,14,44,en
+post_0018,बहुत अच्छा काम हो रहा है Bangalore में। #विकास,2025-06-02 01:52:32.472194,user_6463,"Bangalore, Karnataka",Facebook,128,7,en
+post_0019,Attended a meeting about environment in Lucknow today.,2025-05-09 21:10:32.472215,user_7736,"Lucknow, Uttar Pradesh",Facebook,391,34,hinglish
+post_0020,Pune market seems busy as usual.,2025-05-31 07:02:32.472237,user_6892,"Pune, Maharashtra",Instagram,489,40,en
+post_0021,Just observing the situation regarding traffic in Bhopal.,2025-05-06 01:52:32.472258,user_4104,"Bhopal, Madhya Pradesh",Twitter,47,22,en
+post_0022,"The roads in Ward 20, Delhi are in pathetic condition. #badroads",2025-05-03 08:24:32.472280,user_3731,"Delhi, Delhi",Twitter,359,85,en
+post_0023,Endless wait times at the Municipal Office in Kanpur. #inefficiency,2025-05-07 06:00:32.472301,user_9110,"Kanpur, Uttar Pradesh",LocalForum,461,2,en
+post_0024,Great initiative by local authorities for education. #positivechange,2025-06-02 03:35:32.472322,user_1502,"Ahmedabad, Gujarat",Instagram,254,13,en
+post_0025,बहुत अच्छा काम हो रहा है Jaipur में। #विकास,2025-05-26 23:46:32.472343,user_6134,"Jaipur, Rajasthan",Twitter,345,41,hi
+post_0026,Terrible traffic jam again in Pune. When will this be fixed? #civicissue,2025-05-05 19:10:32.472365,user_1863,"Pune, Maharashtra",Instagram,230,51,hi
+post_0027,Pune में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-05 04:31:32.472393,user_8574,"Pune, Maharashtra",Instagram,230,14,en
+post_0028,Just observing the situation regarding water shortage in Bhopal.,2025-05-23 04:48:32.472415,user_4157,"Bhopal, Madhya Pradesh",Facebook,283,65,en
+post_0029,Heard a rumor that a new lockdown is happening in Ahmedabad. Can anyone confirm? #fakenewsalert,2025-05-23 19:04:32.472437,user_3693,"Ahmedabad, Gujarat",Facebook,283,27,en
+post_0030,Great initiative by local authorities for infrastructure. #positivechange,2025-05-21 20:41:32.472458,user_6450,"Bhopal, Madhya Pradesh",LocalForum,127,91,en
+post_0031,Garbage not collected in East Ahmedabad for a week. #swachhbharat?,2025-05-09 01:28:32.472479,user_2306,"Ahmedabad, Gujarat",Twitter,445,76,en
+post_0032,Power outage for hours in Ahmedabad! This is unacceptable. @ কর্তৃপক্ষ,2025-05-25 05:22:32.472500,user_9901,"Ahmedabad, Gujarat",LocalForum,455,26,hinglish
+post_0033,Mumbai में बिजली की कटौती से जनता परेशान। #powercut,2025-05-25 03:28:32.472521,user_1663,"Mumbai, Maharashtra",Instagram,462,58,en
+post_0034,Mumbai में noise pollution से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-11 08:20:32.472542,user_4763,"Mumbai, Maharashtra",Facebook,112,61,en
+post_0035,Indore में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-16 12:49:32.472562,user_4581,"Indore, Madhya Pradesh",Twitter,294,1,hinglish
+post_0036,Loving the new park in Nagpur! #community #goodgovernance,2025-05-30 15:24:32.472582,user_4696,"Nagpur, Maharashtra",Twitter,439,80,hi
+post_0037,Concerned about the rising theft in our area. #safety,2025-05-06 15:59:32.472608,user_5737,"Pune, Maharashtra",Facebook,219,53,en
+post_0038,Feeling hopeful about developments in Ahmedabad.,2025-05-11 03:29:32.472629,user_8392,"Ahmedabad, Gujarat",Instagram,384,18,en
+post_0039,No water supply in Thane for 3 days! #watercrisis @localMLA,2025-05-04 06:08:32.472649,user_2707,"Thane, Maharashtra",Instagram,217,31,en
+post_0040,No water supply in Ahmedabad for 3 days! #watercrisis @localMLA,2025-05-27 09:57:32.472676,user_4510,"Ahmedabad, Gujarat",Facebook,202,55,en
+post_0041,This new policy is a disaster for people in Jaipur.,2025-05-06 15:23:32.472696,user_3327,"Jaipur, Rajasthan",LocalForum,324,97,en
+post_0042,Great initiative by local authorities for education. #positivechange,2025-05-27 10:50:32.472716,user_7287,"Mumbai, Maharashtra",LocalForum,96,72,en
+post_0043,Great initiative by local authorities for health services. #positivechange,2025-05-06 02:45:32.472738,user_1659,"Jaipur, Rajasthan",Instagram,251,58,en
+post_0044,This new policy is a disaster for people in Kolkata.,2025-05-29 13:35:32.472758,user_2986,"Kolkata, West Bengal",LocalForum,146,19,en
+post_0045,Loving the new park in Kanpur! #community #goodgovernance,2025-05-26 12:20:32.472779,user_3976,"Kanpur, Uttar Pradesh",Instagram,423,38,en
+post_0046,Thank you for addressing the crime issue promptly!,2025-05-16 01:00:32.472800,user_2802,"Ahmedabad, Gujarat",Twitter,475,56,hi
+post_0047,Forwarded as received: all schools closing tomorrow in Hyderabad! Is this true?,2025-05-08 14:38:32.472820,user_6534,"Hyderabad, Telangana",LocalForum,477,41,en
+post_0048,Power outage for hours in Patna! This is unacceptable. @ কর্তৃপক্ষ,2025-05-31 01:01:32.472842,user_7287,"Patna, Bihar",Facebook,345,59,hi
+post_0049,No water supply in Jaipur for 3 days! #watercrisis @localMLA,2025-05-17 07:00:32.472862,user_6423,"Jaipur, Rajasthan",Instagram,253,11,hi
+post_0050,This new policy is a disaster for people in Patna.,2025-05-29 03:29:32.472888,user_8158,"Patna, Bihar",Twitter,8,98,hinglish
+post_0051,Kolkata में illegal construction से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-14 16:45:32.472908,user_2154,"Kolkata, West Bengal",Twitter,403,23,hinglish
+post_0052,Kanpur में theft से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-11 08:28:32.472933,user_2648,"Kanpur, Uttar Pradesh",Twitter,455,35,hi
+post_0053,Power outage for hours in Bhopal! This is unacceptable. @ কর্তৃপক্ষ,2025-05-28 00:41:32.472954,user_9445,"Bhopal, Madhya Pradesh",LocalForum,226,88,en
+post_0054,Ahmedabad market seems busy as usual.,2025-05-30 14:15:32.472975,user_5433,"Ahmedabad, Gujarat",Instagram,193,53,hi
+post_0055,Jaipur में noise pollution से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-30 16:20:32.472996,user_9352,"Jaipur, Rajasthan",Instagram,67,32,hinglish
+post_0056,Just observing the situation regarding waste management in Lucknow.,2025-05-19 11:13:32.473017,user_4987,"Lucknow, Uttar Pradesh",Facebook,383,7,hi
+post_0057,Endless wait times at the Municipal Office in Ahmedabad. #inefficiency,2025-05-27 05:44:32.473038,user_5735,"Ahmedabad, Gujarat",Instagram,32,47,hinglish
+post_0058,Thank you for addressing the pollution issue promptly!,2025-05-21 13:39:32.473058,user_4446,"Bhopal, Madhya Pradesh",LocalForum,21,29,hi
+post_0059,Kanpur में बिजली की कटौती से जनता परेशान। #powercut,2025-05-28 02:16:32.473079,user_9754,"Kanpur, Uttar Pradesh",Twitter,437,7,en
+post_0060,Heard a rumor that a natural disaster warning is happening in Lucknow. Can anyone confirm? #fakenewsalert,2025-05-07 06:40:32.473100,user_5893,"Lucknow, Uttar Pradesh",Facebook,96,27,en
+post_0061,Just observing the situation regarding pollution in Bangalore.,2025-05-19 07:56:32.473135,user_8996,"Bangalore, Karnataka",Twitter,303,18,hinglish
+post_0062,Forwarded as received: free money distribution in Bhopal! Is this true?,2025-05-30 05:12:32.473156,user_8679,"Bhopal, Madhya Pradesh",Twitter,16,43,en
+post_0063,Nagpur market seems busy as usual.,2025-05-05 18:08:32.473177,user_2060,"Nagpur, Maharashtra",Instagram,279,92,en
+post_0064,Weather in Pune is quite hot today.,2025-05-16 18:08:32.473198,user_1606,"Pune, Maharashtra",Instagram,98,59,hinglish
+post_0065,बहुत अच्छा काम हो रहा है Kolkata में। #विकास,2025-06-01 12:40:32.473221,user_3975,"Kolkata, West Bengal",Twitter,470,32,en
+post_0066,Endless wait times at the Police Station in Ahmedabad. #inefficiency,2025-05-30 14:36:32.473242,user_6854,"Ahmedabad, Gujarat",Instagram,53,57,hi
+post_0067,Great initiative by local authorities for education. #positivechange,2025-05-31 00:15:32.473263,user_4863,"Nagpur, Maharashtra",Twitter,113,31,hinglish
+post_0068,Heard a rumor that a protest march is happening in Lucknow. Can anyone confirm? #fakenewsalert,2025-05-18 10:38:32.473283,user_4009,"Lucknow, Uttar Pradesh",Twitter,126,26,hinglish
+post_0069,Warning! Unverified news about a local festival spreading in Thane.,2025-05-24 06:35:32.473304,user_1784,"Thane, Maharashtra",Instagram,103,32,en
+post_0070,Loving the new park in Jaipur! #community #goodgovernance,2025-05-24 21:07:32.473325,user_8343,"Jaipur, Rajasthan",Facebook,38,92,hi
+post_0071,Power outage for hours in Ahmedabad! This is unacceptable. @ কর্তৃপক্ষ,2025-05-23 09:35:32.473345,user_6986,"Ahmedabad, Gujarat",Facebook,305,24,en
+post_0072,Attended a meeting about public safety in Ahmedabad today.,2025-05-09 19:01:32.473366,user_6625,"Ahmedabad, Gujarat",Instagram,390,56,hi
+post_0073,Power outage for hours in Hyderabad! This is unacceptable. @ কর্তৃপক্ষ,2025-05-29 19:41:32.473386,user_3368,"Hyderabad, Telangana",LocalForum,263,15,hinglish
+post_0074,Loving the new park in Bhopal! #community #goodgovernance,2025-05-19 20:10:32.473406,user_7614,"Bhopal, Madhya Pradesh",LocalForum,142,91,en
+post_0075,Hyderabad में बिजली की कटौती से जनता परेशान। #powercut,2025-06-01 06:29:32.473427,user_1853,"Hyderabad, Telangana",Twitter,50,24,en
+post_0076,Kanpur market seems busy as usual.,2025-05-07 10:03:32.473447,user_8509,"Kanpur, Uttar Pradesh",Instagram,304,51,hinglish
+post_0077,Delhi market seems busy as usual.,2025-05-24 02:46:32.473468,user_3491,"Delhi, Delhi",Facebook,100,96,en
+post_0078,Loving the new park in Patna! #community #goodgovernance,2025-05-25 11:01:32.473497,user_4051,"Patna, Bihar",Instagram,107,4,en
+post_0079,Jaipur market seems busy as usual.,2025-05-27 04:55:32.473517,user_1876,"Jaipur, Rajasthan",Twitter,479,93,en
+post_0080,Pune में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-19 05:06:32.473538,user_8079,"Pune, Maharashtra",Twitter,307,15,hi
+post_0081,Jaipur में illegal construction से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-20 14:01:32.473558,user_2693,"Jaipur, Rajasthan",LocalForum,146,16,hi
+post_0082,Thank you for addressing the traffic issue promptly!,2025-05-09 13:33:32.473578,user_6177,"Lucknow, Uttar Pradesh",Twitter,438,89,en
+post_0083,Thank you for addressing the pollution issue promptly!,2025-05-28 11:38:32.473598,user_2150,"Thane, Maharashtra",Instagram,392,11,hi
+post_0084,Just observing the situation regarding traffic in Indore.,2025-05-13 07:03:32.473619,user_1512,"Indore, Madhya Pradesh",Twitter,238,33,en
+post_0085,Indore में noise pollution से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-03 10:13:32.473639,user_4672,"Indore, Madhya Pradesh",Facebook,487,0,hinglish
+post_0086,Power outage for hours in Nagpur! This is unacceptable. @ কর্তৃপক্ষ,2025-05-18 01:56:32.473660,user_8004,"Nagpur, Maharashtra",LocalForum,246,66,en
+post_0087,Bhopal market seems busy as usual.,2025-05-21 16:10:32.473680,user_8253,"Bhopal, Madhya Pradesh",Twitter,184,28,en
+post_0088,Bangalore में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-20 03:14:32.473701,user_3141,"Bangalore, Karnataka",Facebook,237,61,en
+post_0089,Terrible traffic jam again in Patna. When will this be fixed? #civicissue,2025-05-14 03:49:32.473722,user_7617,"Patna, Bihar",Facebook,431,84,en
+post_0090,Concerned about the rising theft in our area. #safety,2025-05-27 04:28:32.473742,user_8421,"Lucknow, Uttar Pradesh",Facebook,221,22,en
+post_0091,Warning! Unverified news about a local festival spreading in Chennai.,2025-05-07 22:07:32.473763,user_3849,"Chennai, Tamil Nadu",Twitter,179,94,hi
+post_0092,Terrible traffic jam again in Thane. When will this be fixed? #civicissue,2025-05-23 13:03:32.473784,user_5611,"Thane, Maharashtra",Instagram,15,23,hinglish
+post_0093,This new policy is a disaster for people in Hyderabad.,2025-05-17 09:59:32.473804,user_7303,"Hyderabad, Telangana",Facebook,474,83,hinglish
+post_0094,Power outage for hours in Delhi! This is unacceptable. @ কর্তৃপক্ষ,2025-05-09 20:11:32.473825,user_3427,"Delhi, Delhi",LocalForum,32,32,en
+post_0095,Lucknow में बिजली की कटौती से जनता परेशान। #powercut,2025-05-04 13:18:32.473846,user_6732,"Lucknow, Uttar Pradesh",Twitter,267,66,hinglish
+post_0096,Power outage for hours in Hyderabad! This is unacceptable. @ কর্তৃপক্ষ,2025-06-02 07:21:32.473866,user_4913,"Hyderabad, Telangana",LocalForum,42,43,hi
+post_0097,Terrible traffic jam again in Ahmedabad. When will this be fixed? #civicissue,2025-05-04 19:49:32.473886,user_6726,"Ahmedabad, Gujarat",Facebook,301,1,hinglish
+post_0098,Terrible traffic jam again in Patna. When will this be fixed? #civicissue,2025-05-04 13:11:32.473906,user_3082,"Patna, Bihar",Twitter,214,80,en
+post_0099,Just observing the situation regarding traffic in Thane.,2025-05-08 00:32:32.473927,user_1417,"Thane, Maharashtra",Facebook,114,6,hi
+post_0100,Attended a meeting about local events in Kolkata today.,2025-05-29 11:11:32.473947,user_1412,"Kolkata, West Bengal",Twitter,375,35,en
+post_0101,Terrible traffic jam again in Bangalore. When will this be fixed? #civicissue,2025-05-08 11:04:32.473967,user_9867,"Bangalore, Karnataka",LocalForum,393,72,hi
+post_0102,Thank you for addressing the power cuts issue promptly!,2025-05-10 05:12:32.473988,user_2122,"Chennai, Tamil Nadu",Instagram,495,35,en
+post_0103,Terrible traffic jam again in Pune. When will this be fixed? #civicissue,2025-05-15 15:22:32.474008,user_3143,"Pune, Maharashtra",Facebook,151,22,en
+post_0104,This new policy is a disaster for people in Patna.,2025-05-04 03:49:32.474028,user_4440,"Patna, Bihar",Twitter,182,12,en
+post_0105,This new policy is a disaster for people in Lucknow.,2025-05-11 05:20:32.474048,user_6917,"Lucknow, Uttar Pradesh",Instagram,272,61,hi
+post_0106,Thank you for addressing the crime issue promptly!,2025-05-13 16:36:32.474068,user_2365,"Delhi, Delhi",Instagram,396,58,en
+post_0107,Just observing the situation regarding power cuts in Delhi.,2025-05-14 15:25:32.474089,user_1395,"Delhi, Delhi",Facebook,444,18,hinglish
+post_0108,Just observing the situation regarding waste management in Mumbai.,2025-05-21 23:54:32.474110,user_1717,"Mumbai, Maharashtra",Facebook,222,51,en
+post_0109,Bangalore में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-14 17:45:32.474132,user_5980,"Bangalore, Karnataka",Facebook,68,98,hinglish
+post_0110,Great initiative by local authorities for public safety. #positivechange,2025-05-21 12:02:32.474153,user_6588,"Ahmedabad, Gujarat",Twitter,483,52,en
+post_0111,Patna में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-10 16:04:32.474173,user_2062,"Patna, Bihar",Facebook,108,52,hinglish
+post_0112,Terrible traffic jam again in Chennai. When will this be fixed? #civicissue,2025-05-24 01:47:32.474193,user_5729,"Chennai, Tamil Nadu",Instagram,132,34,hinglish
+post_0113,बहुत अच्छा काम हो रहा है Jaipur में। #विकास,2025-05-10 21:50:32.474214,user_7801,"Jaipur, Rajasthan",Twitter,238,75,en
+post_0114,Just observing the situation regarding pollution in Jaipur.,2025-05-24 22:03:32.474235,user_3539,"Jaipur, Rajasthan",Twitter,400,6,hi
+post_0115,Kolkata में noise pollution से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-19 19:21:32.474255,user_7313,"Kolkata, West Bengal",Twitter,392,49,en
+post_0116,Thank you for addressing the water shortage issue promptly!,2025-05-07 06:56:32.474280,user_7172,"Bhopal, Madhya Pradesh",Instagram,164,37,en
+post_0117,This new policy is a disaster for people in Kolkata.,2025-05-15 00:13:32.474304,user_2365,"Kolkata, West Bengal",Instagram,499,16,en
+post_0118,Lucknow में theft से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-26 19:57:32.474324,user_4141,"Lucknow, Uttar Pradesh",Twitter,251,30,en
+post_0119,Concerned about the rising illegal construction in our area. #safety,2025-05-14 20:07:32.474345,user_5186,"Pune, Maharashtra",Instagram,201,89,hinglish
+post_0120,Just observing the situation regarding traffic in Pune.,2025-05-15 01:58:32.474365,user_5268,"Pune, Maharashtra",Facebook,140,91,en
+post_0121,बहुत अच्छा काम हो रहा है Kanpur में। #विकास,2025-05-03 12:33:32.474386,user_9647,"Kanpur, Uttar Pradesh",LocalForum,316,38,hi
+post_0122,Mumbai market seems busy as usual.,2025-06-02 05:48:32.474407,user_1504,"Mumbai, Maharashtra",Twitter,190,24,en
+post_0123,Power outage for hours in Bhopal! This is unacceptable. @ কর্তৃপক্ষ,2025-05-10 07:23:32.474428,user_1133,"Bhopal, Madhya Pradesh",LocalForum,57,43,hi
+post_0124,They are saying a secret plan is underway about the a large corporation in Kanpur.,2025-05-20 19:14:32.474449,user_5175,"Kanpur, Uttar Pradesh",Instagram,373,84,hinglish
+post_0125,Concerned about the rising stray animals in our area. #safety,2025-05-23 03:25:32.474470,user_7190,"Patna, Bihar",Twitter,232,48,en
+post_0126,Bangalore में noise pollution से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-19 17:30:32.474495,user_4584,"Bangalore, Karnataka",Facebook,372,53,en
+post_0127,Attended a meeting about infrastructure in Ahmedabad today.,2025-05-12 05:45:32.474516,user_9662,"Ahmedabad, Gujarat",LocalForum,440,74,en
+post_0128,Garbage not collected in North Pune for a week. #swachhbharat?,2025-05-21 22:29:32.474540,user_6063,"Pune, Maharashtra",LocalForum,357,75,hinglish
+post_0129,Warning! Unverified news about a local festival spreading in Kolkata.,2025-05-09 11:53:32.474562,user_7819,"Kolkata, West Bengal",LocalForum,89,7,en
+post_0130,Hyderabad में theft से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-07 14:33:32.474582,user_5964,"Hyderabad, Telangana",Instagram,40,99,en
+post_0131,Great initiative by local authorities for education. #positivechange,2025-05-06 10:44:32.474603,user_6320,"Hyderabad, Telangana",Twitter,416,83,en
+post_0132,Attended a meeting about environment in Nagpur today.,2025-05-20 16:32:32.474623,user_2581,"Nagpur, Maharashtra",Instagram,34,5,hi
+post_0133,They are saying a secret plan is underway about the a large corporation in Ahmedabad.,2025-05-15 13:56:32.474644,user_2838,"Ahmedabad, Gujarat",Instagram,408,65,en
+post_0134,बहुत अच्छा काम हो रहा है Hyderabad में। #विकास,2025-05-23 08:31:32.474665,user_8409,"Hyderabad, Telangana",LocalForum,250,4,en
+post_0135,Endless wait times at the Collectorate in Bhopal. #inefficiency,2025-05-10 08:28:32.474685,user_3193,"Bhopal, Madhya Pradesh",LocalForum,223,48,en
+post_0136,Attended a meeting about infrastructure in Mumbai today.,2025-05-22 11:35:32.474705,user_5158,"Mumbai, Maharashtra",Facebook,216,85,hinglish
+post_0137,Thane में theft से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-06 15:48:32.474726,user_5000,"Thane, Maharashtra",Facebook,97,98,hinglish
+post_0138,They are saying a secret plan is underway about the the government in Mumbai.,2025-06-01 11:13:32.474750,user_3000,"Mumbai, Maharashtra",Twitter,196,94,en
+post_0139,Attended a meeting about public safety in Thane today.,2025-05-29 02:58:32.474771,user_2460,"Thane, Maharashtra",Facebook,22,52,hi
+post_0140,Feeling hopeful about developments in Delhi.,2025-05-28 22:51:32.474791,user_5178,"Delhi, Delhi",Instagram,144,84,en
+post_0141,Just observing the situation regarding waste management in Kolkata.,2025-05-19 23:15:32.474811,user_3048,"Kolkata, West Bengal",Instagram,50,44,en
+post_0142,Great initiative by local authorities for health services. #positivechange,2025-05-21 05:00:32.474831,user_5976,"Patna, Bihar",Instagram,487,31,en
+post_0143,Warning! Unverified news about a local festival spreading in Bangalore.,2025-06-01 00:22:32.474852,user_1249,"Bangalore, Karnataka",Facebook,161,53,en
+post_0144,Terrible traffic jam again in Kanpur. When will this be fixed? #civicissue,2025-05-12 05:02:32.474872,user_5363,"Kanpur, Uttar Pradesh",Instagram,448,53,en
+post_0145,Concerned about the rising illegal construction in our area. #safety,2025-05-22 03:31:32.474893,user_8901,"Nagpur, Maharashtra",Facebook,250,56,hinglish
+post_0146,This new policy is a disaster for people in Mumbai.,2025-05-16 16:14:32.474913,user_2252,"Mumbai, Maharashtra",LocalForum,340,13,hi
+post_0147,Kanpur में illegal construction से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-31 21:10:32.474933,user_7881,"Kanpur, Uttar Pradesh",Twitter,293,49,hi
+post_0148,Heard a rumor that a natural disaster warning is happening in Bangalore. Can anyone confirm? #fakenewsalert,2025-05-31 14:31:32.474955,user_8002,"Bangalore, Karnataka",LocalForum,434,62,hi
+post_0149,बहुत अच्छा काम हो रहा है Mumbai में। #विकास,2025-05-31 12:04:32.474976,user_5261,"Mumbai, Maharashtra",Facebook,480,87,en
+post_0150,Garbage not collected in South Jaipur for a week. #swachhbharat?,2025-05-18 09:19:32.474996,user_8730,"Jaipur, Rajasthan",Twitter,80,4,hi
+post_0151,Thank you for addressing the crime issue promptly!,2025-05-05 04:51:32.475016,user_7327,"Delhi, Delhi",Twitter,400,73,hinglish
+post_0152,बहुत अच्छा काम हो रहा है Delhi में। #विकास,2025-05-16 12:37:32.475037,user_5164,"Delhi, Delhi",Facebook,33,5,hinglish
+post_0153,Warning! Unverified news about a local festival spreading in Indore.,2025-05-13 06:48:32.475059,user_7269,"Indore, Madhya Pradesh",Instagram,234,42,en
+post_0154,Loving the new park in Thane! #community #goodgovernance,2025-05-17 21:10:32.475083,user_7254,"Thane, Maharashtra",LocalForum,248,22,en
+post_0155,बहुत अच्छा काम हो रहा है Indore में। #विकास,2025-05-10 16:30:32.475104,user_7090,"Indore, Madhya Pradesh",Instagram,373,15,en
+post_0156,Feeling hopeful about developments in Bangalore.,2025-05-26 04:21:32.475124,user_9472,"Bangalore, Karnataka",LocalForum,194,95,en
+post_0157,Terrible traffic jam again in Bangalore. When will this be fixed? #civicissue,2025-05-30 14:03:32.475144,user_8570,"Bangalore, Karnataka",Facebook,276,4,hi
+post_0158,Weather in Kolkata is quite hot today.,2025-05-15 22:39:32.475164,user_7981,"Kolkata, West Bengal",Instagram,0,4,en
+post_0159,Power outage for hours in Bangalore! This is unacceptable. @ কর্তৃপক্ষ,2025-05-24 20:35:32.475184,user_3593,"Bangalore, Karnataka",LocalForum,432,77,hinglish
+post_0160,Kanpur में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-07 19:34:32.475204,user_8240,"Kanpur, Uttar Pradesh",Instagram,281,46,en
+post_0161,Forwarded as received: a dangerous chemical spill in Patna! Is this true?,2025-05-08 10:14:32.475225,user_7493,"Patna, Bihar",Twitter,106,62,hinglish
+post_0162,Forwarded as received: a dangerous chemical spill in Bhopal! Is this true?,2025-05-17 15:35:32.475245,user_2276,"Bhopal, Madhya Pradesh",LocalForum,179,78,hinglish
+post_0163,This new policy is a disaster for people in Bangalore.,2025-05-18 08:39:32.475265,user_9717,"Bangalore, Karnataka",Instagram,473,27,en
+post_0164,Just observing the situation regarding waste management in Delhi.,2025-05-10 18:37:32.475286,user_1364,"Delhi, Delhi",LocalForum,153,13,en
+post_0165,Terrible traffic jam again in Chennai. When will this be fixed? #civicissue,2025-05-06 08:10:32.475306,user_6126,"Chennai, Tamil Nadu",Facebook,2,22,hi
+post_0166,Nagpur में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-19 21:14:32.475326,user_2531,"Nagpur, Maharashtra",Twitter,492,17,hi
+post_0167,Forwarded as received: all schools closing tomorrow in Kolkata! Is this true?,2025-05-08 02:26:32.475346,user_2906,"Kolkata, West Bengal",LocalForum,14,63,en
+post_0168,Pune में noise pollution से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-08 09:24:32.475366,user_9905,"Pune, Maharashtra",Facebook,38,56,en
+post_0169,Just observing the situation regarding pollution in Jaipur.,2025-05-17 01:39:32.475386,user_8641,"Jaipur, Rajasthan",Facebook,125,43,hinglish
+post_0170,Heard a rumor that a celebrity visit is happening in Lucknow. Can anyone confirm? #fakenewsalert,2025-05-08 15:48:32.475406,user_7168,"Lucknow, Uttar Pradesh",LocalForum,67,9,en
+post_0171,Just observing the situation regarding waste management in Chennai.,2025-05-30 23:16:32.475426,user_7371,"Chennai, Tamil Nadu",Twitter,110,85,hinglish
+post_0172,Power outage for hours in Mumbai! This is unacceptable. @ কর্তৃপক্ষ,2025-05-31 17:53:32.475445,user_7891,"Mumbai, Maharashtra",Twitter,82,41,hinglish
+post_0173,Concerned about the rising stray animals in our area. #safety,2025-05-25 03:55:32.475466,user_3739,"Ahmedabad, Gujarat",Instagram,281,63,hinglish
+post_0174,Terrible traffic jam again in Nagpur. When will this be fixed? #civicissue,2025-05-31 08:02:32.475487,user_1876,"Nagpur, Maharashtra",Twitter,453,32,en
+post_0175,"The roads in Ward 20, Hyderabad are in pathetic condition. #badroads",2025-05-12 10:40:32.475507,user_2733,"Hyderabad, Telangana",Instagram,69,3,hi
+post_0176,Concerned about the rising stray animals in our area. #safety,2025-05-03 21:31:32.475529,user_4735,"Kolkata, West Bengal",Facebook,310,8,en
+post_0177,Endless wait times at the Collectorate in Kanpur. #inefficiency,2025-05-11 05:10:32.475549,user_3590,"Kanpur, Uttar Pradesh",Instagram,39,35,hi
+post_0178,Nagpur में theft से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-10 02:59:32.475570,user_9659,"Nagpur, Maharashtra",Facebook,219,74,en
+post_0179,Garbage not collected in North Kanpur for a week. #swachhbharat?,2025-05-29 17:55:32.475589,user_1117,"Kanpur, Uttar Pradesh",Facebook,368,93,en
+post_0180,They are saying a secret plan is underway about the the government in Mumbai.,2025-05-10 02:10:32.475610,user_6560,"Mumbai, Maharashtra",Instagram,193,78,hi
+post_0181,Feeling hopeful about developments in Kolkata.,2025-05-23 00:35:32.475630,user_7316,"Kolkata, West Bengal",Facebook,299,4,hi
+post_0182,Feeling hopeful about developments in Bhopal.,2025-05-27 10:57:32.475660,user_9915,"Bhopal, Madhya Pradesh",Instagram,224,19,hinglish
+post_0183,Power outage for hours in Chennai! This is unacceptable. @ কর্তৃপক্ষ,2025-05-16 20:14:32.475680,user_3048,"Chennai, Tamil Nadu",Facebook,89,13,hinglish
+post_0184,No water supply in Bhopal for 3 days! #watercrisis @localMLA,2025-05-28 03:50:32.475700,user_7988,"Bhopal, Madhya Pradesh",Twitter,490,2,en
+post_0185,No water supply in Lucknow for 3 days! #watercrisis @localMLA,2025-06-02 02:11:32.475725,user_1009,"Lucknow, Uttar Pradesh",Facebook,260,22,en
+post_0186,Terrible traffic jam again in Bangalore. When will this be fixed? #civicissue,2025-05-23 20:59:32.475745,user_3060,"Bangalore, Karnataka",Twitter,167,1,en
+post_0187,Loving the new park in Pune! #community #goodgovernance,2025-05-14 07:24:32.475765,user_3832,"Pune, Maharashtra",Instagram,264,74,en
+post_0188,Forwarded as received: all schools closing tomorrow in Pune! Is this true?,2025-05-18 08:23:32.475786,user_4490,"Pune, Maharashtra",Twitter,93,94,en
+post_0189,Power outage for hours in Delhi! This is unacceptable. @ কর্তৃপক্ষ,2025-05-17 03:01:32.475806,user_1235,"Delhi, Delhi",Facebook,433,77,hinglish
+post_0190,Attended a meeting about infrastructure in Jaipur today.,2025-05-12 08:50:32.475827,user_6256,"Jaipur, Rajasthan",Twitter,417,75,en
+post_0191,Concerned about the rising theft in our area. #safety,2025-05-31 06:00:32.475852,user_6415,"Kolkata, West Bengal",LocalForum,319,21,hinglish
+post_0192,Heard a rumor that a celebrity visit is happening in Kolkata. Can anyone confirm? #fakenewsalert,2025-05-06 00:50:32.475872,user_7413,"Kolkata, West Bengal",Instagram,315,29,en
+post_0193,बहुत अच्छा काम हो रहा है Delhi में। #विकास,2025-05-30 11:24:32.475893,user_3898,"Delhi, Delhi",Facebook,378,77,en
+post_0194,Weather in Lucknow is quite cloudy today.,2025-05-08 04:36:32.475914,user_2065,"Lucknow, Uttar Pradesh",Instagram,88,17,hi
+post_0195,Heard a rumor that a natural disaster warning is happening in Mumbai. Can anyone confirm? #fakenewsalert,2025-05-26 00:22:32.475934,user_7943,"Mumbai, Maharashtra",Instagram,178,37,en
+post_0196,Ahmedabad में बिजली की कटौती से जनता परेशान। #powercut,2025-06-01 09:46:32.475954,user_3712,"Ahmedabad, Gujarat",Twitter,144,96,hi
+post_0197,Power outage for hours in Delhi! This is unacceptable. @ কর্তৃপক্ষ,2025-05-18 09:59:32.475975,user_2997,"Delhi, Delhi",Facebook,308,50,en
+post_0198,Great initiative by local authorities for education. #positivechange,2025-05-26 13:55:32.475995,user_6765,"Hyderabad, Telangana",Instagram,66,6,hinglish
+post_0199,Feeling hopeful about developments in Bangalore.,2025-05-15 00:19:32.476015,user_6567,"Bangalore, Karnataka",Twitter,499,14,hi
+post_0200,"The roads in Ward 15, Jaipur are in pathetic condition. #badroads",2025-05-19 07:09:32.476036,user_9669,"Jaipur, Rajasthan",Facebook,230,26,en
+post_0201,Terrible traffic jam again in Indore. When will this be fixed? #civicissue,2025-05-30 02:04:32.476056,user_2120,"Indore, Madhya Pradesh",Instagram,484,26,en
+post_0202,बहुत अच्छा काम हो रहा है Bhopal में। #विकास,2025-05-11 07:57:32.476076,user_3645,"Bhopal, Madhya Pradesh",Instagram,321,9,en
+post_0203,बहुत अच्छा काम हो रहा है Chennai में। #विकास,2025-05-28 22:28:32.476096,user_7028,"Chennai, Tamil Nadu",Facebook,158,46,en
+post_0204,Attended a meeting about education in Ahmedabad today.,2025-05-29 19:37:32.476116,user_8863,"Ahmedabad, Gujarat",Instagram,14,28,hi
+post_0205,Garbage not collected in South Mumbai for a week. #swachhbharat?,2025-05-26 03:32:32.476141,user_3371,"Mumbai, Maharashtra",Twitter,331,44,hinglish
+post_0206,Just observing the situation regarding water shortage in Ahmedabad.,2025-05-31 13:10:32.476162,user_1793,"Ahmedabad, Gujarat",Facebook,298,26,hi
+post_0207,Endless wait times at the Municipal Office in Pune. #inefficiency,2025-05-28 12:50:32.476182,user_7166,"Pune, Maharashtra",LocalForum,302,89,en
+post_0208,Garbage not collected in South Pune for a week. #swachhbharat?,2025-05-19 21:49:32.476203,user_8783,"Pune, Maharashtra",LocalForum,445,81,hi
+post_0209,Power outage for hours in Kanpur! This is unacceptable. @ কর্তৃপক্ষ,2025-05-09 07:14:32.476223,user_1827,"Kanpur, Uttar Pradesh",Instagram,170,75,en
+post_0210,They are saying a secret plan is underway about the outsiders in Mumbai.,2025-05-22 04:13:32.476244,user_4876,"Mumbai, Maharashtra",Twitter,327,91,en
+post_0211,Loving the new park in Kanpur! #community #goodgovernance,2025-05-07 23:07:32.476272,user_5146,"Kanpur, Uttar Pradesh",Twitter,28,77,hinglish
+post_0212,Delhi में illegal construction से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-25 23:39:32.476292,user_2792,"Delhi, Delhi",Facebook,301,20,en
+post_0213,No water supply in Bangalore for 3 days! #watercrisis @localMLA,2025-05-07 18:25:32.476312,user_4030,"Bangalore, Karnataka",Twitter,312,0,hi
+post_0214,This new policy is a disaster for people in Bangalore.,2025-05-11 09:10:32.476332,user_6031,"Bangalore, Karnataka",Facebook,398,20,hinglish
+post_0215,Thane market seems busy as usual.,2025-05-18 23:08:32.476352,user_9393,"Thane, Maharashtra",Instagram,435,56,en
+post_0216,This new policy is a disaster for people in Bangalore.,2025-05-12 23:26:32.476374,user_9766,"Bangalore, Karnataka",LocalForum,243,24,en
+post_0217,बहुत अच्छा काम हो रहा है Jaipur में। #विकास,2025-05-07 21:23:32.476394,user_9577,"Jaipur, Rajasthan",Instagram,390,81,en
+post_0218,Weather in Jaipur is quite rainy today.,2025-05-07 06:34:32.476418,user_4600,"Jaipur, Rajasthan",LocalForum,127,42,hinglish
+post_0219,They are saying a secret plan is underway about the a large corporation in Thane.,2025-05-06 20:02:32.476439,user_2205,"Thane, Maharashtra",Facebook,151,24,hinglish
+post_0220,Forwarded as received: free money distribution in Kolkata! Is this true?,2025-05-26 12:55:32.476459,user_4572,"Kolkata, West Bengal",Twitter,343,32,en
+post_0221,Indore market seems busy as usual.,2025-05-16 21:39:32.476481,user_3713,"Indore, Madhya Pradesh",Twitter,155,84,hinglish
+post_0222,Garbage not collected in East Nagpur for a week. #swachhbharat?,2025-05-17 01:44:32.476501,user_4432,"Nagpur, Maharashtra",LocalForum,176,19,en
+post_0223,Attended a meeting about environment in Kanpur today.,2025-05-11 10:33:32.476525,user_6182,"Kanpur, Uttar Pradesh",Twitter,188,48,hinglish
+post_0224,Thank you for addressing the power cuts issue promptly!,2025-05-27 07:29:32.476545,user_3482,"Ahmedabad, Gujarat",Twitter,378,55,hi
+post_0225,बहुत अच्छा काम हो रहा है Kolkata में। #विकास,2025-05-14 15:16:32.476566,user_9477,"Kolkata, West Bengal",Instagram,143,39,hinglish
+post_0226,Jaipur में theft से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-14 15:00:32.476586,user_6490,"Jaipur, Rajasthan",Instagram,174,65,en
+post_0227,Attended a meeting about health services in Jaipur today.,2025-05-11 15:11:32.476606,user_6797,"Jaipur, Rajasthan",Instagram,434,62,hi
+post_0228,No water supply in Mumbai for 3 days! #watercrisis @localMLA,2025-05-30 07:53:32.476626,user_9038,"Mumbai, Maharashtra",Instagram,130,31,en
+post_0229,This new policy is a disaster for people in Pune.,2025-05-23 22:42:32.476650,user_7305,"Pune, Maharashtra",Instagram,379,96,hinglish
+post_0230,Garbage not collected in South Kanpur for a week. #swachhbharat?,2025-05-10 09:33:32.476670,user_4462,"Kanpur, Uttar Pradesh",Facebook,348,7,hinglish
+post_0231,Warning! Unverified news about a local festival spreading in Patna.,2025-06-01 09:58:32.476693,user_9519,"Patna, Bihar",Instagram,53,66,hinglish
+post_0232,Kolkata में noise pollution से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-15 07:33:32.476714,user_4054,"Kolkata, West Bengal",LocalForum,263,33,hinglish
+post_0233,This new policy is a disaster for people in Kanpur.,2025-05-30 08:47:32.476735,user_3538,"Kanpur, Uttar Pradesh",LocalForum,399,67,hi
+post_0234,Great initiative by local authorities for public safety. #positivechange,2025-05-14 03:07:32.476755,user_7612,"Thane, Maharashtra",Instagram,397,94,hi
+post_0235,Terrible traffic jam again in Kolkata. When will this be fixed? #civicissue,2025-05-10 16:43:32.476775,user_7150,"Kolkata, West Bengal",LocalForum,329,6,hi
+post_0236,Indore में noise pollution से परेशान हूँ। कोई सुनवाई नहीं।,2025-06-01 09:40:32.476796,user_5242,"Indore, Madhya Pradesh",Twitter,111,18,hi
+post_0237,Feeling hopeful about developments in Ahmedabad.,2025-05-29 14:59:32.476815,user_7852,"Ahmedabad, Gujarat",Instagram,403,10,en
+post_0238,Chennai में illegal construction से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-24 06:58:32.476836,user_5566,"Chennai, Tamil Nadu",Twitter,118,11,hi
+post_0239,Loving the new park in Kolkata! #community #goodgovernance,2025-05-14 03:24:32.476856,user_2279,"Kolkata, West Bengal",LocalForum,221,8,en
+post_0240,Power outage for hours in Jaipur! This is unacceptable. @ কর্তৃপক্ষ,2025-05-31 11:17:32.476876,user_6986,"Jaipur, Rajasthan",Twitter,499,85,en
+post_0241,This new policy is a disaster for people in Hyderabad.,2025-05-21 08:44:32.476896,user_3679,"Hyderabad, Telangana",LocalForum,58,86,en
+post_0242,Loving the new park in Mumbai! #community #goodgovernance,2025-05-16 14:10:32.476917,user_3573,"Mumbai, Maharashtra",Facebook,8,39,en
+post_0243,Terrible traffic jam again in Lucknow. When will this be fixed? #civicissue,2025-05-31 19:36:32.476937,user_8368,"Lucknow, Uttar Pradesh",Twitter,245,21,hinglish
+post_0244,Kolkata में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-22 18:57:32.476958,user_7809,"Kolkata, West Bengal",LocalForum,441,28,hi
+post_0245,"The roads in Ward 14, Patna are in pathetic condition. #badroads",2025-05-21 06:38:32.476978,user_9996,"Patna, Bihar",LocalForum,74,69,hinglish
+post_0246,"The roads in Ward 2, Mumbai are in pathetic condition. #badroads",2025-05-15 11:19:32.476999,user_6475,"Mumbai, Maharashtra",Facebook,40,37,hinglish
+post_0247,This new policy is a disaster for people in Kanpur.,2025-05-31 15:24:32.477038,user_8141,"Kanpur, Uttar Pradesh",Facebook,377,75,hi
+post_0248,"The roads in Ward 9, Patna are in pathetic condition. #badroads",2025-05-10 11:19:32.477083,user_1341,"Patna, Bihar",LocalForum,468,26,en
+post_0249,Thank you for addressing the waste management issue promptly!,2025-05-09 02:34:32.477108,user_5263,"Ahmedabad, Gujarat",LocalForum,97,11,en
+post_0250,Mumbai में बिजली की कटौती से जनता परेशान। #powercut,2025-05-20 11:54:32.477159,user_3969,"Mumbai, Maharashtra",LocalForum,468,91,hinglish
+post_0251,Attended a meeting about infrastructure in Nagpur today.,2025-05-03 18:59:32.477222,user_4067,"Nagpur, Maharashtra",Twitter,309,64,hinglish
+post_0252,Thank you for addressing the power cuts issue promptly!,2025-05-14 11:25:32.477248,user_6490,"Patna, Bihar",Twitter,281,28,hinglish
+post_0253,Heard a rumor that a natural disaster warning is happening in Delhi. Can anyone confirm? #fakenewsalert,2025-05-12 21:21:32.477271,user_8679,"Delhi, Delhi",Facebook,163,58,hi
+post_0254,Weather in Kolkata is quite hot today.,2025-05-27 00:26:32.477293,user_2333,"Kolkata, West Bengal",LocalForum,97,54,hinglish
+post_0255,This new policy is a disaster for people in Chennai.,2025-05-18 08:07:32.477314,user_7212,"Chennai, Tamil Nadu",Facebook,311,32,hi
+post_0256,Kanpur market seems busy as usual.,2025-05-08 04:14:32.477336,user_2762,"Kanpur, Uttar Pradesh",Twitter,243,80,en
+post_0257,Warning! Unverified news about a local festival spreading in Kolkata.,2025-05-03 19:18:32.477358,user_1481,"Kolkata, West Bengal",LocalForum,200,25,en
+post_0258,Attended a meeting about education in Lucknow today.,2025-05-31 11:52:32.477379,user_3343,"Lucknow, Uttar Pradesh",Instagram,16,0,hinglish
+post_0259,"The roads in Ward 6, Pune are in pathetic condition. #badroads",2025-05-08 21:21:32.477400,user_7185,"Pune, Maharashtra",Instagram,24,38,en
+post_0260,Thank you for addressing the water shortage issue promptly!,2025-05-31 05:11:32.477421,user_2252,"Jaipur, Rajasthan",Instagram,107,43,en
+post_0261,Power outage for hours in Kanpur! This is unacceptable. @ কর্তৃপক্ষ,2025-05-15 02:27:32.477442,user_7667,"Kanpur, Uttar Pradesh",Instagram,274,43,en
+post_0262,They are saying a secret plan is underway about the outsiders in Pune.,2025-05-06 15:44:32.477464,user_1329,"Pune, Maharashtra",Instagram,56,54,en
+post_0263,This new policy is a disaster for people in Hyderabad.,2025-05-16 17:49:32.477485,user_2341,"Hyderabad, Telangana",Twitter,79,87,hinglish
+post_0264,Heard a rumor that a natural disaster warning is happening in Kolkata. Can anyone confirm? #fakenewsalert,2025-05-15 00:30:32.477507,user_3708,"Kolkata, West Bengal",Facebook,80,86,en
+post_0265,Loving the new park in Kanpur! #community #goodgovernance,2025-05-28 10:45:32.477527,user_9901,"Kanpur, Uttar Pradesh",LocalForum,199,24,en
+post_0266,Attended a meeting about environment in Indore today.,2025-05-15 20:46:32.477548,user_4993,"Indore, Madhya Pradesh",Instagram,488,25,hinglish
+post_0267,Terrible traffic jam again in Bhopal. When will this be fixed? #civicissue,2025-05-18 22:45:32.477568,user_5806,"Bhopal, Madhya Pradesh",Instagram,400,22,hinglish
+post_0268,Weather in Mumbai is quite sunny today.,2025-05-07 11:39:32.477589,user_1390,"Mumbai, Maharashtra",Facebook,269,78,en
+post_0269,Ahmedabad market seems busy as usual.,2025-05-13 01:52:32.477611,user_9007,"Ahmedabad, Gujarat",Facebook,497,58,hinglish
+post_0270,Warning! Unverified news about a local festival spreading in Patna.,2025-05-10 14:30:32.477631,user_6085,"Patna, Bihar",Instagram,371,38,hi
+post_0271,Weather in Lucknow is quite hot today.,2025-05-30 14:02:32.477651,user_4561,"Lucknow, Uttar Pradesh",LocalForum,102,16,en
+post_0272,Feeling hopeful about developments in Nagpur.,2025-05-19 08:26:32.477672,user_3667,"Nagpur, Maharashtra",Facebook,187,44,en
+post_0273,Attended a meeting about local events in Bangalore today.,2025-06-01 05:24:32.477693,user_3983,"Bangalore, Karnataka",Instagram,473,54,en
+post_0274,बहुत अच्छा काम हो रहा है Lucknow में। #विकास,2025-05-10 20:22:32.477714,user_8694,"Lucknow, Uttar Pradesh",Facebook,375,3,hi
+post_0275,Just observing the situation regarding traffic in Chennai.,2025-05-04 10:36:32.477734,user_8564,"Chennai, Tamil Nadu",Facebook,209,32,hi
+post_0276,Nagpur में theft से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-17 19:19:32.477755,user_9502,"Nagpur, Maharashtra",Twitter,226,41,hi
+post_0277,Forwarded as received: free money distribution in Indore! Is this true?,2025-05-31 09:48:32.477775,user_4810,"Indore, Madhya Pradesh",Facebook,378,38,en
+post_0278,Great initiative by local authorities for public safety. #positivechange,2025-05-19 12:32:32.477794,user_3032,"Jaipur, Rajasthan",Facebook,476,61,hi
+post_0279,Loving the new park in Thane! #community #goodgovernance,2025-05-12 20:04:32.477813,user_1271,"Thane, Maharashtra",LocalForum,439,9,hi
+post_0280,Garbage not collected in South Mumbai for a week. #swachhbharat?,2025-05-04 01:41:32.477832,user_4760,"Mumbai, Maharashtra",Instagram,2,44,en
+post_0281,Heard a rumor that a natural disaster warning is happening in Kanpur. Can anyone confirm? #fakenewsalert,2025-05-19 08:31:32.477851,user_3033,"Kanpur, Uttar Pradesh",Twitter,323,17,en
+post_0282,Delhi में बिजली की कटौती से जनता परेशान। #powercut,2025-05-04 03:36:32.477870,user_9623,"Delhi, Delhi",Instagram,192,52,hinglish
+post_0283,Thank you for addressing the power cuts issue promptly!,2025-05-19 17:52:32.477889,user_5494,"Thane, Maharashtra",LocalForum,304,87,en
+post_0284,Attended a meeting about local events in Mumbai today.,2025-05-29 20:02:32.477908,user_2828,"Mumbai, Maharashtra",LocalForum,60,42,hi
+post_0285,This new policy is a disaster for people in Jaipur.,2025-05-06 02:22:32.477926,user_8486,"Jaipur, Rajasthan",LocalForum,301,87,en
+post_0286,Just observing the situation regarding water shortage in Lucknow.,2025-05-22 19:27:32.477946,user_8878,"Lucknow, Uttar Pradesh",Twitter,51,3,en
+post_0287,"The roads in Ward 9, Mumbai are in pathetic condition. #badroads",2025-05-07 00:41:32.477964,user_6429,"Mumbai, Maharashtra",LocalForum,372,73,hinglish
+post_0288,Indore market seems busy as usual.,2025-05-23 06:04:32.477984,user_3265,"Indore, Madhya Pradesh",Facebook,424,2,hi
+post_0289,Terrible traffic jam again in Delhi. When will this be fixed? #civicissue,2025-05-10 02:56:32.478003,user_2796,"Delhi, Delhi",Twitter,53,46,hinglish
+post_0290,Lucknow market seems busy as usual.,2025-05-10 15:52:32.478021,user_2913,"Lucknow, Uttar Pradesh",Twitter,240,60,hi
+post_0291,Terrible traffic jam again in Lucknow. When will this be fixed? #civicissue,2025-05-06 22:26:32.478040,user_8312,"Lucknow, Uttar Pradesh",LocalForum,215,2,hinglish
+post_0292,Concerned about the rising noise pollution in our area. #safety,2025-05-31 02:48:32.478059,user_8287,"Mumbai, Maharashtra",Facebook,380,88,en
+post_0293,Indore market seems busy as usual.,2025-05-25 04:47:32.478077,user_2380,"Indore, Madhya Pradesh",Facebook,97,10,en
+post_0294,Great initiative by local authorities for health services. #positivechange,2025-05-24 08:58:32.478096,user_2218,"Pune, Maharashtra",LocalForum,408,97,hi
+post_0295,Garbage not collected in East Delhi for a week. #swachhbharat?,2025-05-21 22:52:32.478115,user_1954,"Delhi, Delhi",Twitter,225,87,hi
+post_0296,This new policy is a disaster for people in Thane.,2025-05-05 17:23:32.478133,user_6370,"Thane, Maharashtra",Twitter,388,47,en
+post_0297,Terrible traffic jam again in Pune. When will this be fixed? #civicissue,2025-05-07 14:55:32.478151,user_9228,"Pune, Maharashtra",LocalForum,315,47,en
+post_0298,Thane market seems busy as usual.,2025-05-21 03:48:32.478170,user_6233,"Thane, Maharashtra",Instagram,39,44,hinglish
+post_0299,"The roads in Ward 6, Thane are in pathetic condition. #badroads",2025-05-03 13:03:32.478189,user_2591,"Thane, Maharashtra",Instagram,39,97,hinglish
+post_0300,This new policy is a disaster for people in Lucknow.,2025-05-25 19:16:32.478207,user_2312,"Lucknow, Uttar Pradesh",Instagram,261,87,en
+post_0301,Nagpur market seems busy as usual.,2025-05-14 16:21:32.478226,user_3139,"Nagpur, Maharashtra",Instagram,352,58,hi
+post_0302,Endless wait times at the Police Station in Patna. #inefficiency,2025-05-06 16:20:32.478245,user_7924,"Patna, Bihar",Facebook,362,44,en
+post_0303,Concerned about the rising illegal construction in our area. #safety,2025-05-08 11:19:32.478263,user_5286,"Kanpur, Uttar Pradesh",Facebook,154,37,hinglish
+post_0304,Heard a rumor that a new lockdown is happening in Jaipur. Can anyone confirm? #fakenewsalert,2025-05-06 01:56:32.478285,user_1556,"Jaipur, Rajasthan",Twitter,313,30,en
+post_0305,Thank you for addressing the water shortage issue promptly!,2025-05-10 22:51:32.478304,user_3719,"Chennai, Tamil Nadu",Instagram,362,52,hinglish
+post_0306,Endless wait times at the Collectorate in Kanpur. #inefficiency,2025-05-04 01:30:32.478326,user_3403,"Kanpur, Uttar Pradesh",Instagram,257,77,hinglish
+post_0307,Terrible traffic jam again in Patna. When will this be fixed? #civicissue,2025-05-20 20:22:32.478344,user_6343,"Patna, Bihar",Instagram,12,45,en
+post_0308,Just observing the situation regarding power cuts in Mumbai.,2025-05-06 15:20:32.478363,user_3064,"Mumbai, Maharashtra",LocalForum,359,94,en
+post_0309,Just observing the situation regarding water shortage in Kolkata.,2025-05-31 08:16:32.478387,user_2007,"Kolkata, West Bengal",Twitter,325,82,en
+post_0310,Thank you for addressing the waste management issue promptly!,2025-05-04 01:51:32.478408,user_6352,"Lucknow, Uttar Pradesh",Facebook,223,97,hinglish
+post_0311,Lucknow में theft से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-05 17:31:32.478430,user_6084,"Lucknow, Uttar Pradesh",LocalForum,277,67,hinglish
+post_0312,Attended a meeting about health services in Bhopal today.,2025-05-14 04:11:32.478449,user_8491,"Bhopal, Madhya Pradesh",Instagram,218,63,hinglish
+post_0313,Great initiative by local authorities for education. #positivechange,2025-05-16 20:39:32.478468,user_9073,"Mumbai, Maharashtra",Instagram,373,64,hinglish
+post_0314,Attended a meeting about environment in Kolkata today.,2025-05-11 08:02:32.478486,user_7353,"Kolkata, West Bengal",Twitter,305,13,en
+post_0315,Power outage for hours in Thane! This is unacceptable. @ কর্তৃপক্ষ,2025-05-18 20:25:32.478509,user_9954,"Thane, Maharashtra",Facebook,226,51,en
+post_0316,Thank you for addressing the pollution issue promptly!,2025-05-04 20:54:32.478538,user_9220,"Bangalore, Karnataka",Facebook,394,32,en
+post_0317,Endless wait times at the Municipal Office in Nagpur. #inefficiency,2025-05-27 17:46:32.478557,user_4356,"Nagpur, Maharashtra",Instagram,3,80,hi
+post_0318,Great initiative by local authorities for local events. #positivechange,2025-05-30 19:20:32.478576,user_1038,"Patna, Bihar",Instagram,270,28,hi
+post_0319,बहुत अच्छा काम हो रहा है Bhopal में। #विकास,2025-05-04 21:09:32.478594,user_2823,"Bhopal, Madhya Pradesh",LocalForum,129,46,en
+post_0320,"The roads in Ward 4, Patna are in pathetic condition. #badroads",2025-05-19 12:39:32.478617,user_6658,"Patna, Bihar",Facebook,194,80,hinglish
+post_0321,Great initiative by local authorities for infrastructure. #positivechange,2025-05-03 20:05:32.478636,user_1988,"Pune, Maharashtra",LocalForum,20,46,hinglish
+post_0322,Terrible traffic jam again in Bangalore. When will this be fixed? #civicissue,2025-05-18 03:02:32.478663,user_5179,"Bangalore, Karnataka",Instagram,261,18,en
+post_0323,Heard a rumor that a protest march is happening in Pune. Can anyone confirm? #fakenewsalert,2025-05-09 03:58:32.478682,user_6626,"Pune, Maharashtra",LocalForum,256,57,hinglish
+post_0324,Just observing the situation regarding water shortage in Nagpur.,2025-05-06 02:46:32.478701,user_2980,"Nagpur, Maharashtra",Instagram,162,63,en
+post_0325,Garbage not collected in West Thane for a week. #swachhbharat?,2025-05-16 08:49:32.478724,user_6390,"Thane, Maharashtra",Twitter,491,79,hinglish
+post_0326,Concerned about the rising noise pollution in our area. #safety,2025-05-07 00:01:32.478743,user_7573,"Mumbai, Maharashtra",LocalForum,472,16,en
+post_0327,This new policy is a disaster for people in Chennai.,2025-05-04 11:53:32.478761,user_9782,"Chennai, Tamil Nadu",Instagram,26,45,hinglish
+post_0328,This new policy is a disaster for people in Kolkata.,2025-05-15 12:54:32.478781,user_1959,"Kolkata, West Bengal",Twitter,427,52,hinglish
+post_0329,Attended a meeting about environment in Ahmedabad today.,2025-05-10 05:41:32.478800,user_8725,"Ahmedabad, Gujarat",Facebook,14,24,en
+post_0330,Heard a rumor that a natural disaster warning is happening in Indore. Can anyone confirm? #fakenewsalert,2025-05-03 18:54:32.478819,user_2875,"Indore, Madhya Pradesh",Twitter,227,8,hi
+post_0331,बहुत अच्छा काम हो रहा है Jaipur में। #विकास,2025-05-27 16:04:32.478837,user_8099,"Jaipur, Rajasthan",Facebook,318,85,hi
+post_0332,Feeling hopeful about developments in Ahmedabad.,2025-05-11 11:08:32.478856,user_3433,"Ahmedabad, Gujarat",Twitter,343,71,hinglish
+post_0333,They are saying a secret plan is underway about the outsiders in Kolkata.,2025-05-22 19:44:32.478876,user_5167,"Kolkata, West Bengal",Twitter,276,17,en
+post_0334,Garbage not collected in North Chennai for a week. #swachhbharat?,2025-05-03 14:15:32.478894,user_9357,"Chennai, Tamil Nadu",Facebook,31,10,en
+post_0335,This new policy is a disaster for people in Jaipur.,2025-05-21 07:01:32.478913,user_5197,"Jaipur, Rajasthan",Instagram,424,7,en
+post_0336,Feeling hopeful about developments in Mumbai.,2025-05-22 10:10:32.478935,user_7731,"Mumbai, Maharashtra",Twitter,376,45,hinglish
+post_0337,Patna में बिजली की कटौती से जनता परेशान। #powercut,2025-05-18 16:07:32.478954,user_3720,"Patna, Bihar",LocalForum,201,39,hinglish
+post_0338,Concerned about the rising stray animals in our area. #safety,2025-05-16 07:59:32.478973,user_7368,"Mumbai, Maharashtra",Facebook,288,76,en
+post_0339,Attended a meeting about environment in Indore today.,2025-05-04 07:48:32.478992,user_8833,"Indore, Madhya Pradesh",LocalForum,405,65,hi
+post_0340,Weather in Pune is quite cloudy today.,2025-05-28 01:35:32.479011,user_2709,"Pune, Maharashtra",Twitter,121,14,en
+post_0341,Chennai market seems busy as usual.,2025-05-31 22:06:32.479031,user_9619,"Chennai, Tamil Nadu",Instagram,304,74,hi
+post_0342,Weather in Ahmedabad is quite hot today.,2025-05-05 05:02:32.479050,user_2925,"Ahmedabad, Gujarat",LocalForum,8,5,en
+post_0343,Loving the new park in Kolkata! #community #goodgovernance,2025-05-25 01:30:32.479070,user_1552,"Kolkata, West Bengal",LocalForum,369,75,hi
+post_0344,Endless wait times at the Collectorate in Bhopal. #inefficiency,2025-05-26 00:11:32.479089,user_4389,"Bhopal, Madhya Pradesh",Twitter,83,61,hinglish
+post_0345,Ahmedabad में theft से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-19 01:50:32.479108,user_1207,"Ahmedabad, Gujarat",Facebook,387,5,en
+post_0346,Weather in Delhi is quite sunny today.,2025-05-07 10:35:32.479127,user_1894,"Delhi, Delhi",Twitter,2,40,en
+post_0347,No water supply in Pune for 3 days! #watercrisis @localMLA,2025-05-05 22:47:32.479146,user_8179,"Pune, Maharashtra",LocalForum,86,11,hinglish
+post_0348,Kolkata में noise pollution से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-20 19:10:32.479165,user_4638,"Kolkata, West Bengal",Instagram,237,99,hinglish
+post_0349,Power outage for hours in Bhopal! This is unacceptable. @ কর্তৃপক্ষ,2025-05-21 00:32:32.479184,user_3356,"Bhopal, Madhya Pradesh",LocalForum,182,31,en
+post_0350,Patna में noise pollution से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-14 20:43:32.479203,user_8057,"Patna, Bihar",Instagram,210,21,en
+post_0351,Delhi market seems busy as usual.,2025-05-28 08:20:32.479221,user_9946,"Delhi, Delhi",Facebook,34,60,hinglish
+post_0352,Heard a rumor that a natural disaster warning is happening in Nagpur. Can anyone confirm? #fakenewsalert,2025-05-04 10:46:32.479240,user_1352,"Nagpur, Maharashtra",Instagram,390,75,en
+post_0353,Power outage for hours in Thane! This is unacceptable. @ কর্তৃপক্ষ,2025-05-16 11:30:32.479262,user_1956,"Thane, Maharashtra",Instagram,23,19,hinglish
+post_0354,Patna में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-29 04:33:32.479280,user_4453,"Patna, Bihar",Facebook,19,59,hinglish
+post_0355,Concerned about the rising noise pollution in our area. #safety,2025-05-09 14:12:32.479299,user_5703,"Thane, Maharashtra",Instagram,104,35,hinglish
+post_0356,Hyderabad market seems busy as usual.,2025-05-07 11:27:32.479317,user_6631,"Hyderabad, Telangana",Facebook,227,65,en
+post_0357,Bhopal में बिजली की कटौती से जनता परेशान। #powercut,2025-05-19 06:25:32.479336,user_2394,"Bhopal, Madhya Pradesh",Instagram,185,11,hinglish
+post_0358,Great initiative by local authorities for health services. #positivechange,2025-05-30 19:43:32.479355,user_3958,"Nagpur, Maharashtra",Instagram,224,98,hinglish
+post_0359,Jaipur में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-08 00:25:32.479373,user_7895,"Jaipur, Rajasthan",Facebook,477,86,hinglish
+post_0360,Bhopal में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-23 20:47:32.479392,user_7477,"Bhopal, Madhya Pradesh",Facebook,1,36,en
+post_0361,This new policy is a disaster for people in Delhi.,2025-05-29 02:16:32.479411,user_5648,"Delhi, Delhi",Instagram,317,59,en
+post_0362,Weather in Lucknow is quite rainy today.,2025-05-04 17:47:32.479430,user_5599,"Lucknow, Uttar Pradesh",Facebook,230,88,en
+post_0363,Heard a rumor that a protest march is happening in Mumbai. Can anyone confirm? #fakenewsalert,2025-05-14 06:22:32.479449,user_4216,"Mumbai, Maharashtra",Instagram,378,88,hi
+post_0364,Terrible traffic jam again in Kanpur. When will this be fixed? #civicissue,2025-05-09 06:26:32.479468,user_5356,"Kanpur, Uttar Pradesh",LocalForum,448,39,hi
+post_0365,Power outage for hours in Lucknow! This is unacceptable. @ কর্তৃপক্ষ,2025-05-21 08:25:32.479487,user_8062,"Lucknow, Uttar Pradesh",LocalForum,302,30,en
+post_0366,बहुत अच्छा काम हो रहा है Ahmedabad में। #विकास,2025-05-22 22:58:32.479506,user_1629,"Ahmedabad, Gujarat",Twitter,269,79,en
+post_0367,Garbage not collected in East Bhopal for a week. #swachhbharat?,2025-05-23 22:49:32.479524,user_4432,"Bhopal, Madhya Pradesh",LocalForum,256,4,en
+post_0368,Great initiative by local authorities for local events. #positivechange,2025-05-14 00:18:32.479542,user_8115,"Thane, Maharashtra",Instagram,0,56,hi
+post_0369,Loving the new park in Ahmedabad! #community #goodgovernance,2025-05-11 12:33:32.479561,user_4192,"Ahmedabad, Gujarat",Twitter,106,36,hi
+post_0370,Terrible traffic jam again in Indore. When will this be fixed? #civicissue,2025-05-19 03:49:32.479580,user_4568,"Indore, Madhya Pradesh",LocalForum,119,43,en
+post_0371,Concerned about the rising stray animals in our area. #safety,2025-05-09 17:46:32.479599,user_2925,"Kanpur, Uttar Pradesh",Twitter,107,60,en
+post_0372,Feeling hopeful about developments in Nagpur.,2025-05-13 14:47:32.479618,user_1968,"Nagpur, Maharashtra",Facebook,292,19,en
+post_0373,Pune market seems busy as usual.,2025-05-08 07:06:32.479636,user_2058,"Pune, Maharashtra",LocalForum,197,58,hi
+post_0374,Thank you for addressing the pollution issue promptly!,2025-05-29 07:12:32.479655,user_2229,"Chennai, Tamil Nadu",Facebook,11,19,en
+post_0375,Weather in Mumbai is quite rainy today.,2025-05-12 14:37:32.479674,user_6370,"Mumbai, Maharashtra",Twitter,298,97,hi
+post_0376,बहुत अच्छा काम हो रहा है Bangalore में। #विकास,2025-05-08 14:32:32.479694,user_6342,"Bangalore, Karnataka",Instagram,183,42,hi
+post_0377,This new policy is a disaster for people in Mumbai.,2025-05-15 09:17:32.479712,user_7294,"Mumbai, Maharashtra",Instagram,383,44,hinglish
+post_0378,Thank you for addressing the water shortage issue promptly!,2025-05-13 16:11:32.479730,user_1891,"Jaipur, Rajasthan",Instagram,374,7,en
+post_0379,Concerned about the rising theft in our area. #safety,2025-05-15 12:00:32.479757,user_7812,"Jaipur, Rajasthan",LocalForum,351,4,en
+post_0380,Terrible traffic jam again in Delhi. When will this be fixed? #civicissue,2025-05-18 10:14:32.479776,user_6238,"Delhi, Delhi",Facebook,217,42,en
+post_0381,Feeling hopeful about developments in Nagpur.,2025-05-23 14:43:32.479794,user_8705,"Nagpur, Maharashtra",LocalForum,135,46,en
+post_0382,Chennai में illegal construction से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-25 15:49:32.479813,user_1986,"Chennai, Tamil Nadu",Instagram,327,88,en
+post_0383,Garbage not collected in South Jaipur for a week. #swachhbharat?,2025-05-20 04:28:32.479832,user_4072,"Jaipur, Rajasthan",Facebook,146,30,en
+post_0384,Attended a meeting about infrastructure in Mumbai today.,2025-05-17 18:08:32.479865,user_9125,"Mumbai, Maharashtra",Twitter,219,65,en
+post_0385,बहुत अच्छा काम हो रहा है Bangalore में। #विकास,2025-05-16 02:52:32.479889,user_8848,"Bangalore, Karnataka",Facebook,88,47,en
+post_0386,Attended a meeting about environment in Bhopal today.,2025-05-20 23:08:32.479908,user_4230,"Bhopal, Madhya Pradesh",LocalForum,488,74,en
+post_0387,Concerned about the rising theft in our area. #safety,2025-05-30 06:23:32.479927,user_2667,"Delhi, Delhi",LocalForum,101,18,en
+post_0388,Warning! Unverified news about a local festival spreading in Hyderabad.,2025-05-28 06:43:32.479946,user_2000,"Hyderabad, Telangana",Twitter,278,82,hinglish
+post_0389,Concerned about the rising theft in our area. #safety,2025-05-20 22:00:32.479964,user_2367,"Indore, Madhya Pradesh",Twitter,309,70,en
+post_0390,बहुत अच्छा काम हो रहा है Patna में। #विकास,2025-05-08 11:46:32.479983,user_8232,"Patna, Bihar",Instagram,75,70,hi
+post_0391,Just observing the situation regarding water shortage in Kolkata.,2025-05-18 11:42:32.480002,user_3875,"Kolkata, West Bengal",Facebook,92,88,en
+post_0392,Weather in Mumbai is quite hot today.,2025-06-01 15:29:32.480021,user_7059,"Mumbai, Maharashtra",Instagram,101,89,hinglish
+post_0393,Power outage for hours in Delhi! This is unacceptable. @ কর্তৃপক্ষ,2025-05-23 05:53:32.480039,user_8117,"Delhi, Delhi",Twitter,329,65,en
+post_0394,Great initiative by local authorities for infrastructure. #positivechange,2025-05-19 23:58:32.480058,user_7228,"Delhi, Delhi",LocalForum,281,71,hi
+post_0395,Great initiative by local authorities for education. #positivechange,2025-05-18 06:55:32.480077,user_2177,"Ahmedabad, Gujarat",Facebook,152,11,en
+post_0396,Hyderabad में noise pollution से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-29 06:13:32.480095,user_9234,"Hyderabad, Telangana",LocalForum,431,86,hinglish
+post_0397,No water supply in Mumbai for 3 days! #watercrisis @localMLA,2025-05-27 18:11:32.480114,user_7570,"Mumbai, Maharashtra",Instagram,492,20,hi
+post_0398,Great initiative by local authorities for local events. #positivechange,2025-05-10 21:06:32.480133,user_5431,"Thane, Maharashtra",Twitter,302,14,hi
+post_0399,बहुत अच्छा काम हो रहा है Pune में। #विकास,2025-05-09 04:50:32.480152,user_5146,"Pune, Maharashtra",LocalForum,270,67,en
+post_0400,Attended a meeting about infrastructure in Kolkata today.,2025-05-12 19:39:32.480170,user_5882,"Kolkata, West Bengal",Twitter,289,77,hinglish
+post_0401,Loving the new park in Kolkata! #community #goodgovernance,2025-05-05 04:13:32.480189,user_9564,"Kolkata, West Bengal",Instagram,51,26,en
+post_0402,Terrible traffic jam again in Hyderabad. When will this be fixed? #civicissue,2025-05-04 17:33:32.480207,user_8311,"Hyderabad, Telangana",Facebook,105,35,en
+post_0403,Feeling hopeful about developments in Bhopal.,2025-05-03 14:59:32.480225,user_7787,"Bhopal, Madhya Pradesh",Twitter,89,88,en
+post_0404,Endless wait times at the Collectorate in Hyderabad. #inefficiency,2025-05-03 21:54:32.480244,user_8052,"Hyderabad, Telangana",Facebook,158,70,en
+post_0405,"The roads in Ward 14, Patna are in pathetic condition. #badroads",2025-05-09 15:19:32.480273,user_9636,"Patna, Bihar",Facebook,297,55,hinglish
+post_0406,Heard a rumor that a new lockdown is happening in Chennai. Can anyone confirm? #fakenewsalert,2025-05-29 12:57:32.480292,user_2798,"Chennai, Tamil Nadu",Facebook,309,0,en
+post_0407,Just observing the situation regarding water shortage in Mumbai.,2025-05-21 08:16:32.480315,user_7284,"Mumbai, Maharashtra",LocalForum,374,21,hinglish
+post_0408,They are saying a secret plan is underway about the outsiders in Mumbai.,2025-05-11 11:39:32.480334,user_4097,"Mumbai, Maharashtra",Instagram,8,14,hi
+post_0409,Concerned about the rising noise pollution in our area. #safety,2025-05-23 08:03:32.480353,user_6752,"Lucknow, Uttar Pradesh",LocalForum,124,41,hi
+post_0410,This new policy is a disaster for people in Nagpur.,2025-05-25 08:45:32.480372,user_2072,"Nagpur, Maharashtra",Facebook,153,90,hinglish
+post_0411,Concerned about the rising illegal construction in our area. #safety,2025-05-29 04:11:32.480390,user_7807,"Ahmedabad, Gujarat",Twitter,18,99,en
+post_0412,Concerned about the rising theft in our area. #safety,2025-05-06 01:51:32.480409,user_8000,"Lucknow, Uttar Pradesh",Twitter,145,18,en
+post_0413,Just observing the situation regarding water shortage in Hyderabad.,2025-05-29 22:28:32.480428,user_1482,"Hyderabad, Telangana",Twitter,107,97,en
+post_0414,Great initiative by local authorities for local events. #positivechange,2025-06-01 09:40:32.480446,user_9853,"Bangalore, Karnataka",Facebook,431,36,hinglish
+post_0415,Feeling hopeful about developments in Lucknow.,2025-05-19 05:33:32.480465,user_8622,"Lucknow, Uttar Pradesh",Facebook,159,10,hinglish
+post_0416,Great initiative by local authorities for environment. #positivechange,2025-05-23 23:47:32.480483,user_2100,"Lucknow, Uttar Pradesh",Instagram,440,24,en
+post_0417,Delhi market seems busy as usual.,2025-06-01 05:54:32.480511,user_7780,"Delhi, Delhi",Instagram,166,40,en
+post_0418,Kanpur market seems busy as usual.,2025-05-16 21:22:32.480535,user_3349,"Kanpur, Uttar Pradesh",Twitter,18,67,en
+post_0419,Weather in Indore is quite sunny today.,2025-05-08 02:19:32.480554,user_7764,"Indore, Madhya Pradesh",Twitter,493,35,en
+post_0420,Attended a meeting about local events in Bhopal today.,2025-05-26 03:28:32.480576,user_8843,"Bhopal, Madhya Pradesh",LocalForum,386,72,en
+post_0421,Feeling hopeful about developments in Nagpur.,2025-05-26 07:02:32.480595,user_6189,"Nagpur, Maharashtra",LocalForum,424,67,hinglish
+post_0422,बहुत अच्छा काम हो रहा है Thane में। #विकास,2025-05-20 15:01:32.480615,user_4713,"Thane, Maharashtra",LocalForum,443,4,hi
+post_0423,This new policy is a disaster for people in Jaipur.,2025-05-21 11:53:32.480633,user_8397,"Jaipur, Rajasthan",Instagram,199,49,en
+post_0424,Loving the new park in Bhopal! #community #goodgovernance,2025-05-30 10:17:32.480652,user_3428,"Bhopal, Madhya Pradesh",Facebook,57,2,en
+post_0425,Terrible traffic jam again in Jaipur. When will this be fixed? #civicissue,2025-05-12 02:59:32.480671,user_6291,"Jaipur, Rajasthan",Twitter,257,80,hinglish
+post_0426,Weather in Kolkata is quite cloudy today.,2025-05-31 06:38:32.480690,user_5211,"Kolkata, West Bengal",Twitter,263,21,en
+post_0427,Power outage for hours in Bangalore! This is unacceptable. @ কর্তৃপক্ষ,2025-05-22 04:56:32.480709,user_4374,"Bangalore, Karnataka",Instagram,310,79,hinglish
+post_0428,Feeling hopeful about developments in Mumbai.,2025-05-23 09:45:32.480727,user_4083,"Mumbai, Maharashtra",Twitter,144,15,en
+post_0429,Great initiative by local authorities for infrastructure. #positivechange,2025-05-22 00:41:32.480756,user_2679,"Bangalore, Karnataka",Instagram,29,22,en
+post_0430,Great initiative by local authorities for environment. #positivechange,2025-05-05 13:21:32.480775,user_7099,"Hyderabad, Telangana",LocalForum,359,64,hinglish
+post_0431,Loving the new park in Delhi! #community #goodgovernance,2025-05-08 11:41:32.480793,user_5037,"Delhi, Delhi",Twitter,405,81,hinglish
+post_0432,Weather in Pune is quite sunny today.,2025-05-26 01:29:32.480812,user_6280,"Pune, Maharashtra",Facebook,271,75,hi
+post_0433,बहुत अच्छा काम हो रहा है Bangalore में। #विकास,2025-05-27 12:27:32.480830,user_4725,"Bangalore, Karnataka",LocalForum,291,96,en
+post_0434,Terrible traffic jam again in Kolkata. When will this be fixed? #civicissue,2025-05-10 14:16:32.480849,user_3408,"Kolkata, West Bengal",LocalForum,340,1,en
+post_0435,Concerned about the rising theft in our area. #safety,2025-05-07 00:00:32.480867,user_6962,"Chennai, Tamil Nadu",Instagram,322,51,hi
+post_0436,Thank you for addressing the waste management issue promptly!,2025-05-03 09:35:32.480886,user_4267,"Bhopal, Madhya Pradesh",LocalForum,465,54,en
+post_0437,Thank you for addressing the pollution issue promptly!,2025-05-28 05:39:32.480905,user_5437,"Bangalore, Karnataka",Twitter,315,11,en
+post_0438,Thane market seems busy as usual.,2025-05-18 15:19:32.480924,user_9785,"Thane, Maharashtra",Twitter,428,34,en
+post_0439,Power outage for hours in Patna! This is unacceptable. @ কর্তৃপক্ষ,2025-05-03 08:19:32.480943,user_8629,"Patna, Bihar",Twitter,133,66,hinglish
+post_0440,"The roads in Ward 18, Patna are in pathetic condition. #badroads",2025-05-18 01:09:32.480962,user_8693,"Patna, Bihar",Twitter,72,14,en
+post_0441,Endless wait times at the Police Station in Kanpur. #inefficiency,2025-05-13 05:59:32.480980,user_8002,"Kanpur, Uttar Pradesh",LocalForum,129,34,en
+post_0442,Just observing the situation regarding crime in Hyderabad.,2025-05-15 18:41:32.480999,user_7097,"Hyderabad, Telangana",LocalForum,255,9,hi
+post_0443,Garbage not collected in East Nagpur for a week. #swachhbharat?,2025-05-09 06:36:32.481017,user_5259,"Nagpur, Maharashtra",LocalForum,94,13,en
+post_0444,They are saying a secret plan is underway about the the government in Nagpur.,2025-06-01 18:45:32.481037,user_5917,"Nagpur, Maharashtra",Instagram,237,51,en
+post_0445,Thank you for addressing the crime issue promptly!,2025-05-31 05:20:32.481055,user_8045,"Kanpur, Uttar Pradesh",Instagram,24,12,hi
+post_0446,Great initiative by local authorities for health services. #positivechange,2025-05-13 06:53:32.481079,user_3964,"Patna, Bihar",Facebook,481,67,en
+post_0447,This new policy is a disaster for people in Delhi.,2025-05-08 17:57:32.481098,user_8340,"Delhi, Delhi",Instagram,443,11,hinglish
+post_0448,Concerned about the rising stray animals in our area. #safety,2025-05-05 19:30:32.481117,user_1845,"Lucknow, Uttar Pradesh",Facebook,19,17,hinglish
+post_0449,Weather in Kolkata is quite hot today.,2025-05-05 02:29:32.481136,user_2884,"Kolkata, West Bengal",Facebook,42,1,en
+post_0450,Endless wait times at the Police Station in Lucknow. #inefficiency,2025-05-05 09:42:32.481155,user_7430,"Lucknow, Uttar Pradesh",Twitter,498,4,en
+post_0451,Feeling hopeful about developments in Mumbai.,2025-05-15 06:51:32.481174,user_7488,"Mumbai, Maharashtra",Instagram,129,10,hi
+post_0452,Attended a meeting about environment in Kolkata today.,2025-05-15 08:46:32.481192,user_9648,"Kolkata, West Bengal",Twitter,470,82,en
+post_0453,बहुत अच्छा काम हो रहा है Chennai में। #विकास,2025-05-25 05:40:32.481212,user_6448,"Chennai, Tamil Nadu",LocalForum,155,61,hinglish
+post_0454,Forwarded as received: free money distribution in Ahmedabad! Is this true?,2025-05-19 13:54:32.481230,user_9591,"Ahmedabad, Gujarat",Instagram,251,96,hi
+post_0455,Hyderabad में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-30 04:22:32.481249,user_6671,"Hyderabad, Telangana",Twitter,272,51,hinglish
+post_0456,Weather in Delhi is quite rainy today.,2025-05-04 12:25:32.481268,user_5517,"Delhi, Delhi",Instagram,230,49,en
+post_0457,Power outage for hours in Ahmedabad! This is unacceptable. @ কর্তৃপক্ষ,2025-05-28 12:26:32.481287,user_2549,"Ahmedabad, Gujarat",Instagram,454,85,hinglish
+post_0458,Garbage not collected in North Hyderabad for a week. #swachhbharat?,2025-05-28 09:59:32.481306,user_8898,"Hyderabad, Telangana",Facebook,404,78,en
+post_0459,Pune market seems busy as usual.,2025-05-12 22:38:32.481325,user_8993,"Pune, Maharashtra",LocalForum,375,38,hinglish
+post_0460,This new policy is a disaster for people in Chennai.,2025-05-29 07:48:32.481345,user_7356,"Chennai, Tamil Nadu",Twitter,473,84,hinglish
+post_0461,They are saying a secret plan is underway about the the government in Ahmedabad.,2025-05-12 14:24:32.481364,user_5268,"Ahmedabad, Gujarat",Instagram,159,35,en
+post_0462,बहुत अच्छा काम हो रहा है Hyderabad में। #विकास,2025-05-17 05:12:32.481383,user_5795,"Hyderabad, Telangana",LocalForum,394,62,en
+post_0463,Pune market seems busy as usual.,2025-05-12 12:06:32.481401,user_8961,"Pune, Maharashtra",LocalForum,195,33,hinglish
+post_0464,Just observing the situation regarding traffic in Nagpur.,2025-05-13 16:01:32.481430,user_1593,"Nagpur, Maharashtra",Instagram,231,98,en
+post_0465,Great initiative by local authorities for education. #positivechange,2025-05-24 12:32:32.481449,user_4493,"Delhi, Delhi",Facebook,41,20,hinglish
+post_0466,Delhi market seems busy as usual.,2025-05-23 19:12:32.481467,user_5200,"Delhi, Delhi",Twitter,191,16,en
+post_0467,Concerned about the rising illegal construction in our area. #safety,2025-05-09 23:20:32.481489,user_7272,"Chennai, Tamil Nadu",Instagram,129,59,hinglish
+post_0468,"The roads in Ward 5, Patna are in pathetic condition. #badroads",2025-05-18 07:51:32.481507,user_9433,"Patna, Bihar",Instagram,313,59,en
+post_0469,Bhopal में illegal construction से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-25 11:33:32.481530,user_9906,"Bhopal, Madhya Pradesh",Twitter,246,33,en
+post_0470,Great initiative by local authorities for environment. #positivechange,2025-05-25 10:53:32.481549,user_8088,"Lucknow, Uttar Pradesh",Twitter,78,16,hinglish
+post_0471,Terrible traffic jam again in Mumbai. When will this be fixed? #civicissue,2025-05-05 09:37:32.481567,user_8340,"Mumbai, Maharashtra",Instagram,466,68,hi
+post_0472,Terrible traffic jam again in Mumbai. When will this be fixed? #civicissue,2025-05-22 07:38:32.481586,user_5940,"Mumbai, Maharashtra",Twitter,199,86,hi
+post_0473,Feeling hopeful about developments in Indore.,2025-05-23 07:16:32.481609,user_9599,"Indore, Madhya Pradesh",Facebook,482,23,en
+post_0474,Garbage not collected in South Patna for a week. #swachhbharat?,2025-05-17 03:41:32.481628,user_7420,"Patna, Bihar",Instagram,231,57,hi
+post_0475,Thank you for addressing the crime issue promptly!,2025-05-20 04:50:32.481646,user_5531,"Thane, Maharashtra",Facebook,398,82,hi
+post_0476,Heard a rumor that a celebrity visit is happening in Chennai. Can anyone confirm? #fakenewsalert,2025-05-26 13:33:32.481665,user_9754,"Chennai, Tamil Nadu",LocalForum,490,57,en
+post_0477,Attended a meeting about local events in Delhi today.,2025-05-29 03:31:32.481683,user_6439,"Delhi, Delhi",Twitter,137,37,en
+post_0478,Great initiative by local authorities for education. #positivechange,2025-05-18 16:33:32.481702,user_8504,"Bhopal, Madhya Pradesh",Instagram,222,7,hinglish
+post_0479,Loving the new park in Kolkata! #community #goodgovernance,2025-05-25 23:59:32.481720,user_2827,"Kolkata, West Bengal",Facebook,381,67,hi
+post_0480,Just observing the situation regarding crime in Bhopal.,2025-05-19 23:20:32.481739,user_9569,"Bhopal, Madhya Pradesh",Twitter,118,61,hi
+post_0481,"The roads in Ward 18, Pune are in pathetic condition. #badroads",2025-05-15 22:40:32.481757,user_4747,"Pune, Maharashtra",LocalForum,139,90,en
+post_0482,Great initiative by local authorities for environment. #positivechange,2025-05-26 06:07:32.481775,user_1780,"Hyderabad, Telangana",LocalForum,180,31,en
+post_0483,Thank you for addressing the waste management issue promptly!,2025-05-18 06:50:32.481794,user_1521,"Mumbai, Maharashtra",Twitter,270,16,hi
+post_0484,Attended a meeting about health services in Thane today.,2025-05-25 14:06:32.481812,user_6784,"Thane, Maharashtra",Instagram,487,58,hinglish
+post_0485,Power outage for hours in Patna! This is unacceptable. @ কর্তৃপক্ষ,2025-05-19 14:39:32.481831,user_3461,"Patna, Bihar",Facebook,467,84,en
+post_0486,Weather in Bangalore is quite sunny today.,2025-05-21 13:15:32.481850,user_3160,"Bangalore, Karnataka",Twitter,375,20,hinglish
+post_0487,Garbage not collected in West Nagpur for a week. #swachhbharat?,2025-05-30 09:22:32.481869,user_5875,"Nagpur, Maharashtra",Facebook,232,46,en
+post_0488,No water supply in Kanpur for 3 days! #watercrisis @localMLA,2025-05-15 11:48:32.481891,user_8165,"Kanpur, Uttar Pradesh",Twitter,148,7,hinglish
+post_0489,Power outage for hours in Delhi! This is unacceptable. @ কর্তৃপক্ষ,2025-05-20 00:15:32.481913,user_1646,"Delhi, Delhi",Facebook,150,95,hi
+post_0490,No water supply in Kanpur for 3 days! #watercrisis @localMLA,2025-05-22 10:39:32.481932,user_5330,"Kanpur, Uttar Pradesh",Instagram,344,21,hinglish
+post_0491,Power outage for hours in Thane! This is unacceptable. @ কর্তৃপক্ষ,2025-05-05 19:43:32.481950,user_5558,"Thane, Maharashtra",Instagram,435,26,hinglish
+post_0492,Loving the new park in Bhopal! #community #goodgovernance,2025-05-15 17:10:32.481968,user_5183,"Bhopal, Madhya Pradesh",Twitter,43,76,hi
+post_0493,Heard a rumor that a celebrity visit is happening in Chennai. Can anyone confirm? #fakenewsalert,2025-05-11 21:24:32.481987,user_2724,"Chennai, Tamil Nadu",Instagram,352,55,hinglish
+post_0494,Just observing the situation regarding water shortage in Chennai.,2025-05-30 10:42:32.482006,user_1022,"Chennai, Tamil Nadu",LocalForum,412,29,hinglish
+post_0495,This new policy is a disaster for people in Chennai.,2025-05-26 20:14:32.482025,user_8295,"Chennai, Tamil Nadu",LocalForum,228,7,hinglish
+post_0496,Hyderabad market seems busy as usual.,2025-05-23 16:53:32.482043,user_7272,"Hyderabad, Telangana",Facebook,363,4,hinglish
+post_0497,Concerned about the rising noise pollution in our area. #safety,2025-05-31 07:57:32.482062,user_6343,"Ahmedabad, Gujarat",Twitter,319,97,en
+post_0498,No water supply in Thane for 3 days! #watercrisis @localMLA,2025-05-22 22:40:32.482081,user_4967,"Thane, Maharashtra",LocalForum,301,90,hi
+post_0499,Indore में बिजली की कटौती से जनता परेशान। #powercut,2025-05-07 06:20:32.482099,user_3159,"Indore, Madhya Pradesh",LocalForum,12,8,en
+post_0500,Just observing the situation regarding traffic in Hyderabad.,2025-05-14 04:39:32.482118,user_3649,"Hyderabad, Telangana",Instagram,313,53,en
+post_0501,Feeling hopeful about developments in Chennai.,2025-05-21 15:47:32.482136,user_2037,"Chennai, Tamil Nadu",Instagram,120,33,en
+post_0502,बहुत अच्छा काम हो रहा है Patna में। #विकास,2025-05-12 12:50:32.482155,user_4983,"Patna, Bihar",LocalForum,242,94,hinglish
+post_0503,Chennai में बिजली की कटौती से जनता परेशान। #powercut,2025-05-11 02:05:32.482174,user_8378,"Chennai, Tamil Nadu",LocalForum,100,57,en
+post_0504,They are saying a secret plan is underway about the outsiders in Delhi.,2025-05-29 17:57:32.482193,user_2929,"Delhi, Delhi",Twitter,23,98,en
+post_0505,Forwarded as received: a dangerous chemical spill in Delhi! Is this true?,2025-05-08 03:23:32.482212,user_6588,"Delhi, Delhi",LocalForum,309,20,en
+post_0506,Terrible traffic jam again in Kanpur. When will this be fixed? #civicissue,2025-05-24 02:15:32.482230,user_6891,"Kanpur, Uttar Pradesh",Twitter,187,56,en
+post_0507,Concerned about the rising stray animals in our area. #safety,2025-05-20 12:44:32.482249,user_3563,"Hyderabad, Telangana",Instagram,220,13,en
+post_0508,Terrible traffic jam again in Delhi. When will this be fixed? #civicissue,2025-05-30 08:24:32.482272,user_5431,"Delhi, Delhi",Facebook,185,54,en
+post_0509,Warning! Unverified news about a local festival spreading in Indore.,2025-05-14 04:05:32.482290,user_1161,"Indore, Madhya Pradesh",Twitter,157,81,en
+post_0510,Chennai में noise pollution से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-14 13:12:32.482309,user_4390,"Chennai, Tamil Nadu",Twitter,365,82,en
+post_0511,Warning! Unverified news about a local festival spreading in Bhopal.,2025-05-11 08:16:32.482329,user_1541,"Bhopal, Madhya Pradesh",Facebook,313,30,hi
+post_0512,बहुत अच्छा काम हो रहा है Lucknow में। #विकास,2025-05-29 13:13:32.482347,user_6469,"Lucknow, Uttar Pradesh",Instagram,182,54,hinglish
+post_0513,Just observing the situation regarding water shortage in Kanpur.,2025-06-01 14:09:32.482366,user_2136,"Kanpur, Uttar Pradesh",LocalForum,250,91,en
+post_0514,Just observing the situation regarding pollution in Mumbai.,2025-05-06 17:50:32.482384,user_2019,"Mumbai, Maharashtra",Instagram,117,44,hinglish
+post_0515,Garbage not collected in South Indore for a week. #swachhbharat?,2025-06-01 15:55:32.482403,user_2283,"Indore, Madhya Pradesh",Twitter,147,46,hinglish
+post_0516,बहुत अच्छा काम हो रहा है Nagpur में। #विकास,2025-05-06 17:55:32.482421,user_3125,"Nagpur, Maharashtra",Facebook,123,74,en
+post_0517,Feeling hopeful about developments in Indore.,2025-05-26 23:35:32.482440,user_4471,"Indore, Madhya Pradesh",Facebook,324,60,en
+post_0518,Garbage not collected in West Ahmedabad for a week. #swachhbharat?,2025-05-23 14:58:32.482459,user_6068,"Ahmedabad, Gujarat",LocalForum,106,93,en
+post_0519,This new policy is a disaster for people in Bhopal.,2025-05-03 10:16:32.482492,user_3757,"Bhopal, Madhya Pradesh",Instagram,336,50,en
+post_0520,Forwarded as received: a dangerous chemical spill in Mumbai! Is this true?,2025-05-12 13:19:32.482511,user_9738,"Mumbai, Maharashtra",Twitter,301,25,en
+post_0521,Thane में बिजली की कटौती से जनता परेशान। #powercut,2025-05-15 03:32:32.482534,user_8999,"Thane, Maharashtra",Facebook,420,83,hinglish
+post_0522,Endless wait times at the Collectorate in Bhopal. #inefficiency,2025-05-16 11:51:32.482553,user_9895,"Bhopal, Madhya Pradesh",LocalForum,260,99,en
+post_0523,Loving the new park in Thane! #community #goodgovernance,2025-05-28 04:22:32.482572,user_8462,"Thane, Maharashtra",LocalForum,497,34,hinglish
+post_0524,Terrible traffic jam again in Hyderabad. When will this be fixed? #civicissue,2025-06-01 08:04:32.482590,user_1685,"Hyderabad, Telangana",Facebook,315,59,hi
+post_0525,Jaipur में noise pollution से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-08 12:37:32.482613,user_7868,"Jaipur, Rajasthan",LocalForum,413,23,hi
+post_0526,This new policy is a disaster for people in Nagpur.,2025-05-21 22:31:32.482631,user_5998,"Nagpur, Maharashtra",Twitter,162,54,en
+post_0527,Forwarded as received: a dangerous chemical spill in Pune! Is this true?,2025-05-05 18:05:32.482654,user_1905,"Pune, Maharashtra",LocalForum,335,15,en
+post_0528,Terrible traffic jam again in Hyderabad. When will this be fixed? #civicissue,2025-05-11 22:36:32.482672,user_1204,"Hyderabad, Telangana",LocalForum,69,43,en
+post_0529,No water supply in Kolkata for 3 days! #watercrisis @localMLA,2025-05-24 19:25:32.482690,user_3643,"Kolkata, West Bengal",Instagram,337,56,en
+post_0530,Feeling hopeful about developments in Mumbai.,2025-05-13 04:11:32.482709,user_5000,"Mumbai, Maharashtra",Instagram,474,6,hinglish
+post_0531,"The roads in Ward 10, Mumbai are in pathetic condition. #badroads",2025-05-27 17:43:32.482732,user_1671,"Mumbai, Maharashtra",Facebook,247,74,hinglish
+post_0532,No water supply in Thane for 3 days! #watercrisis @localMLA,2025-05-13 08:46:32.482751,user_7342,"Thane, Maharashtra",LocalForum,404,41,hinglish
+post_0533,Forwarded as received: all schools closing tomorrow in Ahmedabad! Is this true?,2025-05-07 20:05:32.482770,user_7285,"Ahmedabad, Gujarat",Twitter,312,36,hinglish
+post_0534,Thank you for addressing the crime issue promptly!,2025-05-07 11:43:32.482789,user_4670,"Bangalore, Karnataka",LocalForum,217,36,hinglish
+post_0535,This new policy is a disaster for people in Patna.,2025-05-09 15:42:32.482808,user_9562,"Patna, Bihar",LocalForum,344,84,hinglish
+post_0536,Warning! Unverified news about a local festival spreading in Kolkata.,2025-05-21 23:28:32.482826,user_8345,"Kolkata, West Bengal",Twitter,116,67,en
+post_0537,Kanpur में illegal construction से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-24 01:39:32.482844,user_4062,"Kanpur, Uttar Pradesh",Instagram,288,80,hi
+post_0538,Warning! Unverified news about a local festival spreading in Nagpur.,2025-05-10 06:33:32.482863,user_8097,"Nagpur, Maharashtra",Facebook,42,40,en
+post_0539,Concerned about the rising noise pollution in our area. #safety,2025-05-26 10:12:32.482887,user_5624,"Kanpur, Uttar Pradesh",Twitter,97,69,en
+post_0540,"The roads in Ward 17, Chennai are in pathetic condition. #badroads",2025-05-20 02:27:32.482906,user_4648,"Chennai, Tamil Nadu",Instagram,329,84,hinglish
+post_0541,Endless wait times at the Police Station in Thane. #inefficiency,2025-05-29 06:39:32.482925,user_4137,"Thane, Maharashtra",Instagram,329,97,en
+post_0542,Thane में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-17 16:10:32.482948,user_4750,"Thane, Maharashtra",LocalForum,85,75,hinglish
+post_0543,Heard a rumor that a celebrity visit is happening in Pune. Can anyone confirm? #fakenewsalert,2025-05-09 17:21:32.482966,user_6413,"Pune, Maharashtra",Twitter,443,58,hi
+post_0544,बहुत अच्छा काम हो रहा है Kolkata में। #विकास,2025-05-24 05:10:32.482985,user_2854,"Kolkata, West Bengal",Twitter,48,63,en
+post_0545,Power outage for hours in Nagpur! This is unacceptable. @ কর্তৃপক্ষ,2025-05-26 11:41:32.483003,user_6774,"Nagpur, Maharashtra",Facebook,375,84,hinglish
+post_0546,Lucknow में noise pollution से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-18 10:09:32.483022,user_1781,"Lucknow, Uttar Pradesh",LocalForum,410,39,hi
+post_0547,This new policy is a disaster for people in Ahmedabad.,2025-05-07 15:59:32.483040,user_6879,"Ahmedabad, Gujarat",Facebook,253,2,en
+post_0548,Endless wait times at the Municipal Office in Kolkata. #inefficiency,2025-05-25 20:28:32.483059,user_2577,"Kolkata, West Bengal",Instagram,499,98,hi
+post_0549,Weather in Bangalore is quite sunny today.,2025-05-28 01:09:32.483078,user_7744,"Bangalore, Karnataka",Facebook,378,49,hi
+post_0550,Thank you for addressing the power cuts issue promptly!,2025-05-22 13:56:32.483096,user_3551,"Bhopal, Madhya Pradesh",Instagram,267,73,hi
+post_0551,Terrible traffic jam again in Bhopal. When will this be fixed? #civicissue,2025-05-25 08:01:32.483115,user_1475,"Bhopal, Madhya Pradesh",Twitter,296,35,en
+post_0552,Hyderabad में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-28 11:53:32.483138,user_7710,"Hyderabad, Telangana",Facebook,392,46,en
+post_0553,Delhi में बिजली की कटौती से जनता परेशान। #powercut,2025-05-18 16:15:32.483156,user_6223,"Delhi, Delhi",Facebook,209,41,hinglish
+post_0554,Forwarded as received: all schools closing tomorrow in Nagpur! Is this true?,2025-05-05 12:55:32.483175,user_3822,"Nagpur, Maharashtra",Facebook,335,2,hinglish
+post_0555,Terrible traffic jam again in Delhi. When will this be fixed? #civicissue,2025-05-21 05:34:32.483193,user_2898,"Delhi, Delhi",Instagram,39,32,en
+post_0556,Attended a meeting about education in Indore today.,2025-05-06 07:06:32.483212,user_8167,"Indore, Madhya Pradesh",Instagram,7,31,hinglish
+post_0557,Heard a rumor that a natural disaster warning is happening in Patna. Can anyone confirm? #fakenewsalert,2025-05-05 16:18:32.483231,user_9804,"Patna, Bihar",Facebook,259,93,en
+post_0558,They are saying a secret plan is underway about the the government in Kanpur.,2025-05-27 18:07:32.483253,user_6906,"Kanpur, Uttar Pradesh",Twitter,31,8,en
+post_0559,Thane में बिजली की कटौती से जनता परेशान। #powercut,2025-05-21 21:15:32.483271,user_8183,"Thane, Maharashtra",Twitter,128,62,en
+post_0560,Bhopal market seems busy as usual.,2025-05-20 09:08:32.483290,user_4604,"Bhopal, Madhya Pradesh",Facebook,157,12,hi
+post_0561,"The roads in Ward 1, Ahmedabad are in pathetic condition. #badroads",2025-06-01 04:33:32.483312,user_2125,"Ahmedabad, Gujarat",Facebook,222,58,hinglish
+post_0562,बहुत अच्छा काम हो रहा है Chennai में। #विकास,2025-05-11 03:36:32.483331,user_7274,"Chennai, Tamil Nadu",Facebook,352,67,hi
+post_0563,Lucknow में illegal construction से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-08 12:27:32.483349,user_8833,"Lucknow, Uttar Pradesh",LocalForum,381,4,hi
+post_0564,Endless wait times at the Collectorate in Thane. #inefficiency,2025-05-30 23:09:32.483371,user_1645,"Thane, Maharashtra",LocalForum,210,59,en
+post_0565,This new policy is a disaster for people in Lucknow.,2025-05-21 21:59:32.483391,user_3990,"Lucknow, Uttar Pradesh",Instagram,363,72,en
+post_0566,Warning! Unverified news about a local festival spreading in Thane.,2025-05-12 08:27:32.483411,user_1587,"Thane, Maharashtra",Instagram,475,29,hinglish
+post_0567,Nagpur में theft से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-07 16:40:32.483429,user_7299,"Nagpur, Maharashtra",Twitter,247,89,hi
+post_0568,Chennai में noise pollution से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-04 07:40:32.483448,user_2715,"Chennai, Tamil Nadu",Twitter,33,40,hi
+post_0569,"The roads in Ward 14, Pune are in pathetic condition. #badroads",2025-05-14 17:43:32.483467,user_6433,"Pune, Maharashtra",Facebook,74,56,hinglish
+post_0570,Attended a meeting about public safety in Indore today.,2025-05-10 16:39:32.483485,user_7416,"Indore, Madhya Pradesh",Facebook,324,10,en
+post_0571,Weather in Kolkata is quite cloudy today.,2025-05-03 17:34:32.483504,user_9915,"Kolkata, West Bengal",LocalForum,380,15,en
+post_0572,"The roads in Ward 9, Hyderabad are in pathetic condition. #badroads",2025-06-01 06:26:32.483523,user_1155,"Hyderabad, Telangana",LocalForum,46,38,en
+post_0573,Feeling hopeful about developments in Hyderabad.,2025-05-27 23:41:32.483541,user_7144,"Hyderabad, Telangana",Instagram,455,86,hi
+post_0574,Concerned about the rising stray animals in our area. #safety,2025-05-31 04:03:32.483560,user_7040,"Kanpur, Uttar Pradesh",LocalForum,302,37,hinglish
+post_0575,Weather in Indore is quite cloudy today.,2025-05-18 11:26:32.483579,user_1948,"Indore, Madhya Pradesh",Facebook,301,13,en
+post_0576,Feeling hopeful about developments in Kanpur.,2025-05-29 20:44:32.483598,user_5646,"Kanpur, Uttar Pradesh",LocalForum,392,98,hinglish
+post_0577,Hyderabad market seems busy as usual.,2025-05-05 19:46:32.483617,user_2138,"Hyderabad, Telangana",Twitter,224,5,en
+post_0578,Great initiative by local authorities for environment. #positivechange,2025-05-06 09:02:32.483635,user_4674,"Ahmedabad, Gujarat",Instagram,353,45,hi
+post_0579,Just observing the situation regarding pollution in Hyderabad.,2025-05-27 18:25:32.483655,user_5596,"Hyderabad, Telangana",LocalForum,327,61,hinglish
+post_0580,Concerned about the rising theft in our area. #safety,2025-05-30 13:31:32.483674,user_7142,"Ahmedabad, Gujarat",Twitter,333,83,en
+post_0581,Endless wait times at the Collectorate in Pune. #inefficiency,2025-05-17 00:37:32.483693,user_5249,"Pune, Maharashtra",Instagram,101,86,hinglish
+post_0582,Weather in Patna is quite rainy today.,2025-05-11 16:04:32.483712,user_5178,"Patna, Bihar",LocalForum,109,50,en
+post_0583,Feeling hopeful about developments in Indore.,2025-05-30 22:42:32.483731,user_8880,"Indore, Madhya Pradesh",Facebook,283,83,hinglish
+post_0584,Indore में theft से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-21 01:47:32.483750,user_8230,"Indore, Madhya Pradesh",Instagram,72,18,hinglish
+post_0585,Garbage not collected in East Delhi for a week. #swachhbharat?,2025-05-18 12:47:32.483769,user_1933,"Delhi, Delhi",Facebook,436,60,hinglish
+post_0586,This new policy is a disaster for people in Mumbai.,2025-05-30 00:44:32.483787,user_1285,"Mumbai, Maharashtra",Twitter,264,63,en
+post_0587,Weather in Kanpur is quite sunny today.,2025-06-01 08:09:32.483806,user_2762,"Kanpur, Uttar Pradesh",Facebook,488,58,hi
+post_0588,No water supply in Indore for 3 days! #watercrisis @localMLA,2025-05-19 23:57:32.483824,user_9259,"Indore, Madhya Pradesh",LocalForum,475,7,hi
+post_0589,बहुत अच्छा काम हो रहा है Ahmedabad में। #विकास,2025-05-31 23:15:32.483843,user_6717,"Ahmedabad, Gujarat",Facebook,424,54,en
+post_0590,Weather in Bangalore is quite hot today.,2025-05-17 15:13:32.483862,user_6154,"Bangalore, Karnataka",Facebook,266,63,en
+post_0591,No water supply in Bhopal for 3 days! #watercrisis @localMLA,2025-05-19 14:40:32.483880,user_1660,"Bhopal, Madhya Pradesh",Instagram,324,47,en
+post_0592,Terrible traffic jam again in Kolkata. When will this be fixed? #civicissue,2025-05-14 03:58:32.483899,user_8851,"Kolkata, West Bengal",Facebook,416,72,hi
+post_0593,Great initiative by local authorities for public safety. #positivechange,2025-05-04 23:57:32.483919,user_5577,"Delhi, Delhi",LocalForum,215,95,en
+post_0594,Power outage for hours in Jaipur! This is unacceptable. @ কর্তৃপক্ষ,2025-06-02 00:16:32.483938,user_1342,"Jaipur, Rajasthan",Facebook,430,39,hinglish
+post_0595,Power outage for hours in Kolkata! This is unacceptable. @ কর্তৃপক্ষ,2025-05-21 10:49:32.483956,user_7317,"Kolkata, West Bengal",LocalForum,46,14,en
+post_0596,Concerned about the rising noise pollution in our area. #safety,2025-05-24 13:35:32.483974,user_7748,"Bangalore, Karnataka",Facebook,405,20,hi
+post_0597,Just observing the situation regarding crime in Lucknow.,2025-05-15 02:41:32.483993,user_4740,"Lucknow, Uttar Pradesh",Facebook,178,3,en
+post_0598,Power outage for hours in Indore! This is unacceptable. @ কর্তৃপক্ষ,2025-05-11 01:33:32.484012,user_1771,"Indore, Madhya Pradesh",LocalForum,405,75,hinglish
+post_0599,Concerned about the rising stray animals in our area. #safety,2025-05-21 05:39:32.484031,user_1193,"Kolkata, West Bengal",Instagram,471,33,hinglish
+post_0600,Great initiative by local authorities for infrastructure. #positivechange,2025-05-06 09:20:32.484050,user_5005,"Bangalore, Karnataka",Facebook,261,85,en
+post_0601,This new policy is a disaster for people in Hyderabad.,2025-05-08 14:44:32.484069,user_7716,"Hyderabad, Telangana",Facebook,267,5,en
+post_0602,Nagpur में बिजली की कटौती से जनता परेशान। #powercut,2025-05-08 00:42:32.484088,user_4451,"Nagpur, Maharashtra",Twitter,361,64,en
+post_0603,Power outage for hours in Patna! This is unacceptable. @ কর্তৃপক্ষ,2025-05-08 19:12:32.484106,user_9333,"Patna, Bihar",Twitter,290,47,hi
+post_0604,Terrible traffic jam again in Kanpur. When will this be fixed? #civicissue,2025-05-20 12:05:32.484124,user_6808,"Kanpur, Uttar Pradesh",Facebook,140,60,en
+post_0605,Feeling hopeful about developments in Patna.,2025-05-27 15:15:32.484143,user_5976,"Patna, Bihar",LocalForum,189,7,en
+post_0606,Attended a meeting about health services in Nagpur today.,2025-05-22 12:01:32.484161,user_5697,"Nagpur, Maharashtra",Instagram,294,84,hinglish
+post_0607,Just observing the situation regarding power cuts in Kolkata.,2025-05-12 15:19:32.484180,user_6482,"Kolkata, West Bengal",LocalForum,309,8,en
+post_0608,"The roads in Ward 11, Hyderabad are in pathetic condition. #badroads",2025-05-10 03:12:32.484199,user_5648,"Hyderabad, Telangana",Instagram,16,87,en
+post_0609,"The roads in Ward 4, Bangalore are in pathetic condition. #badroads",2025-05-12 13:02:32.484218,user_1182,"Bangalore, Karnataka",Facebook,40,38,en
+post_0610,Weather in Hyderabad is quite sunny today.,2025-05-20 21:15:32.484236,user_6002,"Hyderabad, Telangana",LocalForum,332,45,en
+post_0611,Loving the new park in Pune! #community #goodgovernance,2025-05-21 07:21:32.484254,user_9210,"Pune, Maharashtra",Twitter,331,71,en
+post_0612,Concerned about the rising noise pollution in our area. #safety,2025-05-25 11:16:32.484272,user_7588,"Jaipur, Rajasthan",Instagram,239,32,en
+post_0613,This new policy is a disaster for people in Patna.,2025-05-21 01:33:32.484290,user_4321,"Patna, Bihar",Twitter,452,7,hi
+post_0614,Concerned about the rising stray animals in our area. #safety,2025-05-08 18:38:32.484309,user_4741,"Chennai, Tamil Nadu",Twitter,492,46,en
+post_0615,Thank you for addressing the traffic issue promptly!,2025-05-10 15:14:32.484330,user_2875,"Pune, Maharashtra",Instagram,337,17,hinglish
+post_0616,Endless wait times at the Collectorate in Nagpur. #inefficiency,2025-06-01 04:31:32.484350,user_4744,"Nagpur, Maharashtra",Instagram,126,35,hi
+post_0617,This new policy is a disaster for people in Chennai.,2025-05-16 03:42:32.484369,user_2774,"Chennai, Tamil Nadu",LocalForum,411,39,en
+post_0618,Loving the new park in Jaipur! #community #goodgovernance,2025-05-13 15:28:32.484388,user_1331,"Jaipur, Rajasthan",Instagram,377,14,hi
+post_0619,बहुत अच्छा काम हो रहा है Kolkata में। #विकास,2025-05-25 01:59:32.484407,user_6054,"Kolkata, West Bengal",Twitter,284,73,en
+post_0620,Nagpur market seems busy as usual.,2025-05-31 13:50:32.484426,user_5658,"Nagpur, Maharashtra",Instagram,117,72,en
+post_0621,Loving the new park in Jaipur! #community #goodgovernance,2025-05-09 01:33:32.484445,user_1770,"Jaipur, Rajasthan",Facebook,83,69,hi
+post_0622,Great initiative by local authorities for environment. #positivechange,2025-05-06 11:59:32.484463,user_2628,"Indore, Madhya Pradesh",Facebook,165,2,en
+post_0623,Forwarded as received: all schools closing tomorrow in Patna! Is this true?,2025-05-18 00:59:32.484482,user_5008,"Patna, Bihar",Twitter,267,34,en
+post_0624,They are saying a secret plan is underway about the outsiders in Bhopal.,2025-05-23 07:06:32.484501,user_8980,"Bhopal, Madhya Pradesh",Twitter,462,89,en
+post_0625,This new policy is a disaster for people in Bangalore.,2025-05-28 11:12:32.484519,user_5318,"Bangalore, Karnataka",Instagram,408,22,en
+post_0626,Feeling hopeful about developments in Ahmedabad.,2025-05-10 02:33:32.484538,user_2130,"Ahmedabad, Gujarat",Facebook,145,35,en
+post_0627,Concerned about the rising noise pollution in our area. #safety,2025-05-30 19:06:32.484556,user_3120,"Thane, Maharashtra",Instagram,436,29,en
+post_0628,Loving the new park in Kanpur! #community #goodgovernance,2025-05-05 20:27:32.484575,user_2823,"Kanpur, Uttar Pradesh",Facebook,450,66,hinglish
+post_0629,Lucknow market seems busy as usual.,2025-05-05 20:46:32.484593,user_6160,"Lucknow, Uttar Pradesh",Instagram,62,22,en
+post_0630,Just observing the situation regarding traffic in Bhopal.,2025-05-25 21:13:32.484612,user_2141,"Bhopal, Madhya Pradesh",Instagram,99,32,en
+post_0631,Just observing the situation regarding pollution in Patna.,2025-05-10 01:27:32.484630,user_7583,"Patna, Bihar",LocalForum,155,36,hi
+post_0632,This new policy is a disaster for people in Ahmedabad.,2025-05-27 04:24:32.484648,user_5928,"Ahmedabad, Gujarat",LocalForum,192,46,hinglish
+post_0633,Feeling hopeful about developments in Hyderabad.,2025-05-13 13:32:32.484667,user_4273,"Hyderabad, Telangana",Facebook,443,17,en
+post_0634,Terrible traffic jam again in Chennai. When will this be fixed? #civicissue,2025-05-06 05:18:32.484685,user_2829,"Chennai, Tamil Nadu",Instagram,63,68,en
+post_0635,बहुत अच्छा काम हो रहा है Ahmedabad में। #विकास,2025-05-26 06:13:32.484704,user_4699,"Ahmedabad, Gujarat",LocalForum,439,75,hinglish
+post_0636,Power outage for hours in Mumbai! This is unacceptable. @ কর্তৃপক্ষ,2025-05-28 07:30:32.484722,user_6744,"Mumbai, Maharashtra",Instagram,364,49,hinglish
+post_0637,Just observing the situation regarding power cuts in Lucknow.,2025-05-28 08:37:32.484741,user_1442,"Lucknow, Uttar Pradesh",Facebook,66,74,hinglish
+post_0638,Endless wait times at the Collectorate in Bangalore. #inefficiency,2025-05-21 04:35:32.484759,user_8597,"Bangalore, Karnataka",Twitter,362,63,en
+post_0639,Nagpur market seems busy as usual.,2025-05-06 22:10:32.484777,user_3309,"Nagpur, Maharashtra",Facebook,314,14,hi
+post_0640,Loving the new park in Delhi! #community #goodgovernance,2025-05-12 22:24:32.484795,user_3169,"Delhi, Delhi",Instagram,124,36,hinglish
+post_0641,Pune में theft से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-24 03:26:32.484814,user_7789,"Pune, Maharashtra",LocalForum,195,17,en
+post_0642,Power outage for hours in Delhi! This is unacceptable. @ কর্তৃপক্ষ,2025-05-05 23:12:32.484833,user_9988,"Delhi, Delhi",Instagram,76,58,en
+post_0643,Concerned about the rising theft in our area. #safety,2025-05-18 12:44:32.484852,user_4807,"Chennai, Tamil Nadu",Facebook,495,21,hinglish
+post_0644,Terrible traffic jam again in Lucknow. When will this be fixed? #civicissue,2025-05-30 03:24:32.484870,user_3352,"Lucknow, Uttar Pradesh",Instagram,396,33,en
+post_0645,Just observing the situation regarding waste management in Kolkata.,2025-05-20 10:08:32.484889,user_6498,"Kolkata, West Bengal",LocalForum,342,50,hinglish
+post_0646,This new policy is a disaster for people in Chennai.,2025-05-30 22:27:32.484908,user_2439,"Chennai, Tamil Nadu",Twitter,108,50,hinglish
+post_0647,Attended a meeting about public safety in Ahmedabad today.,2025-05-07 15:40:32.484926,user_1382,"Ahmedabad, Gujarat",Twitter,491,20,en
+post_0648,Just observing the situation regarding traffic in Bhopal.,2025-05-21 21:22:32.484945,user_5931,"Bhopal, Madhya Pradesh",Instagram,498,0,hinglish
+post_0649,Thank you for addressing the power cuts issue promptly!,2025-05-05 08:26:32.484963,user_6004,"Patna, Bihar",Twitter,110,97,hinglish
+post_0650,Feeling hopeful about developments in Indore.,2025-05-23 04:10:32.484981,user_7652,"Indore, Madhya Pradesh",Twitter,272,98,en
+post_0651,Concerned about the rising illegal construction in our area. #safety,2025-05-05 14:21:32.485000,user_7905,"Jaipur, Rajasthan",Facebook,274,36,en
+post_0652,This new policy is a disaster for people in Thane.,2025-05-26 11:53:32.485018,user_2307,"Thane, Maharashtra",Instagram,4,16,en
+post_0653,They are saying a secret plan is underway about the outsiders in Bhopal.,2025-05-29 04:07:32.485038,user_4730,"Bhopal, Madhya Pradesh",Twitter,63,90,en
+post_0654,This new policy is a disaster for people in Pune.,2025-05-13 06:50:32.485056,user_2708,"Pune, Maharashtra",Twitter,46,11,en
+post_0655,Terrible traffic jam again in Lucknow. When will this be fixed? #civicissue,2025-05-11 11:07:32.485075,user_7538,"Lucknow, Uttar Pradesh",Twitter,486,91,hinglish
+post_0656,Power outage for hours in Bhopal! This is unacceptable. @ কর্তৃপক্ষ,2025-05-28 15:05:32.485093,user_2960,"Bhopal, Madhya Pradesh",Twitter,45,11,hinglish
+post_0657,Loving the new park in Hyderabad! #community #goodgovernance,2025-05-27 15:10:32.485112,user_5761,"Hyderabad, Telangana",Facebook,303,51,hinglish
+post_0658,Thank you for addressing the power cuts issue promptly!,2025-05-27 09:03:32.485131,user_6347,"Indore, Madhya Pradesh",Instagram,101,74,en
+post_0659,Attended a meeting about education in Thane today.,2025-06-01 08:38:32.485150,user_5494,"Thane, Maharashtra",Facebook,410,74,hi
+post_0660,Thank you for addressing the crime issue promptly!,2025-05-08 13:11:32.485168,user_4536,"Indore, Madhya Pradesh",Twitter,178,52,hinglish
+post_0661,This new policy is a disaster for people in Chennai.,2025-05-19 14:33:32.485187,user_2970,"Chennai, Tamil Nadu",Facebook,174,3,en
+post_0662,Attended a meeting about environment in Bangalore today.,2025-05-26 19:26:32.485206,user_4119,"Bangalore, Karnataka",Facebook,328,71,hinglish
+post_0663,No water supply in Indore for 3 days! #watercrisis @localMLA,2025-05-13 19:44:32.485225,user_3384,"Indore, Madhya Pradesh",Instagram,368,96,en
+post_0664,Thank you for addressing the water shortage issue promptly!,2025-05-25 13:23:32.485243,user_6442,"Kolkata, West Bengal",Facebook,442,68,hi
+post_0665,Endless wait times at the Municipal Office in Indore. #inefficiency,2025-05-20 17:15:32.485262,user_2724,"Indore, Madhya Pradesh",Twitter,286,79,en
+post_0666,Forwarded as received: free money distribution in Jaipur! Is this true?,2025-05-15 10:32:32.485281,user_6845,"Jaipur, Rajasthan",Facebook,170,66,en
+post_0667,Chennai में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-11 22:19:32.485303,user_1276,"Chennai, Tamil Nadu",Facebook,463,75,en
+post_0668,Heard a rumor that a natural disaster warning is happening in Jaipur. Can anyone confirm? #fakenewsalert,2025-05-31 23:37:32.485322,user_1695,"Jaipur, Rajasthan",Instagram,285,56,hinglish
+post_0669,Just observing the situation regarding crime in Hyderabad.,2025-05-03 17:26:32.485340,user_8537,"Hyderabad, Telangana",Instagram,263,25,hi
+post_0670,Terrible traffic jam again in Nagpur. When will this be fixed? #civicissue,2025-05-17 00:54:32.485358,user_9733,"Nagpur, Maharashtra",Instagram,134,66,en
+post_0671,Kanpur market seems busy as usual.,2025-06-02 04:36:32.485377,user_7144,"Kanpur, Uttar Pradesh",Twitter,398,36,hi
+post_0672,Just observing the situation regarding waste management in Bangalore.,2025-05-21 00:53:32.485395,user_9068,"Bangalore, Karnataka",LocalForum,187,72,en
+post_0673,Feeling hopeful about developments in Bhopal.,2025-06-02 04:26:32.485414,user_4175,"Bhopal, Madhya Pradesh",Twitter,22,8,hinglish
+post_0674,Terrible traffic jam again in Delhi. When will this be fixed? #civicissue,2025-05-31 18:47:32.485432,user_8427,"Delhi, Delhi",Instagram,413,94,en
+post_0675,Delhi में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-27 21:26:32.485451,user_4655,"Delhi, Delhi",Instagram,258,13,hinglish
+post_0676,Loving the new park in Thane! #community #goodgovernance,2025-05-05 19:16:32.485470,user_6409,"Thane, Maharashtra",Instagram,44,60,en
+post_0677,Power outage for hours in Indore! This is unacceptable. @ কর্তৃপক্ষ,2025-05-15 02:45:32.485494,user_6185,"Indore, Madhya Pradesh",Twitter,423,16,hi
+post_0678,Just observing the situation regarding power cuts in Ahmedabad.,2025-05-11 06:19:32.485513,user_8547,"Ahmedabad, Gujarat",Facebook,143,59,hi
+post_0679,Attended a meeting about education in Pune today.,2025-06-01 06:35:32.485531,user_3555,"Pune, Maharashtra",Facebook,289,38,hinglish
+post_0680,Garbage not collected in East Kanpur for a week. #swachhbharat?,2025-05-31 00:38:32.485550,user_5727,"Kanpur, Uttar Pradesh",Facebook,381,54,hinglish
+post_0681,Thank you for addressing the pollution issue promptly!,2025-05-06 10:32:32.485567,user_8398,"Pune, Maharashtra",LocalForum,52,38,en
+post_0682,This new policy is a disaster for people in Mumbai.,2025-06-01 15:20:32.485584,user_6789,"Mumbai, Maharashtra",LocalForum,436,12,hi
+post_0683,Concerned about the rising illegal construction in our area. #safety,2025-05-12 13:08:32.485601,user_8480,"Delhi, Delhi",LocalForum,280,85,hi
+post_0684,Weather in Hyderabad is quite sunny today.,2025-05-16 09:38:32.485618,user_7687,"Hyderabad, Telangana",Instagram,445,73,en
+post_0685,Terrible traffic jam again in Indore. When will this be fixed? #civicissue,2025-05-24 04:53:32.485635,user_2589,"Indore, Madhya Pradesh",Instagram,51,19,hinglish
+post_0686,बहुत अच्छा काम हो रहा है Hyderabad में। #विकास,2025-05-15 18:11:32.485652,user_7555,"Hyderabad, Telangana",Facebook,365,52,hinglish
+post_0687,Terrible traffic jam again in Patna. When will this be fixed? #civicissue,2025-05-09 17:39:32.485669,user_7846,"Patna, Bihar",LocalForum,259,76,en
+post_0688,Mumbai market seems busy as usual.,2025-05-06 09:53:32.485686,user_6585,"Mumbai, Maharashtra",Instagram,11,30,hinglish
+post_0689,Jaipur market seems busy as usual.,2025-05-20 06:43:32.485704,user_8927,"Jaipur, Rajasthan",Twitter,353,74,en
+post_0690,"The roads in Ward 12, Thane are in pathetic condition. #badroads",2025-05-24 20:12:32.485721,user_8758,"Thane, Maharashtra",Twitter,440,94,hinglish
+post_0691,Forwarded as received: all schools closing tomorrow in Bhopal! Is this true?,2025-05-16 14:29:32.485739,user_7352,"Bhopal, Madhya Pradesh",Instagram,342,87,hinglish
+post_0692,Hyderabad में theft से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-16 00:20:32.485757,user_3437,"Hyderabad, Telangana",Facebook,324,43,en
+post_0693,Feeling hopeful about developments in Lucknow.,2025-05-08 21:04:32.485773,user_3624,"Lucknow, Uttar Pradesh",LocalForum,106,18,en
+post_0694,Great initiative by local authorities for health services. #positivechange,2025-05-25 06:17:32.485795,user_6571,"Mumbai, Maharashtra",Twitter,99,81,en
+post_0695,Thank you for addressing the waste management issue promptly!,2025-05-18 13:48:32.485813,user_3224,"Nagpur, Maharashtra",Facebook,197,55,hi
+post_0696,Pune में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-21 13:24:32.485830,user_9662,"Pune, Maharashtra",Twitter,217,28,en
+post_0697,Bhopal market seems busy as usual.,2025-06-01 08:06:32.485847,user_7318,"Bhopal, Madhya Pradesh",Facebook,22,84,hi
+post_0698,Lucknow में बिजली की कटौती से जनता परेशान। #powercut,2025-05-12 21:48:32.485865,user_4607,"Lucknow, Uttar Pradesh",LocalForum,363,10,hinglish
+post_0699,Loving the new park in Bangalore! #community #goodgovernance,2025-05-17 04:14:32.485882,user_5888,"Bangalore, Karnataka",Facebook,93,72,hi
+post_0700,Great initiative by local authorities for health services. #positivechange,2025-05-12 12:42:32.485900,user_6842,"Patna, Bihar",Twitter,139,36,hi
+post_0701,Thank you for addressing the crime issue promptly!,2025-05-23 15:24:32.485917,user_6621,"Ahmedabad, Gujarat",Instagram,303,27,hinglish
+post_0702,Bhopal में बिजली की कटौती से जनता परेशान। #powercut,2025-05-25 05:14:32.485935,user_2519,"Bhopal, Madhya Pradesh",Instagram,145,77,en
+post_0703,They are saying a secret plan is underway about the the government in Hyderabad.,2025-05-30 20:20:32.485952,user_6574,"Hyderabad, Telangana",Instagram,488,12,en
+post_0704,Feeling hopeful about developments in Indore.,2025-05-16 03:48:32.485970,user_5424,"Indore, Madhya Pradesh",Facebook,165,74,en
+post_0705,This new policy is a disaster for people in Pune.,2025-05-11 08:39:32.485987,user_3016,"Pune, Maharashtra",Instagram,99,86,hinglish
+post_0706,They are saying a secret plan is underway about the the government in Bangalore.,2025-05-20 19:27:32.486005,user_4976,"Bangalore, Karnataka",Twitter,215,7,hinglish
+post_0707,Loving the new park in Kolkata! #community #goodgovernance,2025-05-27 04:43:32.486023,user_8170,"Kolkata, West Bengal",Twitter,27,69,hi
+post_0708,Loving the new park in Hyderabad! #community #goodgovernance,2025-05-21 20:40:32.486040,user_1539,"Hyderabad, Telangana",Facebook,487,53,en
+post_0709,Concerned about the rising noise pollution in our area. #safety,2025-05-12 07:25:32.486057,user_1234,"Patna, Bihar",Facebook,226,12,hinglish
+post_0710,Nagpur में बिजली की कटौती से जनता परेशान। #powercut,2025-05-08 15:07:32.486781,user_2673,"Nagpur, Maharashtra",Instagram,52,43,hi
+post_0711,Endless wait times at the Municipal Office in Chennai. #inefficiency,2025-05-18 11:51:32.486801,user_4748,"Chennai, Tamil Nadu",Twitter,101,23,hi
+post_0712,Feeling hopeful about developments in Kanpur.,2025-05-31 10:44:32.486818,user_8011,"Kanpur, Uttar Pradesh",Instagram,397,9,en
+post_0713,Terrible traffic jam again in Delhi. When will this be fixed? #civicissue,2025-05-31 05:14:32.486836,user_3661,"Delhi, Delhi",Facebook,16,11,en
+post_0714,Heard a rumor that a new lockdown is happening in Kanpur. Can anyone confirm? #fakenewsalert,2025-05-11 12:37:32.486855,user_9931,"Kanpur, Uttar Pradesh",Facebook,377,59,en
+post_0715,Thank you for addressing the water shortage issue promptly!,2025-05-08 03:00:32.486872,user_4923,"Delhi, Delhi",LocalForum,118,27,hi
+post_0716,Attended a meeting about education in Mumbai today.,2025-05-17 17:44:32.486889,user_3745,"Mumbai, Maharashtra",Instagram,459,26,en
+post_0717,Terrible traffic jam again in Kanpur. When will this be fixed? #civicissue,2025-05-11 11:19:32.486907,user_6818,"Kanpur, Uttar Pradesh",Twitter,174,93,en
+post_0718,Concerned about the rising noise pollution in our area. #safety,2025-05-25 06:24:32.486924,user_5063,"Kolkata, West Bengal",Twitter,223,24,en
+post_0719,Concerned about the rising stray animals in our area. #safety,2025-06-01 09:03:32.486945,user_3566,"Pune, Maharashtra",LocalForum,243,56,hinglish
+post_0720,Power outage for hours in Patna! This is unacceptable. @ কর্তৃপক্ষ,2025-05-03 20:45:32.486962,user_1719,"Patna, Bihar",LocalForum,42,99,hi
+post_0721,Heard a rumor that a celebrity visit is happening in Bhopal. Can anyone confirm? #fakenewsalert,2025-05-21 01:25:32.486980,user_5402,"Bhopal, Madhya Pradesh",LocalForum,456,31,en
+post_0722,Terrible traffic jam again in Indore. When will this be fixed? #civicissue,2025-05-23 00:28:32.486997,user_9835,"Indore, Madhya Pradesh",Instagram,103,66,hinglish
+post_0723,Warning! Unverified news about a local festival spreading in Kanpur.,2025-05-04 23:32:32.487015,user_6345,"Kanpur, Uttar Pradesh",Instagram,411,76,hinglish
+post_0724,This new policy is a disaster for people in Bhopal.,2025-05-18 09:17:32.487054,user_9707,"Bhopal, Madhya Pradesh",Twitter,89,8,hinglish
+post_0725,Lucknow में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-11 03:05:32.487080,user_7683,"Lucknow, Uttar Pradesh",Instagram,277,16,hinglish
+post_0726,Terrible traffic jam again in Kolkata. When will this be fixed? #civicissue,2025-05-06 20:54:32.487098,user_1025,"Kolkata, West Bengal",Instagram,24,9,hinglish
+post_0727,They are saying a secret plan is underway about the outsiders in Kanpur.,2025-05-06 19:42:32.487118,user_7410,"Kanpur, Uttar Pradesh",Twitter,460,52,en
+post_0728,बहुत अच्छा काम हो रहा है Delhi में। #विकास,2025-05-26 00:57:32.487136,user_6102,"Delhi, Delhi",Twitter,350,27,hi
+post_0729,बहुत अच्छा काम हो रहा है Nagpur में। #विकास,2025-05-22 22:00:32.487153,user_2072,"Nagpur, Maharashtra",LocalForum,174,51,hinglish
+post_0730,बहुत अच्छा काम हो रहा है Chennai में। #विकास,2025-05-27 08:07:32.487173,user_3606,"Chennai, Tamil Nadu",Facebook,158,45,hinglish
+post_0731,Great initiative by local authorities for health services. #positivechange,2025-05-15 15:11:32.487194,user_8763,"Mumbai, Maharashtra",Twitter,307,74,hinglish
+post_0732,Just observing the situation regarding pollution in Ahmedabad.,2025-05-09 10:28:32.487212,user_2946,"Ahmedabad, Gujarat",Instagram,225,14,hinglish
+post_0733,Feeling hopeful about developments in Kanpur.,2025-05-04 11:15:32.487230,user_8557,"Kanpur, Uttar Pradesh",Twitter,293,61,hinglish
+post_0734,Just observing the situation regarding water shortage in Patna.,2025-05-11 14:47:32.487248,user_2932,"Patna, Bihar",Instagram,222,93,en
+post_0735,Power outage for hours in Thane! This is unacceptable. @ কর্তৃপক্ষ,2025-05-31 02:32:32.487266,user_1492,"Thane, Maharashtra",LocalForum,234,32,hinglish
+post_0736,Endless wait times at the Police Station in Chennai. #inefficiency,2025-05-16 16:50:32.487290,user_5958,"Chennai, Tamil Nadu",Facebook,155,69,hinglish
+post_0737,Concerned about the rising theft in our area. #safety,2025-05-24 16:57:32.487311,user_3743,"Hyderabad, Telangana",Instagram,319,58,hinglish
+post_0738,Attended a meeting about public safety in Chennai today.,2025-05-07 20:50:32.487332,user_9548,"Chennai, Tamil Nadu",Instagram,88,17,en
+post_0739,Just observing the situation regarding power cuts in Delhi.,2025-05-14 09:06:32.487349,user_1619,"Delhi, Delhi",Instagram,370,28,hi
+post_0740,Feeling hopeful about developments in Kanpur.,2025-05-07 06:44:32.487367,user_9436,"Kanpur, Uttar Pradesh",Twitter,335,65,hinglish
+post_0741,Great initiative by local authorities for local events. #positivechange,2025-05-31 09:53:32.487385,user_4212,"Jaipur, Rajasthan",Facebook,361,7,en
+post_0742,Weather in Thane is quite hot today.,2025-05-04 04:14:32.487418,user_7976,"Thane, Maharashtra",Twitter,426,38,hinglish
+post_0743,Weather in Bangalore is quite rainy today.,2025-05-16 12:37:32.487439,user_6973,"Bangalore, Karnataka",Instagram,92,85,hinglish
+post_0744,This new policy is a disaster for people in Delhi.,2025-05-21 23:24:32.487457,user_7217,"Delhi, Delhi",Facebook,35,91,en
+post_0745,Kolkata market seems busy as usual.,2025-05-05 22:18:32.487476,user_9148,"Kolkata, West Bengal",Twitter,215,41,en
+post_0746,Weather in Jaipur is quite rainy today.,2025-05-06 00:59:32.487497,user_4638,"Jaipur, Rajasthan",LocalForum,455,47,hi
+post_0747,Power outage for hours in Patna! This is unacceptable. @ কর্তৃপক্ষ,2025-05-06 10:24:32.487514,user_5444,"Patna, Bihar",Twitter,450,12,en
+post_0748,Just observing the situation regarding crime in Indore.,2025-05-20 22:25:32.487532,user_8432,"Indore, Madhya Pradesh",Instagram,437,26,en
+post_0749,Kanpur में theft से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-31 14:00:32.487550,user_4743,"Kanpur, Uttar Pradesh",LocalForum,88,92,en
+post_0750,Terrible traffic jam again in Kolkata. When will this be fixed? #civicissue,2025-05-26 15:58:32.487567,user_3451,"Kolkata, West Bengal",Twitter,116,93,hi
+post_0751,Power outage for hours in Pune! This is unacceptable. @ কর্তৃপক্ষ,2025-05-31 05:12:32.487585,user_4674,"Pune, Maharashtra",Facebook,345,77,hinglish
+post_0752,Delhi में बिजली की कटौती से जनता परेशान। #powercut,2025-05-16 14:16:32.487602,user_9307,"Delhi, Delhi",Facebook,348,83,en
+post_0753,Endless wait times at the Collectorate in Hyderabad. #inefficiency,2025-05-12 14:57:32.487626,user_4008,"Hyderabad, Telangana",Facebook,113,0,en
+post_0754,बहुत अच्छा काम हो रहा है Indore में। #विकास,2025-05-07 19:41:32.487643,user_4699,"Indore, Madhya Pradesh",LocalForum,342,9,en
+post_0755,Thank you for addressing the power cuts issue promptly!,2025-05-06 21:20:32.487661,user_5200,"Thane, Maharashtra",Twitter,388,64,en
+post_0756,Power outage for hours in Mumbai! This is unacceptable. @ কর্তৃপক্ষ,2025-05-16 10:27:32.487678,user_2772,"Mumbai, Maharashtra",Facebook,424,92,en
+post_0757,Attended a meeting about public safety in Patna today.,2025-05-30 03:50:32.487696,user_3871,"Patna, Bihar",Facebook,434,20,en
+post_0758,Garbage not collected in East Thane for a week. #swachhbharat?,2025-05-30 20:35:32.487714,user_2132,"Thane, Maharashtra",Twitter,187,70,hinglish
+post_0759,Just observing the situation regarding traffic in Thane.,2025-05-18 09:54:32.487732,user_7297,"Thane, Maharashtra",Facebook,39,4,hi
+post_0760,बहुत अच्छा काम हो रहा है Patna में। #विकास,2025-05-12 18:57:32.487750,user_9275,"Patna, Bihar",Instagram,398,92,hi
+post_0761,बहुत अच्छा काम हो रहा है Kolkata में। #विकास,2025-05-25 23:13:32.487771,user_1614,"Kolkata, West Bengal",LocalForum,45,27,en
+post_0762,Thank you for addressing the traffic issue promptly!,2025-05-20 04:03:32.487788,user_1270,"Thane, Maharashtra",LocalForum,482,36,hi
+post_0763,This new policy is a disaster for people in Bangalore.,2025-06-02 05:14:32.487806,user_4607,"Bangalore, Karnataka",LocalForum,23,3,hinglish
+post_0764,Great initiative by local authorities for infrastructure. #positivechange,2025-05-31 06:04:32.487823,user_7614,"Pune, Maharashtra",Instagram,180,22,hinglish
+post_0765,Loving the new park in Patna! #community #goodgovernance,2025-05-21 03:30:32.487841,user_9445,"Patna, Bihar",Facebook,180,61,hi
+post_0766,Bhopal में noise pollution से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-24 10:55:32.487858,user_2380,"Bhopal, Madhya Pradesh",Instagram,312,9,hi
+post_0767,Warning! Unverified news about a local festival spreading in Pune.,2025-05-26 01:22:32.487876,user_4156,"Pune, Maharashtra",Facebook,316,83,en
+post_0768,Garbage not collected in South Nagpur for a week. #swachhbharat?,2025-05-30 13:39:32.487894,user_6934,"Nagpur, Maharashtra",Instagram,451,91,hi
+post_0769,Mumbai market seems busy as usual.,2025-05-22 02:10:32.487911,user_4240,"Mumbai, Maharashtra",Instagram,452,12,en
+post_0770,Heard a rumor that a celebrity visit is happening in Delhi. Can anyone confirm? #fakenewsalert,2025-05-10 14:31:32.487929,user_3749,"Delhi, Delhi",Facebook,356,24,hinglish
+post_0771,"The roads in Ward 2, Kolkata are in pathetic condition. #badroads",2025-05-17 13:47:32.487956,user_8352,"Kolkata, West Bengal",Twitter,381,46,en
+post_0772,"The roads in Ward 14, Kanpur are in pathetic condition. #badroads",2025-05-12 04:22:32.487974,user_6141,"Kanpur, Uttar Pradesh",Instagram,212,53,en
+post_0773,बहुत अच्छा काम हो रहा है Bhopal में। #विकास,2025-05-13 00:12:32.487992,user_9463,"Bhopal, Madhya Pradesh",LocalForum,58,30,hi
+post_0774,Just observing the situation regarding traffic in Bangalore.,2025-05-23 22:29:32.488009,user_5538,"Bangalore, Karnataka",Facebook,161,8,hi
+post_0775,Great initiative by local authorities for health services. #positivechange,2025-05-16 21:29:32.488027,user_3832,"Bhopal, Madhya Pradesh",Facebook,323,47,hi
+post_0776,Great initiative by local authorities for health services. #positivechange,2025-05-13 17:36:32.488044,user_6754,"Thane, Maharashtra",Instagram,404,64,en
+post_0777,"The roads in Ward 14, Bhopal are in pathetic condition. #badroads",2025-05-08 13:25:32.488061,user_2104,"Bhopal, Madhya Pradesh",Instagram,488,87,en
+post_0778,Pune में noise pollution से परेशान हूँ। कोई सुनवाई नहीं।,2025-06-01 00:46:32.488079,user_8263,"Pune, Maharashtra",LocalForum,422,69,hi
+post_0779,Terrible traffic jam again in Delhi. When will this be fixed? #civicissue,2025-06-01 17:38:32.488096,user_1166,"Delhi, Delhi",Instagram,125,56,en
+post_0780,Endless wait times at the Collectorate in Kolkata. #inefficiency,2025-05-17 06:02:32.488114,user_1680,"Kolkata, West Bengal",LocalForum,476,72,hi
+post_0781,Great initiative by local authorities for local events. #positivechange,2025-05-21 02:55:32.488132,user_2363,"Lucknow, Uttar Pradesh",Facebook,307,2,hinglish
+post_0782,Forwarded as received: free money distribution in Pune! Is this true?,2025-05-16 15:49:32.488152,user_2903,"Pune, Maharashtra",LocalForum,174,54,en
+post_0783,Great initiative by local authorities for health services. #positivechange,2025-06-01 15:58:32.488169,user_4171,"Chennai, Tamil Nadu",Instagram,31,95,en
+post_0784,Kolkata में noise pollution से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-29 14:12:32.488186,user_5946,"Kolkata, West Bengal",Facebook,42,34,en
+post_0785,Concerned about the rising illegal construction in our area. #safety,2025-05-25 18:03:32.488204,user_2293,"Chennai, Tamil Nadu",Facebook,161,60,hinglish
+post_0786,This new policy is a disaster for people in Nagpur.,2025-05-11 04:37:32.488224,user_3972,"Nagpur, Maharashtra",LocalForum,338,5,en
+post_0787,Just observing the situation regarding power cuts in Indore.,2025-05-09 07:12:32.488242,user_6287,"Indore, Madhya Pradesh",Twitter,338,64,en
+post_0788,Terrible traffic jam again in Bangalore. When will this be fixed? #civicissue,2025-05-28 16:55:32.488259,user_1999,"Bangalore, Karnataka",LocalForum,12,63,en
+post_0789,Concerned about the rising theft in our area. #safety,2025-05-04 05:42:32.488277,user_3763,"Delhi, Delhi",LocalForum,79,42,hi
+post_0790,No water supply in Indore for 3 days! #watercrisis @localMLA,2025-05-23 12:30:32.488295,user_1451,"Indore, Madhya Pradesh",Twitter,427,22,en
+post_0791,Terrible traffic jam again in Patna. When will this be fixed? #civicissue,2025-05-31 08:39:32.488312,user_1882,"Patna, Bihar",Instagram,312,71,en
+post_0792,Terrible traffic jam again in Bhopal. When will this be fixed? #civicissue,2025-05-26 18:05:32.488329,user_9566,"Bhopal, Madhya Pradesh",Facebook,450,15,hi
+post_0793,Garbage not collected in East Thane for a week. #swachhbharat?,2025-05-10 13:10:32.488347,user_5595,"Thane, Maharashtra",Twitter,463,71,en
+post_0794,Concerned about the rising theft in our area. #safety,2025-05-06 07:12:32.488364,user_6131,"Bangalore, Karnataka",Instagram,125,52,hi
+post_0795,Attended a meeting about health services in Ahmedabad today.,2025-05-23 03:34:32.488384,user_1139,"Ahmedabad, Gujarat",Facebook,400,5,hi
+post_0796,Great initiative by local authorities for infrastructure. #positivechange,2025-06-02 03:04:32.488401,user_7043,"Jaipur, Rajasthan",Instagram,333,68,en
+post_0797,Just observing the situation regarding waste management in Lucknow.,2025-05-11 08:02:32.488431,user_4104,"Lucknow, Uttar Pradesh",LocalForum,317,49,en
+post_0798,Great initiative by local authorities for environment. #positivechange,2025-05-17 23:42:32.488451,user_5821,"Patna, Bihar",Twitter,196,65,en
+post_0799,Concerned about the rising illegal construction in our area. #safety,2025-05-03 17:22:32.488470,user_9643,"Nagpur, Maharashtra",LocalForum,288,12,hinglish
+post_0800,Garbage not collected in South Mumbai for a week. #swachhbharat?,2025-05-13 10:54:32.488501,user_7358,"Mumbai, Maharashtra",Facebook,402,53,en
+post_0801,Weather in Hyderabad is quite rainy today.,2025-05-04 08:41:32.488518,user_8196,"Hyderabad, Telangana",Twitter,279,81,hi
+post_0802,This new policy is a disaster for people in Kanpur.,2025-05-23 23:04:32.488539,user_7361,"Kanpur, Uttar Pradesh",Twitter,61,28,hi
+post_0803,"The roads in Ward 14, Kanpur are in pathetic condition. #badroads",2025-05-23 15:59:32.488566,user_1517,"Kanpur, Uttar Pradesh",Facebook,57,68,hi
+post_0804,Just observing the situation regarding power cuts in Bangalore.,2025-05-05 23:56:32.488583,user_4802,"Bangalore, Karnataka",Facebook,176,75,hinglish
+post_0805,Power outage for hours in Kolkata! This is unacceptable. @ কর্তৃপক্ষ,2025-05-27 05:51:32.488601,user_7241,"Kolkata, West Bengal",LocalForum,344,34,en
+post_0806,Forwarded as received: all schools closing tomorrow in Bhopal! Is this true?,2025-05-18 06:01:32.488619,user_7309,"Bhopal, Madhya Pradesh",Twitter,21,25,hi
+post_0807,Endless wait times at the Police Station in Thane. #inefficiency,2025-05-22 09:22:32.488636,user_2518,"Thane, Maharashtra",Instagram,229,19,hinglish
+post_0808,This new policy is a disaster for people in Delhi.,2025-05-06 23:07:32.488662,user_3195,"Delhi, Delhi",Instagram,107,18,en
+post_0809,Great initiative by local authorities for education. #positivechange,2025-05-14 05:14:32.488680,user_3849,"Kanpur, Uttar Pradesh",Instagram,405,66,en
+post_0810,Bhopal में theft से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-27 17:34:32.488697,user_4849,"Bhopal, Madhya Pradesh",Instagram,72,96,hinglish
+post_0811,Forwarded as received: all schools closing tomorrow in Lucknow! Is this true?,2025-05-18 02:20:32.488714,user_5195,"Lucknow, Uttar Pradesh",Instagram,58,1,hinglish
+post_0812,Attended a meeting about public safety in Jaipur today.,2025-05-05 05:00:32.488731,user_3642,"Jaipur, Rajasthan",Facebook,153,88,hinglish
+post_0813,Chennai market seems busy as usual.,2025-05-23 11:46:32.488748,user_5757,"Chennai, Tamil Nadu",Twitter,434,47,en
+post_0814,Great initiative by local authorities for health services. #positivechange,2025-05-12 08:39:32.488766,user_9801,"Lucknow, Uttar Pradesh",Facebook,413,24,hinglish
+post_0815,Just observing the situation regarding traffic in Nagpur.,2025-05-21 07:12:32.488783,user_5396,"Nagpur, Maharashtra",Facebook,67,6,en
+post_0816,Weather in Kolkata is quite sunny today.,2025-05-16 23:25:32.488801,user_1082,"Kolkata, West Bengal",Facebook,384,9,hinglish
+post_0817,Forwarded as received: a dangerous chemical spill in Bangalore! Is this true?,2025-05-29 23:16:32.488818,user_3093,"Bangalore, Karnataka",Instagram,105,31,hinglish
+post_0818,Loving the new park in Bangalore! #community #goodgovernance,2025-05-27 16:23:32.488843,user_5937,"Bangalore, Karnataka",Twitter,369,26,hi
+post_0819,Just observing the situation regarding water shortage in Hyderabad.,2025-05-11 14:26:32.488861,user_2779,"Hyderabad, Telangana",LocalForum,340,24,hi
+post_0820,This new policy is a disaster for people in Lucknow.,2025-05-05 17:46:32.488886,user_4676,"Lucknow, Uttar Pradesh",LocalForum,378,72,en
+post_0821,Thank you for addressing the power cuts issue promptly!,2025-05-06 13:05:32.488903,user_1859,"Kolkata, West Bengal",Instagram,272,42,hi
+post_0822,Endless wait times at the Municipal Office in Kanpur. #inefficiency,2025-05-08 23:19:32.488921,user_5017,"Kanpur, Uttar Pradesh",Facebook,211,39,en
+post_0823,Just observing the situation regarding power cuts in Patna.,2025-05-26 15:08:32.488946,user_9342,"Patna, Bihar",Instagram,110,95,hinglish
+post_0824,Kanpur में theft से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-13 17:28:32.488963,user_7136,"Kanpur, Uttar Pradesh",Twitter,365,68,hinglish
+post_0825,Feeling hopeful about developments in Pune.,2025-05-22 16:27:32.488980,user_9252,"Pune, Maharashtra",LocalForum,433,66,hinglish
+post_0826,Great initiative by local authorities for health services. #positivechange,2025-05-04 07:50:32.488998,user_2551,"Hyderabad, Telangana",LocalForum,337,93,en
+post_0827,Delhi market seems busy as usual.,2025-05-17 09:51:32.489016,user_2361,"Delhi, Delhi",LocalForum,37,18,hinglish
+post_0828,Weather in Chennai is quite rainy today.,2025-05-29 19:05:32.489033,user_2993,"Chennai, Tamil Nadu",Facebook,357,64,hinglish
+post_0829,Garbage not collected in South Bangalore for a week. #swachhbharat?,2025-05-10 08:34:32.489056,user_1690,"Bangalore, Karnataka",Instagram,493,80,en
+post_0830,Thank you for addressing the waste management issue promptly!,2025-05-25 02:18:32.489074,user_9024,"Mumbai, Maharashtra",Instagram,294,59,hinglish
+post_0831,Concerned about the rising theft in our area. #safety,2025-05-06 07:07:32.489092,user_5744,"Patna, Bihar",Facebook,337,55,hinglish
+post_0832,Endless wait times at the Police Station in Thane. #inefficiency,2025-05-06 11:59:32.489112,user_9636,"Thane, Maharashtra",Instagram,57,59,en
+post_0833,Great initiative by local authorities for health services. #positivechange,2025-05-28 00:25:32.489140,user_6738,"Indore, Madhya Pradesh",Facebook,36,78,hinglish
+post_0834,Nagpur में बिजली की कटौती से जनता परेशान। #powercut,2025-05-05 14:27:32.489157,user_1062,"Nagpur, Maharashtra",Instagram,149,10,hinglish
+post_0835,"The roads in Ward 14, Kanpur are in pathetic condition. #badroads",2025-05-07 19:57:32.489174,user_9326,"Kanpur, Uttar Pradesh",Facebook,60,53,hinglish
+post_0836,Thank you for addressing the waste management issue promptly!,2025-05-10 04:33:32.489191,user_4278,"Bhopal, Madhya Pradesh",Twitter,128,54,en
+post_0837,This new policy is a disaster for people in Kolkata.,2025-05-30 18:23:32.489208,user_9312,"Kolkata, West Bengal",LocalForum,384,37,en
+post_0838,Garbage not collected in West Bangalore for a week. #swachhbharat?,2025-05-12 16:32:32.489226,user_1644,"Bangalore, Karnataka",Instagram,496,73,hinglish
+post_0839,Concerned about the rising theft in our area. #safety,2025-05-05 11:11:32.489246,user_3668,"Bangalore, Karnataka",Facebook,302,83,en
+post_0840,Great initiative by local authorities for public safety. #positivechange,2025-05-15 05:57:32.489271,user_1195,"Mumbai, Maharashtra",LocalForum,139,59,hinglish
+post_0841,बहुत अच्छा काम हो रहा है Thane में। #विकास,2025-05-06 08:19:32.489289,user_4606,"Thane, Maharashtra",Instagram,152,20,hinglish
+post_0842,Attended a meeting about infrastructure in Jaipur today.,2025-05-04 12:37:32.489309,user_7296,"Jaipur, Rajasthan",Facebook,236,54,en
+post_0843,Power outage for hours in Mumbai! This is unacceptable. @ কর্তৃপক্ষ,2025-05-19 09:29:32.489327,user_7121,"Mumbai, Maharashtra",Twitter,176,57,en
+post_0844,Garbage not collected in South Patna for a week. #swachhbharat?,2025-05-26 16:28:32.489344,user_8024,"Patna, Bihar",Facebook,212,60,en
+post_0845,Just observing the situation regarding crime in Bangalore.,2025-05-25 02:10:32.489361,user_3594,"Bangalore, Karnataka",LocalForum,38,21,hi
+post_0846,"The roads in Ward 13, Jaipur are in pathetic condition. #badroads",2025-05-24 10:56:32.489379,user_1086,"Jaipur, Rajasthan",Twitter,464,75,hinglish
+post_0847,Feeling hopeful about developments in Ahmedabad.,2025-05-10 16:58:32.489396,user_7968,"Ahmedabad, Gujarat",Instagram,382,85,hi
+post_0848,Hyderabad market seems busy as usual.,2025-05-24 17:24:32.489414,user_3700,"Hyderabad, Telangana",Instagram,159,45,en
+post_0849,Terrible traffic jam again in Nagpur. When will this be fixed? #civicissue,2025-05-13 17:13:32.489435,user_7038,"Nagpur, Maharashtra",Instagram,44,16,en
+post_0850,Forwarded as received: a dangerous chemical spill in Bangalore! Is this true?,2025-05-11 00:40:32.489453,user_5545,"Bangalore, Karnataka",Facebook,484,5,hi
+post_0851,Garbage not collected in South Delhi for a week. #swachhbharat?,2025-05-21 14:31:32.489471,user_5757,"Delhi, Delhi",LocalForum,245,32,hinglish
+post_0852,Thank you for addressing the waste management issue promptly!,2025-05-03 15:18:32.489492,user_8081,"Jaipur, Rajasthan",Instagram,498,77,hinglish
+post_0853,बहुत अच्छा काम हो रहा है Lucknow में। #विकास,2025-05-07 22:14:32.489510,user_9306,"Lucknow, Uttar Pradesh",LocalForum,419,33,en
+post_0854,Feeling hopeful about developments in Pune.,2025-05-24 22:33:32.489527,user_8178,"Pune, Maharashtra",Instagram,205,38,hinglish
+post_0855,Mumbai market seems busy as usual.,2025-05-10 17:07:32.489544,user_1146,"Mumbai, Maharashtra",Instagram,117,14,hinglish
+post_0856,Concerned about the rising illegal construction in our area. #safety,2025-05-03 08:53:32.489562,user_6628,"Delhi, Delhi",Instagram,136,46,en
+post_0857,Endless wait times at the Police Station in Patna. #inefficiency,2025-06-02 07:42:32.489579,user_3242,"Patna, Bihar",Twitter,329,39,en
+post_0858,Thank you for addressing the crime issue promptly!,2025-05-18 23:00:32.489597,user_2948,"Patna, Bihar",Twitter,433,97,hi
+post_0859,Attended a meeting about public safety in Hyderabad today.,2025-05-14 19:07:32.489615,user_2920,"Hyderabad, Telangana",LocalForum,417,92,hi
+post_0860,Great initiative by local authorities for infrastructure. #positivechange,2025-05-17 17:48:32.489632,user_6552,"Mumbai, Maharashtra",Instagram,244,63,en
+post_0861,Terrible traffic jam again in Ahmedabad. When will this be fixed? #civicissue,2025-05-05 01:37:32.489650,user_7160,"Ahmedabad, Gujarat",LocalForum,70,12,hinglish
+post_0862,This new policy is a disaster for people in Kanpur.,2025-05-28 15:58:32.489667,user_6126,"Kanpur, Uttar Pradesh",LocalForum,313,48,en
+post_0863,Patna में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-26 12:00:32.489685,user_2776,"Patna, Bihar",Instagram,61,16,hinglish
+post_0864,Terrible traffic jam again in Kolkata. When will this be fixed? #civicissue,2025-05-23 05:46:32.489702,user_4700,"Kolkata, West Bengal",LocalForum,490,31,en
+post_0865,Attended a meeting about health services in Lucknow today.,2025-05-07 16:36:32.489729,user_4893,"Lucknow, Uttar Pradesh",Facebook,155,72,hinglish
+post_0866,Great initiative by local authorities for education. #positivechange,2025-05-09 09:00:32.489746,user_8260,"Ahmedabad, Gujarat",Facebook,85,79,en
+post_0867,Just observing the situation regarding power cuts in Indore.,2025-05-24 13:17:32.489766,user_7773,"Indore, Madhya Pradesh",Twitter,232,70,hinglish
+post_0868,Power outage for hours in Chennai! This is unacceptable. @ কর্তৃপক্ষ,2025-05-19 13:42:32.489784,user_6057,"Chennai, Tamil Nadu",Facebook,424,44,en
+post_0869,Delhi में theft से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-19 05:50:32.489802,user_4764,"Delhi, Delhi",Facebook,429,29,en
+post_0870,Feeling hopeful about developments in Nagpur.,2025-05-09 00:43:32.489820,user_9575,"Nagpur, Maharashtra",Instagram,47,65,en
+post_0871,बहुत अच्छा काम हो रहा है Thane में। #विकास,2025-05-25 10:55:32.489838,user_3763,"Thane, Maharashtra",Facebook,238,56,hinglish
+post_0872,Forwarded as received: free money distribution in Ahmedabad! Is this true?,2025-05-26 04:46:32.489856,user_9923,"Ahmedabad, Gujarat",LocalForum,115,56,en
+post_0873,Feeling hopeful about developments in Kanpur.,2025-05-16 19:43:32.489878,user_7476,"Kanpur, Uttar Pradesh",Instagram,44,78,hinglish
+post_0874,Terrible traffic jam again in Bangalore. When will this be fixed? #civicissue,2025-05-13 22:32:32.489900,user_1002,"Bangalore, Karnataka",Twitter,181,77,en
+post_0875,बहुत अच्छा काम हो रहा है Lucknow में। #विकास,2025-05-25 09:57:32.489918,user_6626,"Lucknow, Uttar Pradesh",Facebook,59,74,hi
+post_0876,"The roads in Ward 18, Kolkata are in pathetic condition. #badroads",2025-05-07 21:29:32.489940,user_9026,"Kolkata, West Bengal",Facebook,413,1,hi
+post_0877,They are saying a secret plan is underway about the outsiders in Kolkata.,2025-05-03 15:52:32.489958,user_1670,"Kolkata, West Bengal",Twitter,123,97,en
+post_0878,Thank you for addressing the waste management issue promptly!,2025-05-04 08:46:32.489977,user_6167,"Nagpur, Maharashtra",Instagram,408,35,hinglish
+post_0879,"The roads in Ward 10, Indore are in pathetic condition. #badroads",2025-05-25 23:03:32.489995,user_7457,"Indore, Madhya Pradesh",LocalForum,356,44,en
+post_0880,Hyderabad में illegal construction से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-04 01:29:32.490012,user_4792,"Hyderabad, Telangana",Facebook,354,82,hi
+post_0881,Terrible traffic jam again in Delhi. When will this be fixed? #civicissue,2025-05-22 01:33:32.490030,user_3942,"Delhi, Delhi",Twitter,219,5,hinglish
+post_0882,Power outage for hours in Hyderabad! This is unacceptable. @ কর্তৃপক্ষ,2025-05-04 15:45:32.490051,user_1990,"Hyderabad, Telangana",Facebook,386,20,hinglish
+post_0883,Heard a rumor that a new lockdown is happening in Hyderabad. Can anyone confirm? #fakenewsalert,2025-05-08 04:19:32.490069,user_6876,"Hyderabad, Telangana",Facebook,469,61,hi
+post_0884,Endless wait times at the Police Station in Jaipur. #inefficiency,2025-05-23 20:19:32.490086,user_4516,"Jaipur, Rajasthan",Facebook,268,10,hinglish
+post_0885,Terrible traffic jam again in Patna. When will this be fixed? #civicissue,2025-05-11 16:53:32.490103,user_1615,"Patna, Bihar",LocalForum,58,56,en
+post_0886,Feeling hopeful about developments in Kanpur.,2025-05-25 19:02:32.490121,user_2629,"Kanpur, Uttar Pradesh",Twitter,221,75,hi
+post_0887,बहुत अच्छा काम हो रहा है Patna में। #विकास,2025-05-23 20:50:32.490139,user_4278,"Patna, Bihar",Twitter,335,80,en
+post_0888,Power outage for hours in Nagpur! This is unacceptable. @ কর্তৃপক্ষ,2025-05-08 06:11:32.490156,user_7539,"Nagpur, Maharashtra",Instagram,370,89,hinglish
+post_0889,Terrible traffic jam again in Nagpur. When will this be fixed? #civicissue,2025-05-10 14:29:32.490173,user_1383,"Nagpur, Maharashtra",LocalForum,61,37,en
+post_0890,Great initiative by local authorities for local events. #positivechange,2025-05-08 17:58:32.490190,user_3725,"Bhopal, Madhya Pradesh",LocalForum,450,93,hi
+post_0891,Weather in Mumbai is quite cloudy today.,2025-05-05 07:31:32.490208,user_7111,"Mumbai, Maharashtra",Twitter,155,20,hinglish
+post_0892,No water supply in Hyderabad for 3 days! #watercrisis @localMLA,2025-05-07 18:48:32.490225,user_1922,"Hyderabad, Telangana",Facebook,355,6,hi
+post_0893,Jaipur में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-11 22:22:32.490243,user_2230,"Jaipur, Rajasthan",Facebook,387,95,en
+post_0894,Concerned about the rising illegal construction in our area. #safety,2025-05-10 09:55:32.490261,user_4940,"Mumbai, Maharashtra",LocalForum,339,75,hinglish
+post_0895,Just observing the situation regarding waste management in Bhopal.,2025-06-02 01:00:32.490278,user_4748,"Bhopal, Madhya Pradesh",Facebook,62,21,hi
+post_0896,They are saying a secret plan is underway about the outsiders in Nagpur.,2025-05-27 11:29:32.490296,user_6710,"Nagpur, Maharashtra",LocalForum,4,59,en
+post_0897,Power outage for hours in Pune! This is unacceptable. @ কর্তৃপক্ষ,2025-05-09 18:11:32.490313,user_4759,"Pune, Maharashtra",Facebook,389,88,hi
+post_0898,Feeling hopeful about developments in Pune.,2025-05-09 18:02:32.490331,user_9092,"Pune, Maharashtra",Twitter,454,76,en
+post_0899,Terrible traffic jam again in Delhi. When will this be fixed? #civicissue,2025-05-27 14:59:32.490348,user_3378,"Delhi, Delhi",LocalForum,480,53,en
+post_0900,Terrible traffic jam again in Kolkata. When will this be fixed? #civicissue,2025-05-05 02:13:32.490366,user_9490,"Kolkata, West Bengal",Facebook,444,30,hinglish
+post_0901,Heard a rumor that a celebrity visit is happening in Chennai. Can anyone confirm? #fakenewsalert,2025-05-06 22:58:32.490384,user_5460,"Chennai, Tamil Nadu",Facebook,346,34,en
+post_0902,Warning! Unverified news about a local festival spreading in Mumbai.,2025-05-18 16:48:32.490401,user_3850,"Mumbai, Maharashtra",Facebook,499,74,hinglish
+post_0903,Terrible traffic jam again in Kanpur. When will this be fixed? #civicissue,2025-05-06 11:10:32.490419,user_7644,"Kanpur, Uttar Pradesh",Twitter,290,85,en
+post_0904,Great initiative by local authorities for environment. #positivechange,2025-05-27 18:37:32.490436,user_9305,"Kolkata, West Bengal",Instagram,432,95,hi
+post_0905,Chennai में बिजली की कटौती से जनता परेशान। #powercut,2025-05-29 09:46:32.490456,user_4839,"Chennai, Tamil Nadu",Instagram,234,57,hi
+post_0906,This new policy is a disaster for people in Kanpur.,2025-05-31 05:45:32.490473,user_5804,"Kanpur, Uttar Pradesh",LocalForum,340,9,hinglish
+post_0907,Garbage not collected in North Bangalore for a week. #swachhbharat?,2025-05-15 04:32:32.490503,user_5478,"Bangalore, Karnataka",Facebook,18,42,hinglish
+post_0908,Loving the new park in Bangalore! #community #goodgovernance,2025-05-31 22:18:32.490521,user_8832,"Bangalore, Karnataka",Facebook,275,47,en
+post_0909,Loving the new park in Bangalore! #community #goodgovernance,2025-05-14 09:37:32.490542,user_1650,"Bangalore, Karnataka",LocalForum,109,97,hi
+post_0910,This new policy is a disaster for people in Kolkata.,2025-05-11 03:02:32.490560,user_5996,"Kolkata, West Bengal",Facebook,50,20,hi
+post_0911,Feeling hopeful about developments in Bangalore.,2025-05-21 14:57:32.490577,user_6232,"Bangalore, Karnataka",Facebook,169,83,hi
+post_0912,Power outage for hours in Jaipur! This is unacceptable. @ কর্তৃপক্ষ,2025-05-27 18:50:32.490595,user_5383,"Jaipur, Rajasthan",Twitter,394,60,en
+post_0913,Attended a meeting about local events in Nagpur today.,2025-05-15 09:07:32.490617,user_8031,"Nagpur, Maharashtra",Facebook,470,74,en
+post_0914,Feeling hopeful about developments in Kolkata.,2025-05-12 20:56:32.490635,user_4414,"Kolkata, West Bengal",LocalForum,424,58,en
+post_0915,Garbage not collected in West Mumbai for a week. #swachhbharat?,2025-05-08 23:07:32.490653,user_3505,"Mumbai, Maharashtra",Facebook,405,82,en
+post_0916,Power outage for hours in Mumbai! This is unacceptable. @ কর্তৃপক্ষ,2025-06-02 01:57:32.490670,user_7336,"Mumbai, Maharashtra",LocalForum,142,75,hi
+post_0917,Power outage for hours in Patna! This is unacceptable. @ কর্তৃপক্ষ,2025-05-11 10:11:32.490691,user_8086,"Patna, Bihar",Facebook,208,92,en
+post_0918,Endless wait times at the Collectorate in Patna. #inefficiency,2025-05-19 18:11:32.490708,user_5529,"Patna, Bihar",Instagram,111,32,en
+post_0919,"The roads in Ward 15, Nagpur are in pathetic condition. #badroads",2025-05-10 21:46:32.490725,user_5875,"Nagpur, Maharashtra",Facebook,295,19,hinglish
+post_0920,Just observing the situation regarding crime in Kanpur.,2025-05-04 02:58:32.490755,user_8323,"Kanpur, Uttar Pradesh",Facebook,183,89,hinglish
+post_0921,Ahmedabad में illegal construction से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-03 19:48:32.490772,user_2857,"Ahmedabad, Gujarat",Instagram,292,48,en
+post_0922,Garbage not collected in South Indore for a week. #swachhbharat?,2025-05-28 06:25:32.490790,user_8605,"Indore, Madhya Pradesh",LocalForum,25,74,hi
+post_0923,They are saying a secret plan is underway about the outsiders in Jaipur.,2025-05-25 20:21:32.490807,user_4882,"Jaipur, Rajasthan",Instagram,149,19,en
+post_0924,Terrible traffic jam again in Indore. When will this be fixed? #civicissue,2025-05-26 00:35:32.490824,user_6021,"Indore, Madhya Pradesh",LocalForum,208,83,hinglish
+post_0925,Chennai में stray animals से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-13 09:45:32.490845,user_6866,"Chennai, Tamil Nadu",LocalForum,6,79,en
+post_0926,Terrible traffic jam again in Chennai. When will this be fixed? #civicissue,2025-05-20 17:05:32.490862,user_8382,"Chennai, Tamil Nadu",LocalForum,87,72,hi
+post_0927,बहुत अच्छा काम हो रहा है Indore में। #विकास,2025-05-30 13:41:32.490880,user_2257,"Indore, Madhya Pradesh",Twitter,464,94,en
+post_0928,Power outage for hours in Hyderabad! This is unacceptable. @ কর্তৃপক্ষ,2025-05-11 00:46:32.490897,user_4805,"Hyderabad, Telangana",Twitter,365,19,hi
+post_0929,Attended a meeting about public safety in Indore today.,2025-05-06 01:08:32.490918,user_6750,"Indore, Madhya Pradesh",Facebook,267,48,en
+post_0930,Great initiative by local authorities for public safety. #positivechange,2025-05-16 22:31:32.490935,user_7034,"Delhi, Delhi",LocalForum,493,10,hi
+post_0931,Loving the new park in Delhi! #community #goodgovernance,2025-05-31 14:54:32.490952,user_3411,"Delhi, Delhi",Facebook,57,33,hi
+post_0932,Concerned about the rising noise pollution in our area. #safety,2025-05-06 12:11:32.490970,user_3775,"Lucknow, Uttar Pradesh",Instagram,393,31,en
+post_0933,Just observing the situation regarding water shortage in Bhopal.,2025-05-13 17:24:32.490987,user_4155,"Bhopal, Madhya Pradesh",Facebook,386,36,hinglish
+post_0934,Terrible traffic jam again in Lucknow. When will this be fixed? #civicissue,2025-05-04 00:53:32.491008,user_6415,"Lucknow, Uttar Pradesh",Instagram,235,55,en
+post_0935,Just observing the situation regarding crime in Indore.,2025-05-11 00:50:32.491026,user_9301,"Indore, Madhya Pradesh",Twitter,191,7,hinglish
+post_0936,Attended a meeting about health services in Mumbai today.,2025-05-04 08:01:32.491043,user_1649,"Mumbai, Maharashtra",Facebook,38,27,hinglish
+post_0937,Thank you for addressing the traffic issue promptly!,2025-05-17 04:48:32.491061,user_5131,"Nagpur, Maharashtra",Twitter,100,25,hinglish
+post_0938,Loving the new park in Patna! #community #goodgovernance,2025-05-12 04:30:32.491079,user_6457,"Patna, Bihar",Facebook,447,37,en
+post_0939,Attended a meeting about infrastructure in Indore today.,2025-05-09 08:38:32.491096,user_8542,"Indore, Madhya Pradesh",Instagram,10,91,hinglish
+post_0940,Feeling hopeful about developments in Patna.,2025-05-20 03:23:32.491113,user_2289,"Patna, Bihar",LocalForum,423,23,hinglish
+post_0941,Terrible traffic jam again in Delhi. When will this be fixed? #civicissue,2025-05-30 20:13:32.491131,user_6462,"Delhi, Delhi",Instagram,144,64,en
+post_0942,Concerned about the rising illegal construction in our area. #safety,2025-05-10 22:04:32.491148,user_7324,"Indore, Madhya Pradesh",Instagram,183,97,hi
+post_0943,"The roads in Ward 19, Bhopal are in pathetic condition. #badroads",2025-05-24 10:48:32.491166,user_6208,"Bhopal, Madhya Pradesh",Twitter,175,17,hinglish
+post_0944,This new policy is a disaster for people in Delhi.,2025-05-14 20:21:32.491183,user_9080,"Delhi, Delhi",LocalForum,398,14,en
+post_0945,Attended a meeting about public safety in Nagpur today.,2025-05-18 09:22:32.491201,user_8692,"Nagpur, Maharashtra",Instagram,336,31,en
+post_0946,Power outage for hours in Indore! This is unacceptable. @ কর্তৃপক্ষ,2025-05-25 00:41:32.491219,user_8124,"Indore, Madhya Pradesh",Twitter,81,76,en
+post_0947,They are saying a secret plan is underway about the a large corporation in Bhopal.,2025-05-17 23:49:32.491236,user_4109,"Bhopal, Madhya Pradesh",LocalForum,210,59,hi
+post_0948,Attended a meeting about education in Delhi today.,2025-05-27 05:13:32.491254,user_8185,"Delhi, Delhi",Instagram,399,54,hinglish
+post_0949,They are saying a secret plan is underway about the outsiders in Patna.,2025-05-27 04:02:32.491274,user_3535,"Patna, Bihar",Twitter,396,80,en
+post_0950,Thank you for addressing the power cuts issue promptly!,2025-05-17 03:55:32.491291,user_6074,"Kanpur, Uttar Pradesh",Twitter,76,59,hinglish
+post_0951,Great initiative by local authorities for education. #positivechange,2025-05-07 18:30:32.491313,user_5405,"Bhopal, Madhya Pradesh",Instagram,131,38,hinglish
+post_0952,Concerned about the rising noise pollution in our area. #safety,2025-05-25 19:29:32.491330,user_4258,"Delhi, Delhi",Facebook,485,62,hinglish
+post_0953,Power outage for hours in Delhi! This is unacceptable. @ কর্তৃপক্ষ,2025-05-27 08:33:32.491347,user_1052,"Delhi, Delhi",Twitter,221,66,en
+post_0954,Endless wait times at the Police Station in Nagpur. #inefficiency,2025-05-06 05:16:32.491364,user_7901,"Nagpur, Maharashtra",LocalForum,225,79,en
+post_0955,Concerned about the rising noise pollution in our area. #safety,2025-05-12 02:53:32.491383,user_3294,"Bangalore, Karnataka",LocalForum,71,61,hi
+post_0956,Just observing the situation regarding pollution in Nagpur.,2025-05-09 02:47:32.491404,user_5482,"Nagpur, Maharashtra",Facebook,255,58,hinglish
+post_0957,Loving the new park in Indore! #community #goodgovernance,2025-05-21 15:02:32.491422,user_6918,"Indore, Madhya Pradesh",Facebook,348,68,hi
+post_0958,Terrible traffic jam again in Patna. When will this be fixed? #civicissue,2025-05-03 12:36:32.491440,user_5820,"Patna, Bihar",Facebook,249,83,en
+post_0959,Garbage not collected in East Thane for a week. #swachhbharat?,2025-05-26 10:57:32.491458,user_5620,"Thane, Maharashtra",Instagram,44,41,en
+post_0960,Weather in Ahmedabad is quite cloudy today.,2025-05-15 15:41:32.491476,user_3547,"Ahmedabad, Gujarat",Twitter,204,80,en
+post_0961,Weather in Bangalore is quite hot today.,2025-05-12 04:28:32.491494,user_4968,"Bangalore, Karnataka",Instagram,398,76,hinglish
+post_0962,Patna में illegal construction से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-16 08:03:32.491512,user_6447,"Patna, Bihar",Instagram,497,90,hinglish
+post_0963,Weather in Lucknow is quite rainy today.,2025-05-20 09:15:32.491529,user_9519,"Lucknow, Uttar Pradesh",LocalForum,263,58,hi
+post_0964,"The roads in Ward 7, Pune are in pathetic condition. #badroads",2025-05-07 17:02:32.491547,user_5876,"Pune, Maharashtra",Instagram,422,27,hi
+post_0965,Pune market seems busy as usual.,2025-05-08 16:06:32.491566,user_1721,"Pune, Maharashtra",Instagram,400,29,en
+post_0966,Bangalore में theft से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-26 19:29:32.491585,user_1497,"Bangalore, Karnataka",LocalForum,220,93,en
+post_0967,They are saying a secret plan is underway about the a large corporation in Delhi.,2025-05-15 19:18:32.491603,user_2647,"Delhi, Delhi",Twitter,54,80,en
+post_0968,This new policy is a disaster for people in Bangalore.,2025-05-25 13:09:32.491620,user_1142,"Bangalore, Karnataka",Instagram,200,51,hinglish
+post_0969,Power outage for hours in Jaipur! This is unacceptable. @ কর্তৃপক্ষ,2025-05-23 20:30:32.491638,user_8069,"Jaipur, Rajasthan",LocalForum,416,56,en
+post_0970,Heard a rumor that a protest march is happening in Mumbai. Can anyone confirm? #fakenewsalert,2025-05-13 23:07:32.491656,user_4072,"Mumbai, Maharashtra",Facebook,43,98,hinglish
+post_0971,Terrible traffic jam again in Ahmedabad. When will this be fixed? #civicissue,2025-05-23 06:45:32.491674,user_4871,"Ahmedabad, Gujarat",LocalForum,270,11,en
+post_0972,Endless wait times at the Police Station in Indore. #inefficiency,2025-06-01 19:47:32.491692,user_6048,"Indore, Madhya Pradesh",LocalForum,391,71,hinglish
+post_0973,Terrible traffic jam again in Pune. When will this be fixed? #civicissue,2025-05-06 21:00:32.491715,user_4303,"Pune, Maharashtra",Facebook,41,61,hinglish
+post_0974,Ahmedabad में theft से परेशान हूँ। कोई सुनवाई नहीं।,2025-05-14 21:22:32.491733,user_8850,"Ahmedabad, Gujarat",Twitter,350,16,en
+post_0975,Heard a rumor that a protest march is happening in Bhopal. Can anyone confirm? #fakenewsalert,2025-06-01 11:40:32.491750,user_9615,"Bhopal, Madhya Pradesh",Facebook,406,55,hinglish
+post_0976,Power outage for hours in Indore! This is unacceptable. @ কর্তৃপক্ষ,2025-05-27 10:11:32.491768,user_9100,"Indore, Madhya Pradesh",Instagram,492,63,en
+post_0977,Power outage for hours in Thane! This is unacceptable. @ কর্তৃপক্ষ,2025-05-14 10:53:32.491788,user_5322,"Thane, Maharashtra",Facebook,370,10,en
+post_0978,Forwarded as received: free money distribution in Patna! Is this true?,2025-05-09 15:40:32.491806,user_8282,"Patna, Bihar",Instagram,449,62,hinglish
+post_0979,Power outage for hours in Chennai! This is unacceptable. @ কর্তৃপক্ষ,2025-05-25 13:22:32.491824,user_5763,"Chennai, Tamil Nadu",Facebook,272,5,en
+post_0980,"The roads in Ward 15, Chennai are in pathetic condition. #badroads",2025-05-14 08:23:32.491840,user_2051,"Chennai, Tamil Nadu",Facebook,449,37,hi
+post_0981,Thank you for addressing the traffic issue promptly!,2025-05-11 03:10:32.491858,user_8411,"Delhi, Delhi",Instagram,67,85,hinglish
+post_0982,Indore में बिजली की कटौती से जनता परेशान। #powercut,2025-05-07 15:18:32.491875,user_3105,"Indore, Madhya Pradesh",LocalForum,268,51,en
+post_0983,Concerned about the rising theft in our area. #safety,2025-05-07 15:20:32.491893,user_2251,"Lucknow, Uttar Pradesh",LocalForum,246,59,en
+post_0984,They are saying a secret plan is underway about the the government in Mumbai.,2025-05-19 13:03:32.491910,user_6869,"Mumbai, Maharashtra",Facebook,359,55,hinglish
+post_0985,Terrible traffic jam again in Hyderabad. When will this be fixed? #civicissue,2025-05-07 07:19:32.491927,user_3863,"Hyderabad, Telangana",Twitter,295,96,en
+post_0986,This new policy is a disaster for people in Pune.,2025-05-22 00:37:32.491947,user_7513,"Pune, Maharashtra",Instagram,387,37,en
+post_0987,This new policy is a disaster for people in Indore.,2025-05-21 23:14:32.491964,user_1183,"Indore, Madhya Pradesh",Twitter,75,30,hi
+post_0988,Forwarded as received: free money distribution in Bangalore! Is this true?,2025-05-09 09:47:32.491981,user_9728,"Bangalore, Karnataka",Facebook,289,66,en
+post_0989,Great initiative by local authorities for public safety. #positivechange,2025-05-07 08:07:32.491999,user_2096,"Lucknow, Uttar Pradesh",Twitter,281,19,en
+post_0990,"The roads in Ward 15, Patna are in pathetic condition. #badroads",2025-05-25 22:42:32.492016,user_9002,"Patna, Bihar",Instagram,151,4,hi
+post_0991,This new policy is a disaster for people in Kanpur.,2025-05-30 16:12:32.492034,user_1270,"Kanpur, Uttar Pradesh",Instagram,162,75,en
+post_0992,बहुत अच्छा काम हो रहा है Indore में। #विकास,2025-05-24 11:17:32.492051,user_7305,"Indore, Madhya Pradesh",Instagram,470,94,en
+post_0993,Concerned about the rising noise pollution in our area. #safety,2025-05-15 12:49:32.492069,user_8299,"Indore, Madhya Pradesh",Facebook,86,47,en
+post_0994,Concerned about the rising noise pollution in our area. #safety,2025-05-10 17:00:32.492086,user_4672,"Mumbai, Maharashtra",Facebook,65,29,hi
+post_0995,This new policy is a disaster for people in Kolkata.,2025-05-30 11:36:32.492103,user_6552,"Kolkata, West Bengal",LocalForum,115,85,en
+post_0996,Forwarded as received: a dangerous chemical spill in Bangalore! Is this true?,2025-05-13 07:09:32.492122,user_3341,"Bangalore, Karnataka",Twitter,252,14,en
+post_0997,Terrible traffic jam again in Lucknow. When will this be fixed? #civicissue,2025-05-07 18:09:32.492140,user_1974,"Lucknow, Uttar Pradesh",Instagram,301,24,hi
+post_0998,Garbage not collected in North Bangalore for a week. #swachhbharat?,2025-05-12 08:04:32.492157,user_3672,"Bangalore, Karnataka",Twitter,362,46,en
+post_0999,Just observing the situation regarding power cuts in Kanpur.,2025-05-11 04:34:32.492177,user_9721,"Kanpur, Uttar Pradesh",LocalForum,148,91,en

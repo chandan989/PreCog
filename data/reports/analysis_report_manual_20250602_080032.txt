@@ -1,0 +1,46 @@
+============================================================
+          HYPERLOCAL INTELLIGENCE ANALYSIS REPORT           
+============================================================
+Generated: 2025-06-02 08:00:32
+
+--- SENTIMENT ANALYSIS SUMMARY ---
+Location: Ahmedabad, Gujarat
+  Avg Sentiment: -0.108, Alert Level: LOW, Posts: 60
+  Top Issues: ahmedabad (47), bad (47), today (9)
+
+Location: Bangalore, Karnataka
+  Avg Sentiment: -0.085, Alert Level: NORMAL, Posts: 66
+  Top Issues: bangalore (55), new (10), traffic (7)
+
+Location: Bhopal, Madhya Pradesh
+  Avg Sentiment: -0.047, Alert Level: NORMAL, Posts: 66
+  Top Issues: bhopal (56), observing (7), situation (7)
+
+Location: Chennai, Tamil Nadu
+  Avg Sentiment: -0.221, Alert Level: LOW, Posts: 53
+  Top Issues: chennai (44), में (8), परेशान (8)
+
+Location: Delhi, Delhi
+  Avg Sentiment: -0.185, Alert Level: LOW, Posts: 72
+  Top Issues: delhi (59), traffic (11), fixed (10)
+
+--- ANOMALY ALERTS ---
+No anomaly alerts detected.
+
+--- FRICTION RISK ASSESSMENT ---
+No significant friction risks identified.
+
+--- MISINFORMATION MONITORING ---
+Active Misinformation Threads: 404
+  📢 Narrative: Uncategorized narrative starting with: generic_narrative_-44695183384..., Velocity: 1000000.00, Locations: Hyderabad, Telangana, Credibility: 0.50
+  📢 Narrative: Uncategorized narrative starting with: generic_narrative_639694648882..., Velocity: 1000000.00, Locations: Mumbai, Maharashtra, Credibility: 0.50
+
+--- INTERVENTION RECOMMENDATIONS ---
+ IMMEDIATE ACTIONS:
+    • Issue pre-bunking/debunking message on official channels regarding 'Uncategorized narrative starting with: generic_narrative_-44695183384...'.
+    • Issue pre-bunking/debunking message on official channels regarding 'Uncategorized narrative starting with: generic_narrative_639694648882...'.
+    • Issue pre-bunking/debunking message on official channels regarding 'Uncategorized narrative starting with: generic_narrative_-40422208244...'.
+
+============================================================
+                       End of Report                        
+============================================================
