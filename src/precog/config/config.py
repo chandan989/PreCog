@@ -35,8 +35,8 @@ SYNTHETIC_FRICTION_DATA_SIZE = 1000
 
 # --- External API Keys (Placeholders - DO NOT COMMIT REAL KEYS) ---
 # Example for Azure OpenAI (if used in the future)
-AZURE_OPENAI_API_KEY = os.environ.get("AZURE_OPENAI_API_KEY", "b9ba1b47e18f48dc9b86248752c80395")
-AZURE_OPENAI_ENDPOINT = os.environ.get("AZURE_OPENAI_ENDPOINT", "https://ravager-base.openai.azure.com/")
+AZURE_OPENAI_API_KEY = os.environ.get("AZURE_OPENAI_API_KEY", "")
+AZURE_OPENAI_ENDPOINT = os.environ.get("AZURE_OPENAI_ENDPOINT", "")
 AZURE_OPENAI_API_VERSION = "2025-01-01-preview"
 AZURE_OPENAI_DEPLOYMENT_NAME = "gpt-4.1" # e.g., gpt-35-turbo or gpt-4
 
