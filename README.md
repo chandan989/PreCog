@@ -42,7 +42,7 @@ PreCog AI offers a multi-faceted solution designed to address these challenges h
 
 See a demonstration of PreCog AI's capabilities in identifying and addressing potential social friction:
 
-[Watch the PreCog AI Demo](dash_demo.mp4)
+https://github.com/user-attachments/assets/8cd5c3da-1fde-49e7-bbca-76086fd7d6ae
 
 ## Key Features & Capabilities
 
