@@ -1,0 +1,13 @@
+# Analysis Package
+
+This package contains modules and scripts responsible for performing data analysis within the PreCog application. It includes tools for sentiment analysis, anomaly detection, misinformation identification, and friction risk prediction.
+
+## Modules
+
+- **`anomaly_detector.py`**: Implements the `SentimentAnomalyDetector` class. This module uses an Isolation Forest model to identify unusual patterns in sentiment data. It considers features such as sentiment scores and misinformation likelihood to detect anomalies. The detector can be trained on baseline data and subsequently used to flag new data points that deviate significantly, generating `SentimentAlert` objects for further action.
+
+- **`friction_predictor.py`**: Contains the `FrictionPointPredictor` class, which employs a Random Forest classifier to assess and predict the risk of social friction in various geographical locations. The model can be trained using synthetic or real-world data, incorporating features like average negative sentiment, volume of grievance-related posts, and the rate of misinformation spread. It outputs `FrictionRisk` objects, detailing the predicted risk level, timeline, and contributing factors for each location.
+
+- **`misinformation_detector.py`**: Defines the `MisinformationDetector` class, designed to analyze textual content and assess its likelihood of being misinformation. This module utilizes a rich set of linguistic and contextual indicators tailored to the Indian socio-cultural landscape. These indicators include sensational language, claims of urgency, reliance on unverified sources, strong emotional appeals, extreme political bias, cues related to health misinformation, conspiracy theories, and content aimed at religious divisiveness. The detector also cross-references content with lists of known fake news domains and a database of news source credibility. It can integrate with an LLM client for enhanced analytical capabilities and generates `MisinformationAlert` objects when potential misinformation is detected.
+
+- **`sentiment_analyzer.py`**: Features the `SentimentAnalyzer` class, which performs nuanced sentiment analysis on text. It provides a comprehensive assessment including polarity (positive, negative, neutral), subjectivity, dominant emotions, and key themes. The analyzer uses a hybrid approach, combining established tools like VADER and TextBlob with custom-developed lexicons and rules that are sensitive to Indian languages, regional expressions, and specific contexts such as civic grievances, social tension, and discussions around civic improvements. It effectively handles linguistic nuances like negation, intensifiers, and idiomatic expressions.

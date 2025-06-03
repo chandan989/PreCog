@@ -26,12 +26,12 @@
     &quot;assignee&quot;: &quot;chandan989&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/chandan989/PreCog&quot;,
-    &quot;accountId&quot;: &quot;52b8cff5-cc0c-44ba-b2a6-72258b927596&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/chandan989/PreCog.git",
+    "accountId": "52b8cff5-cc0c-44ba-b2a6-72258b927596"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/scripts/test_enhancements.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -169,6 +169,7 @@
       <workItem from="1748834808889" duration="328000" />
       <workItem from="1748835258631" duration="340000" />
       <workItem from="1748845843178" duration="334000" />
+      <workItem from="1748926014647" duration="46000" />
     </task>
     <task id="LOCAL-00001" summary="Introducing PreCog">
       <option name="closed" value="true" />
